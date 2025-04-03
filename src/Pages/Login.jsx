@@ -14,12 +14,45 @@ function Login({ onLogin }) {
             onLogin({ email, password });
         }
 
-        navigate('/dashboard'); 
+        navigate('/shop'); 
     };
     return (
         <div>
-            <h1>Login</h1>
+        <h1>Login</h1>
+        <form onSubmit={handleSubmit}>
+          <div>
+            <label htmlFor="email">Email Address</label>
+            <input
+              id="email"
+              type="email"
+              placeholder="Email Address"
+              value={email}
+              onChange={(e) => setEmail(e.target.value)}
+              required
+            />
+          </div>
+
+          <div>
+            <label htmlFor="password">Password</label>
+            <input
+              id="password"
+              type="password"
+              placeholder="Password"
+              value={password}
+              onChange={(e) => setPassword(e.target.value)}
+              required
+            />
+          </div>
+
+          <button type="submit">
+            Log In
+          </button>
+        </form>
+        <div>
+          <p>Yet to have an account?</p>
+          <button onClick={() => navigate('/signup')}>SignUp Here</button>   
         </div>
+      </div>
     );
 }
 
