@@ -1,0 +1,104 @@
+:root {
+  --red: #ff0000;
+  --Night: #0B090A;
+  --Eerie-black: #161A1D;
+  --Blood-red: #660708;
+  --Cornell-red: #A4161A;
+  --Imperial-red: #E5383B;
+  --Silver: #B1A7A6;
+  --Timberwolf: #D3D3D3;
+  --White-smoke: #F5F3F4;
+  --White: #FFFFFF;
+}
+
+/* General Styling */
+.about-container {
+  font-family: 'Arial', sans-serif;
+  color: var(--Eerie-black);
+  background-color: var(--White);
+  text-align: center;
+}
+
+/* Hero Section */
+.hero {
+  padding: 80px 20px;
+  background: linear-gradient(135deg, var(--Blood-red), var(--Cornell-red));
+  color: var(--White);
+}
+
+.hero-title {
+  font-size: 2.8rem;
+  font-weight: bold;
+}
+
+.hero-subtitle {
+  font-size: 1.2rem;
+  margin-top: 10px;
+}
+
+/* Section Titles */
+.section-title {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: var(--Blood-red);
+}
+
+/* Features, Tech Stack, and Team Sections */
+.features, .tech-stack, .team, .cta {
+  padding: 60px 20px;
+}
+
+/* Feature & Team Cards */
+.feature-grid, .team-grid, .tech-icons {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.feature-card, .team-card {
+  background: var(--White-smoke);
+  padding: 20px;
+  border-radius: 10px;
+  transition: 0.3s;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.feature-card:hover, .team-card:hover {
+  background: var(--Timberwolf);
+  color: var(--Eerie-black);
+}
+
+/* Tech Icons */
+.tech-icons {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+
+.tech-item img {
+  height: 60px;
+  width: auto;
+}
+
+/* Call-to-Action */
+.cta {
+  background: var(--White-smoke);
+  padding: 50px 20px;
+}
+
+.cta-button {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 12px 20px;
+  background: var(--Blood-red);
+  color: var(--White);
+  border-radius: 8px;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.cta-button:hover {
+  background: var(--Cornell-red);
+}
