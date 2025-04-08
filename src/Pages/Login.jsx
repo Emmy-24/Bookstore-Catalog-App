@@ -6,11 +6,15 @@ const Login = () => {
         const [action, setAction] = useState('');
 
         const registerLink = () => {
-            setAction('active');
+            setAction(' active');
         };
 
+        const loginLink = () => {
+          setAction('');
+      };
+
   return (
-    <><div className={'wrapper${action}'}>
+    <div className={`wrapper${action}`}>
       <div className="form-box login">
         <form action="">
           <h1>Login</h1>
@@ -36,7 +40,7 @@ const Login = () => {
         </form>
       </div>
 
-      <div className="form-box-register">
+      <div className="form-box register">
         <form action="">
           <h1>Sign Up</h1>
           <div className="input-box">
@@ -63,11 +67,11 @@ const Login = () => {
           <button type="submit">Sign up</button>
 
           <div className="register-link">
-            <p>Already have an account? <a href="#">Login</a></p>
+            <p>Already have an account? <a href="#" onClick={loginLink}>Login</a></p>
           </div>
         </form>
       </div>
-    </div></>
+    </div>
     
   )
 }
