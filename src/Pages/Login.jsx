@@ -35,6 +35,8 @@ const Login = () => {
   };
 
   return (
+    <div className="flex justify-center">
+
     <div className={`wrapper${action}`}>
       <div className="form-box login">
         <form onSubmit={handleLogin}>
@@ -102,6 +104,8 @@ const Login = () => {
           </div>
         </form>
       </div>
+    </div>
+
     </div>
   );
 };
