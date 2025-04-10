@@ -1,21 +1,25 @@
+@import "tailwindcss";
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
 
-* {
+/* * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
+}*/
 
 body {
     font-family: "Poppins", sans-serif;
+    /*background-color: #E5383B;
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
+    min-height: 100vh;*/
     background: url(./assets/backgroung.webp)no-repeat;
     background-size: cover;
     background-position: center;
-}:root {
+} 
+
+:root {
   --red: #ff0000;
   --Night: #0B090A;
   --Eerie-black: #161A1D;

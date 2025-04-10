@@ -1,9 +1,9 @@
 import React from 'react'
 import HeroImg from '../assets/banner.png'
 
-
 const Hero = () => {
   return (
+    <>
     <div className='flex flex-col md:flex-row-reverse py-16 justify-between items-center gap-12'>
      <div className="md:w-1/2 w-full flex items-center md:justify-end">
      <img src={HeroImg} alt="" />
@@ -16,8 +16,10 @@ const Hero = () => {
      </p>
      <button className="">Subscibe</button>
      </div>
-
     </div>
+    
+    </>
+
     
   )
 }
