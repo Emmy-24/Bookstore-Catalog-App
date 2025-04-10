@@ -96,6 +96,7 @@
     margin-top: 0.7rem;
 }
   
+
 .book-info a {
     display: inline-block;
     margin-right: 10px;
@@ -131,3 +132,29 @@
     color: #999;
 }
   
+.sort-options {
+  margin: 1.25rem auto;
+  text-align: center;
+}
+
+.sort-options select {
+  padding: .625rem .9375rem;
+  font-size: 1rem;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  outline: none;
+  background-color: #fff;
+  color: #333;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+}
+
+.sort-options select:hover {
+  border-color: #007bff;
+}
+
+.sort-options select:focus {
+  border-color: #007bff;
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.4);
+}

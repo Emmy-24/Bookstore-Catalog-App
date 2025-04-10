@@ -1,29 +1,62 @@
 import React, { useState } from 'react';
+import { useAuth } from '../Auth';
+import { useNavigate } from 'react-router-dom';
 import './Login.css';
 import { FaUser, FaLock, FaEnvelope } from "react-icons/fa";
 
 const Login = () => {
-        const [action, setAction] = useState('');
+  const [action, setAction] = useState('');
+  const [email, setEmail] = useState('');
+  const [password, setPassword] = useState('');
 
-        const registerLink = () => {
-            setAction(' active');
-        };
+  const { setUser } = useAuth();
+  const navigate = useNavigate();
 
-        const loginLink = () => {
-          setAction('');
-      };
+  const registerLink = () => {
+    setAction(' active');
+  };
+
+  const loginLink = () => {
+    setAction('');
+  };
+
+  const handleLogin = (e) => {
+    e.preventDefault();
+
+    if (email && password) {
+      setUser({ email });
+
+      if (email.includes('@bookstore.com')) {
+        navigate('/admin');
+      } else {
+        navigate('/shop');
+      }
+    }
+  };
 
   return (
     <div className={`wrapper${action}`}>
       <div className="form-box login">
-        <form action="">
+        <form onSubmit={handleLogin}>
           <h1>Login</h1>
           <div className="input-box">
-            <input type="text" placeholder='Username' required />
+            <input
+              type="email"
+              placeholder='Email'
+              required
+              value={email}
+              onChange={(e) => setEmail(e.target.value)}
+            />
             <FaUser className='icon' />
           </div>
           <div className="input-box">
-            <input type="password" placeholder='Password' required />
+            <input
+              type="password"
+              placeholder='Password'
+              required
+              value={password}
+              onChange={(e) => setPassword(e.target.value)}
+            />
             <FaLock className='icon' />
           </div>
 
@@ -41,7 +74,7 @@ const Login = () => {
       </div>
 
       <div className="form-box register">
-        <form action="">
+        <form>
           <h1>Sign Up</h1>
           <div className="input-box">
             <input type="text" placeholder='Username' required />
@@ -59,9 +92,7 @@ const Login = () => {
           </div>
 
           <div className="remember-forgot">
-            <label><input type="checkbox" />I agree to the
-            terms & conditions</label>
-            
+            <label><input type="checkbox" />I agree to the terms & conditions</label>
           </div>
 
           <button type="submit">Sign up</button>
@@ -72,8 +103,7 @@ const Login = () => {
         </form>
       </div>
     </div>
-    
-  )
-}
+  );
+};
 
-export default Login
+export default Login;
