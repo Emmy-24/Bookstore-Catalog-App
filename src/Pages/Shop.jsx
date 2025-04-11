@@ -6,24 +6,39 @@ const Shop = () => {
   const [books, setBooks] = useState([]);
   const [expandedBooks, setExpandedBooks] = useState({});
   const [prices, setPrices] = useState({});
+  const [filteredBooks, setFilteredBooks] = useState([]);
+  const [allBooks, setAllBooks] = useState([]);
   const [sortOption, setSortOption] = useState("title");
-  const [cart, setCart] = useState([]);
 
-  // Load books from localStorage
+
   useEffect(() => {
-    const storedBooks = JSON.parse(localStorage.getItem("books")) || [];
-    setBooks(storedBooks);
+    fetch("/books.json") 
+      .then((response) => response.json())
+      .then((data) => {
+        setBooks(data); 
+        setAllBooks(data);
+        setFilteredBooks(data);
+      })
+      .catch((error) => console.error("Error loading books:", error));
   }, []);
 
   const handleSearch = () => {
-    const storedBooks = JSON.parse(localStorage.getItem("books")) || [];
-    const filtered = storedBooks.filter(book => {
-      const title = book.volumeInfo.title.toLowerCase();
-      const authors = book.volumeInfo.authors?.join(" ").toLowerCase() || "";
-      return title.includes(query.toLowerCase()) || authors.includes(query.toLowerCase());
-    });
-    setBooks(filtered);
+    if (query.trim() === "") {
+      setBooks(allBooks); 
+    } else {
+      const filtered = allBooks.filter((book) => {
+        const title = book.volumeInfo.title?.toLowerCase() || "";
+        const authors = book.volumeInfo.authors?.join(" ").toLowerCase() || "";
+        return title.includes(query.toLowerCase()) || authors.includes(query.toLowerCase());
+      });
+      setBooks(filtered); 
+    }
   };
+
+  useEffect(() => {
+    handleSearch();
+  }, [query]);
+  
 
   const toggleDetails = (id) => {
     setExpandedBooks((prev) => ({
@@ -56,24 +71,6 @@ const Shop = () => {
     return sorted;
   };
 
-  const addToCart = (book) => {
-    setCart((prevCart) => {
-      const existingBookIndex = prevCart.findIndex((item) => item.id === book.id);
-      if (existingBookIndex !== -1) {
-        return prevCart;
-      }
-      return [...prevCart, { ...book, price: prices[book.id] || 0 }];
-    });
-  };
-
-  const removeFromCart = (bookId) => {
-    setCart((prevCart) => prevCart.filter((item) => item.id !== bookId));
-  };
-
-  const calculateTotalPrice = () => {
-    return cart.reduce((total, book) => total + (book.price || 0), 0);
-  };
-
   return (
     <div className="shop-container">
       <div className="search-bar">
@@ -96,7 +93,7 @@ const Shop = () => {
       </div>
 
       <div className="books-area">
-      {Array.from(new Map(sortedBooks().map(book => [book.id, book])).values()).map((book, index) => {
+        {Array.from(new Map(sortedBooks().map(book => [book.id, book])).values()).map((book, index) => {
           const info = book.volumeInfo;
           const image = info.imageLinks?.thumbnail;
 
@@ -132,33 +129,13 @@ const Shop = () => {
                     </div>
                   </div>
                 )}
-                <button onClick={() => addToCart(book)} className="toggle-button">
-                  Add to Cart
-                </button>
               </div>
             </div>
           );
         })}
       </div>
 
-      <div className="cart-summary">
-        <h3>Cart Summary</h3>
-        {cart.length === 0 ? (
-          <p>Your cart is empty.</p>
-        ) : (
-          <div>
-            <ul>
-              {cart.map((book) => (
-                <li key={book.id}>
-                  <strong>{book.volumeInfo.title}</strong> - ₦{book.price}
-                  <button onClick={() => removeFromCart(book.id)}>Remove</button>
-                </li>
-              ))}
-            </ul>
-            <p>Total Price: ₦{calculateTotalPrice()}</p>
-          </div>
-        )}
-      </div>
+      
     </div>
   );
 };
