@@ -112,7 +112,7 @@ const Shop = () => {
                 </p>
                 <p>
                   <strong>Price:</strong>{" "}
-                  {prices[book.id] ? `₦${prices[book.id]}` : 0}
+                  {book.price ? `$${book.price}` : "$0"}
                 </p>
                 <button className="toggle-button" onClick={() => toggleDetails(book.id)}>
                   {expandedBooks[book.id] ? "Hide Details" : "More Details"}

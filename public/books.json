@@ -70,7 +70,8 @@
     },
     "searchInfo": {
       "textSnippet": "Nobody knew why, but when the boys and girls reached a certain age the parents locked themselves up in their houses, and the teenagers ran wild."
-    }
+    },
+    "price": 10.82
   },
   {
     "kind": "books#volume",
@@ -145,7 +146,8 @@
     },
     "searchInfo": {
       "textSnippet": "Noveller. A collection of thirteen short stories which explores themes of art, the supernatural, madness, and the extremes of sexuality"
-    }
+    },
+    "price": 26.48
   },
   {
     "kind": "books#volume",
@@ -220,7 +222,8 @@
     },
     "searchInfo": {
       "textSnippet": "Half of a Yellow Sun is a tremendously evocative novel of the promise, hope, and disappointment of the Biafran war."
-    }
+    },
+    "price": 60.74
   },
   {
     "kind": "books#volume",
@@ -294,7 +297,8 @@
     },
     "searchInfo": {
       "textSnippet": "PRAISE FOR THE WAYFARERS &#39;Never less than deeply involving&#39; DAILY MAIL &#39;Explores the quieter side of sci-fi while still wowing us with daring leaps of imagination&#39; iBOOKS &#39;So much fun to read&#39; HEAT &#39;Warm, engaging, properly science ..."
-    }
+    },
+    "price": 6.69
   },
   {
     "kind": "books#volume",
@@ -366,7 +370,8 @@
     },
     "searchInfo": {
       "textSnippet": "Magnus has a past even more shrouded in mystery than his present. This story tells of Alec and Magnus&#39;s first date."
-    }
+    },
+    "price": 58.1
   },
   {
     "kind": "books#volume",
@@ -436,7 +441,8 @@
     },
     "searchInfo": {
       "textSnippet": "&quot;The Tales of Mother Goose&quot; (French: &quot;Histoires ou contes de temps passé, avec des moralités&quot;) is a collection of classic French fairy tales written by Charles Perrault and first published in 1697."
-    }
+    },
+    "price": 27.32
   },
   {
     "kind": "books#volume",
@@ -510,7 +516,8 @@
     },
     "searchInfo": {
       "textSnippet": "In Get to the Point!, Joel Schwartzberg supplies useful tools to deliver your points with impact and elegance.” —David Brancaccio, host and senior editor, Marketplace Morning Report"
-    }
+    },
+    "price": 43.04
   },
   {
     "kind": "books#volume",
@@ -584,7 +591,8 @@
     },
     "searchInfo": {
       "textSnippet": "This is a book about the power game currently being played out between two symbiotic cultural institutions: the university and the novel."
-    }
+    },
+    "price": 37.58
   },
   {
     "kind": "books#volume",
@@ -660,7 +668,8 @@
     },
     "searchInfo": {
       "textSnippet": "In this rousingly good ghost story, Setterfield&#39;s debut novel rejuvenates the genre with a closely plotted, clever foray into a world of secrets, confused identities, lies, and half-truths."
-    }
+    },
+    "price": 15.62
   },
   {
     "kind": "books#volume",
@@ -736,7 +745,8 @@
     },
     "searchInfo": {
       "textSnippet": "BE WARNED…once known, Universal Fantasy cannot be undiscovered. Leave this book be if you’re truly satisfied with your current writing life."
-    }
+    },
+    "price": 58.43
   },
   {
     "kind": "books#volume",
@@ -812,7 +822,8 @@
     },
     "searchInfo": {
       "textSnippet": "A new epic fantasy series from the New York Times bestselling author chosen to complete Robert Jordan&#39;s The Wheel of Time® Series"
-    }
+    },
+    "price": 20.88
   },
   {
     "kind": "books#volume",
@@ -885,7 +896,8 @@
     },
     "searchInfo": {
       "textSnippet": "All that remains of Severin are fragments. Can these snippets of scenes and shots, voices and memories, pages and recordings be collected and pieced together to tell the story of her life - and shed light on the mystery of her vanishing?"
-    }
+    },
+    "price": 25.51
   },
   {
     "kind": "books#volume",
@@ -950,7 +962,8 @@
       "webReaderLink": "http://play.google.com/books/reader?id=YVo2AAAAMAAJ&hl=&source=gbs_api",
       "accessViewStatus": "NONE",
       "quoteSharingAllowed": false
-    }
+    },
+    "price": 50.14
   },
   {
     "kind": "books#volume",
@@ -1023,7 +1036,8 @@
     },
     "searchInfo": {
       "textSnippet": "A thrilling and atmospheric mystery, and an unforgettable portrait of the contemporary Nigerian sociopolitical landscape, Lightseekers is a wrenching novel tackling the porousness between the first and third worlds, the enduring strength of ..."
-    }
+    },
+    "price": 57.4
   },
   {
     "kind": "books#volume",
@@ -1096,7 +1110,8 @@
     },
     "searchInfo": {
       "textSnippet": "Orangeboy with an Inception-style twist.&#39; - Kat Ellis &#39;Ambitious and highly addictive&#39; - The Bookseller &#39;This is a book I will return to time and time again&#39; - Caleb Femi &#39;So happy this exists&#39; - Daniel Kaluuya, Academy Award-winning actor"
-    }
+    },
+    "price": 25.16
   },
   {
     "kind": "books#volume",
@@ -1170,7 +1185,8 @@
     },
     "searchInfo": {
       "textSnippet": "In this book, our heroine&#39;s story comes to life as a tale of hope and personal discovery... a tale of a girl whose hopes and fears were not all that different from young women today."
-    }
+    },
+    "price": 40.55
   },
   {
     "kind": "books#volume",
@@ -1239,7 +1255,8 @@
     },
     "searchInfo": {
       "textSnippet": "&quot;Horsfall&#39;s novel reads with breathless ease. . . . This is fiction at its heart warming best."
-    }
+    },
+    "price": 12.99
   },
   {
     "kind": "books#volume",
@@ -1315,7 +1332,8 @@
     },
     "searchInfo": {
       "textSnippet": "This story and six more groundbreaking and inventive tales that probe the depths of mortal experience prove why Grand Master of Science Fiction Harlan Ellison has earned the many accolades to his credit and remains one of the most original ..."
-    }
+    },
+    "price": 29.46
   },
   {
     "kind": "books#volume",
@@ -1388,7 +1406,8 @@
     },
     "searchInfo": {
       "textSnippet": "Geronimo Stilton series #10."
-    }
+    },
+    "price": 35.9
   },
   {
     "kind": "books#volume",
@@ -1458,7 +1477,8 @@
     },
     "searchInfo": {
       "textSnippet": "These stories have been enjoyed by generation after generation of children in many countries, and are here, waiting to be enjoyed again."
-    }
+    },
+    "price": 13.15
   },
   {
     "kind": "books#volume",
@@ -1534,7 +1554,8 @@
     },
     "searchInfo": {
       "textSnippet": "This story and six more groundbreaking and inventive tales that probe the depths of mortal experience prove why Grand Master of Science Fiction Harlan Ellison has earned the many accolades to his credit and remains one of the most original ..."
-    }
+    },
+    "price": 42.51
   },
   {
     "kind": "books#volume",
@@ -1607,7 +1628,8 @@
     },
     "searchInfo": {
       "textSnippet": "Geronimo Stilton series #10."
-    }
+    },
+    "price": 20.1
   },
   {
     "kind": "books#volume",
@@ -1677,7 +1699,8 @@
     },
     "searchInfo": {
       "textSnippet": "These stories have been enjoyed by generation after generation of children in many countries, and are here, waiting to be enjoyed again."
-    }
+    },
+    "price": 13.35
   },
   {
     "kind": "books#volume",
@@ -1750,7 +1773,8 @@
     },
     "searchInfo": {
       "textSnippet": "Philip K Dick trips the switches of our minds with his vision of the world as it might have been- the African continent virtually wiped out, the Mediterranean drained to make farmland, the United States divided between the Japanese and the ..."
-    }
+    },
+    "price": 19.36
   },
   {
     "kind": "books#volume",
@@ -1826,7 +1850,8 @@
     },
     "searchInfo": {
       "textSnippet": "As a 29-year Army and Army Reserve Colonel, I urge everyone--especially women--to read this important book."
-    }
+    },
+    "price": 59.52
   },
   {
     "kind": "books#volume",
@@ -1899,7 +1924,8 @@
     },
     "searchInfo": {
       "textSnippet": "• DUNE: PART TWO • THE MAJOR MOTION PICTURE Directed by Denis Villeneuve, screenplay by Denis Villeneuve and Jon Spaihts, based on the novel Dune by Frank Herbert • Starring Timothée Chalamet, Zendaya, Rebecca Ferguson, Josh Brolin, ..."
-    }
+    },
+    "price": 20.77
   },
   {
     "kind": "books#volume",
@@ -1975,7 +2001,8 @@
     },
     "searchInfo": {
       "textSnippet": "INSTANT #1 BESTSELLER!"
-    }
+    },
+    "price": 51.28
   },
   {
     "kind": "books#volume",
@@ -2049,7 +2076,8 @@
     },
     "searchInfo": {
       "textSnippet": "This second edition of Essentials of the Theory of Fiction provides a comprehensive view of the theory of fiction from the nineteenth century, through modernism and postmodernism, to the present."
-    }
+    },
+    "price": 13.55
   },
   {
     "kind": "books#volume",
@@ -2123,7 +2151,8 @@
     },
     "searchInfo": {
       "textSnippet": "The name of the weapon is the AK-47.... Selected by the Science Fiction Book Club A Main Selection of the Military Book Club"
-    }
+    },
+    "price": 44.91
   },
   {
     "kind": "books#volume",
@@ -2196,7 +2225,8 @@
     },
     "searchInfo": {
       "textSnippet": "Did You Charge Your Optimism Today?"
-    }
+    },
+    "price": 7.46
   },
   {
     "kind": "books#volume",
@@ -2271,7 +2301,8 @@
     },
     "searchInfo": {
       "textSnippet": "... <b>fiction</b> lacks these qualities , to the extent that it resists totali- zation , 4 7 to that extent will readers be dissatisfied . In most in- stances readers attempt to supply what the <b>fiction</b> has left out ; they partially totalize even&nbsp;..."
-    }
+    },
+    "price": 47.58
   },
   {
     "kind": "books#volume",
@@ -2347,7 +2378,8 @@
     },
     "searchInfo": {
       "textSnippet": "Child-hero Ender Wiggin must fight a desperate battle against a deadly alien race if mankind is to survive--Publisher&#39;s description."
-    }
+    },
+    "price": 49.61
   },
   {
     "kind": "books#volume",
@@ -2420,7 +2452,8 @@
     },
     "searchInfo": {
       "textSnippet": "Throughout, The Elements of Fiction is enriched by brilliant demonstrative examples that Mosley himself has written here for the first time."
-    }
+    },
+    "price": 38.76
   },
   {
     "kind": "books#volume",
@@ -2490,7 +2523,8 @@
     },
     "searchInfo": {
       "textSnippet": "The classic fairy tale."
-    }
+    },
+    "price": 47.14
   },
   {
     "kind": "books#volume",
@@ -2566,7 +2600,8 @@
     },
     "searchInfo": {
       "textSnippet": "A spellbinding epic tale of ambition, anarchy, and absolute power set against the sprawling medieval canvas of twelfth-century England, this is Ken Follett’s historical masterpiece."
-    }
+    },
+    "price": 49.69
   },
   {
     "kind": "books#volume",
@@ -2642,7 +2677,8 @@
     },
     "searchInfo": {
       "textSnippet": "This classic guide, from the renowned novelist and professor, has helped transform generations of aspiring writers into masterful writers—and will continue to do so for many years to come."
-    }
+    },
+    "price": 36.62
   },
   {
     "kind": "books#volume",
@@ -2718,7 +2754,8 @@
     },
     "searchInfo": {
       "textSnippet": "... <b>fiction</b> reader . + Kingsbury , R. H. Science <b>fiction</b> reader&#39;s guide . + Allen , L. David Science <b>fiction</b> showcase . + Kornbluth , Mary Science <b>fiction</b> special ( 8 ) . + none Science <b>fiction</b> special ( 11 ) . Science <b>fiction</b> special&nbsp;..."
-    }
+    },
+    "price": 30.97
   },
   {
     "kind": "books#volume",
@@ -2790,7 +2827,8 @@
     },
     "searchInfo": {
       "textSnippet": "The war comes home in a searingly compassionate story about the wounds inflicted on soldiers, refugees, and their families"
-    }
+    },
+    "price": 18.79
   },
   {
     "kind": "books#volume",
@@ -2863,7 +2901,8 @@
     },
     "searchInfo": {
       "textSnippet": "&quot;Hollywood, 1956."
-    }
+    },
+    "price": 47.28
   },
   {
     "kind": "books#volume",
@@ -2938,7 +2977,8 @@
     },
     "searchInfo": {
       "textSnippet": "SCORE: One point for each yes answer. 3-5: You are a shocking, shocking person! You will love this book. 1-2: You are quite shocking! You will love this book. 0: What a shocking score! You will love this book."
-    }
+    },
+    "price": 65.01
   },
   {
     "kind": "books#volume",
@@ -3012,7 +3052,8 @@
     },
     "searchInfo": {
       "textSnippet": "... <b>fiction</b> with history . A historical work ( including biography or autobiography ) is produced with the intention of ... <b>fiction</b> from telling lies . Let me forestall a possible confusion . I have been speaking of <b>fiction</b> per se&nbsp;..."
-    }
+    },
+    "price": 33.98
   },
   {
     "kind": "books#volume",
@@ -3087,7 +3128,8 @@
     },
     "searchInfo": {
       "textSnippet": "Today, Shiva is a god."
-    }
+    },
+    "price": 11.34
   },
   {
     "kind": "books#volume",
@@ -3160,7 +3202,8 @@
     },
     "searchInfo": {
       "textSnippet": "The Queen of the Night tells the captivating story of Lilliet Berne, an orphan who left the American frontier for Europe and was swept into the glamour and terror of Second Empire France."
-    }
+    },
+    "price": 44.59
   },
   {
     "kind": "books#volume",
@@ -3233,78 +3276,8 @@
     },
     "searchInfo": {
       "textSnippet": "He lives in the Golden State, a nation standing where California once did, a place where like-minded Americans retreated after the erosion of truth and the spread of lies made public life and governance impossible."
-    }
-  },
-  {
-    "kind": "books#volume",
-    "id": "NLJFEAAAQBAJ",
-    "etag": "+PXXlEvHZpM",
-    "selfLink": "https://www.googleapis.com/books/v1/volumes/NLJFEAAAQBAJ",
-    "volumeInfo": {
-      "title": "Fictional Practice: Magic, Narration, and the Power of Imagination",
-      "publisher": "BRILL",
-      "publishedDate": "2021-09-27",
-      "description": "To what extent were practitioners of magic inspired by fictional accounts of their art? In how far did the daunting narratives surrounding legendary magicians such as Theophilus of Adana, Cyprianus of Antioch, Johann Georg Faust or Agrippa of Nettesheim rely on real-world events or practices? Fourteen original case studies present material from late antiquity to the twenty-first century and explore these questions in a systematic manner. By coining the notion of ‘fictional practice’, the editors discuss the emergence of novel, imaginative types of magic from the nineteenth century onwards when fiction and practice came to be more and more intertwined or even fully amalgamated. This is the first comparative study that systematically relates fiction and practice in the history of magic.",
-      "industryIdentifiers": [
-        {
-          "type": "ISBN_13",
-          "identifier": "9789004466005"
-        },
-        {
-          "type": "ISBN_10",
-          "identifier": "9004466002"
-        }
-      ],
-      "readingModes": {
-        "text": false,
-        "image": true
-      },
-      "pageCount": 384,
-      "printType": "BOOK",
-      "categories": [
-        "Body, Mind & Spirit"
-      ],
-      "maturityRating": "NOT_MATURE",
-      "allowAnonLogging": false,
-      "contentVersion": "0.2.2.0.preview.1",
-      "panelizationSummary": {
-        "containsEpubBubbles": false,
-        "containsImageBubbles": false
-      },
-      "imageLinks": {
-        "smallThumbnail": "http://books.google.com/books/content?id=NLJFEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-        "thumbnail": "http://books.google.com/books/content?id=NLJFEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-      },
-      "language": "en",
-      "previewLink": "http://books.google.com/books?id=NLJFEAAAQBAJ&pg=PA267&dq=fiction&hl=&cd=45&source=gbs_api",
-      "infoLink": "http://books.google.com/books?id=NLJFEAAAQBAJ&dq=fiction&hl=&source=gbs_api",
-      "canonicalVolumeLink": "https://books.google.com/books/about/Fictional_Practice_Magic_Narration_and_t.html?hl=&id=NLJFEAAAQBAJ"
     },
-    "saleInfo": {
-      "country": "NG",
-      "saleability": "NOT_FOR_SALE",
-      "isEbook": false
-    },
-    "accessInfo": {
-      "country": "NG",
-      "viewability": "PARTIAL",
-      "embeddable": true,
-      "publicDomain": false,
-      "textToSpeechPermission": "ALLOWED",
-      "epub": {
-        "isAvailable": false
-      },
-      "pdf": {
-        "isAvailable": true,
-        "acsTokenLink": "http://books.google.com/books/download/Fictional_Practice_Magic_Narration_and_t-sample-pdf.acsm?id=NLJFEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
-      },
-      "webReaderLink": "http://play.google.com/books/reader?id=NLJFEAAAQBAJ&hl=&source=gbs_api",
-      "accessViewStatus": "SAMPLE",
-      "quoteSharingAllowed": false
-    },
-    "searchInfo": {
-      "textSnippet": "... <b>fiction</b> , although with one important caveat : while reprints of pre - revolutionary <b>fiction</b> existed , they were much fewer in number . This mattered little , though : the publishers already had access to a treasure trove of new <b>fiction</b>&nbsp;..."
-    }
+    "price": 66.27
   },
   {
     "kind": "books#volume",
@@ -3380,7 +3353,8 @@
     },
     "searchInfo": {
       "textSnippet": "... <b>fiction</b> as untruth , <b>fiction</b> as conceptual abstraction , <b>fiction</b> as in ( all ) literature , and <b>fiction</b> as ( all ) narrative . ” 3 For Cohn , these are all distractions that divert our attention away from the kinds of <b>fictional</b> texts&nbsp;..."
-    }
+    },
+    "price": 32.37
   },
   {
     "kind": "books#volume",
@@ -3456,7 +3430,8 @@
     },
     "searchInfo": {
       "textSnippet": "... <b>fiction</b> are characters , or actants , and it is this more active sense of space as it appears in crime <b>fiction</b> with which this chapter is concerned ( Jameson 1993 : 43 ) . In &quot; From Space to Place and Back Again &quot; , geographer David&nbsp;..."
-    }
+    },
+    "price": 37.44
   },
   {
     "kind": "books#volume",
@@ -3532,7 +3507,8 @@
     },
     "searchInfo": {
       "textSnippet": "And James Frey starts his perilous journey back to the world of the drug and alcohol-free living. His lack of self-pity is unflinching and searing. A Million Little Pieces is a dazzling account of a life destroyed and a life reconstructed."
-    }
+    },
+    "price": 66.47
   },
   {
     "kind": "books#volume",
@@ -3601,7 +3577,8 @@
     },
     "searchInfo": {
       "textSnippet": "... <b>fiction</b> ( French ) Children&#39;s stories , Bengali ( May Subd Geog ) UF Bengali children&#39;s stories BT Bengali <b>fiction</b> Children&#39;s stories , Bolivian ( May Subd Geog ) UF Bolivian children&#39;s stories BT Bolivian <b>fiction</b> Children&#39;s stories&nbsp;..."
-    }
+    },
+    "price": 22.01
   },
   {
     "kind": "books#volume",
@@ -3670,7 +3647,8 @@
     },
     "searchInfo": {
       "textSnippet": "... <b>fiction</b> ( French ) Short stories , Norwegian ( May Subd Geog ) UF Norwegian short stories BT Norwegian <b>fiction</b> Short stories , Old Norse ( May Subd Geog ) [ PT7291 ( Collections ) ] UF Old Norse short stories BT Old Norse <b>fiction</b>&nbsp;..."
-    }
+    },
+    "price": 27.6
   },
   {
     "kind": "books#volume",
@@ -3743,7 +3721,8 @@
     },
     "searchInfo": {
       "textSnippet": "From beloved American heritage brand Pendleton comes this collection of family-friendly tales of adventure and discovery in the wilderness."
-    }
+    },
+    "price": 44.48
   },
   {
     "kind": "books#volume",
@@ -3818,7 +3797,8 @@
     },
     "searchInfo": {
       "textSnippet": "... (<b>fiction</b>), Rudolfo Anaya (<b>fiction</b>, poetry, drama, and essay), Lorna Dee Cervantes (poetry), Rodolfo “Corky” Gonzales (poetry), Rolando Hinojosa (<b>fiction</b>), Tomás Rivera (<b>fiction</b>, essay, and poetry), Luis Omar Salinas (poetry), Estela&nbsp;..."
-    }
+    },
+    "price": 55.17
   },
   {
     "kind": "books#volume",
@@ -3882,7 +3862,8 @@
     },
     "searchInfo": {
       "textSnippet": "A cat helps his master win a fortune and the hand of the king&#39;s daughter."
-    }
+    },
+    "price": 14.34
   },
   {
     "kind": "books#volume",
@@ -3956,7 +3937,8 @@
     },
     "searchInfo": {
       "textSnippet": "... <b>fiction</b> in its stead , &quot; Eakin argues persuasively that <b>fiction</b> is essential to life and has its own kind of truth.21 Eakin&#39;s position on autobiographical truth is remarkably similar to Clayton Koelb&#39;s posi- tion on literary truth&nbsp;..."
-    }
+    },
+    "price": 9.33
   },
   {
     "kind": "books#volume",
@@ -4029,7 +4011,8 @@
     },
     "searchInfo": {
       "textSnippet": "Shortlisted for the PEN/Diamonstein-Spielvogel Award for the Art of the Essay Named a Best Book of 2018 by TIME, Washington Post, Entertainment Weekly, Wired, Esquire, Buzzfeed, Paste, Bitch, Bustle, The Chicago Review of Books and iBooks ..."
-    }
+    },
+    "price": 65.85
   },
   {
     "kind": "books#volume",
@@ -4102,7 +4085,8 @@
     },
     "searchInfo": {
       "textSnippet": "New York Times bestselling author of the Spenser series of crime thrillers—Book 1 in the series “The toughest, funniest, wisest, private eye in the field these days.”—Houston Chronicle Spenser earned his degree in the school of hard ..."
-    }
+    },
+    "price": 44.99
   },
   {
     "kind": "books#volume",
@@ -4178,7 +4162,8 @@
     },
     "searchInfo": {
       "textSnippet": "The final work of fiction from Norman Mailer, a defining voice of the postwar era, is also one of his most ambitious, taking as its subject the evil of Adolf Hitler."
-    }
+    },
+    "price": 42.42
   },
   {
     "kind": "books#volume",
@@ -4253,7 +4238,8 @@
     },
     "searchInfo": {
       "textSnippet": "Three generations of women in the Ferrari family must heal the broken pieces of their lives on a trip of a lifetime through picturesque Italy from New York Times bestselling author Jennifer Probst Workaholic, career-obsessed Francesca is ..."
-    }
+    },
+    "price": 10.86
   },
   {
     "kind": "books#volume",
@@ -4326,7 +4312,8 @@
     },
     "searchInfo": {
       "textSnippet": "... <b>fiction</b> and nonfiction, including fact and fantasy. Instructional. Preparation. Choose or prepare the following: • two unfamiliar books (one nonfiction, the other <b>fiction</b>) ... <b>Fiction</b>. vs. Nonfiction. Skill 20: <b>Fiction</b> vs Nonfiction."
-    }
+    },
+    "price": 47.75
   },
   {
     "kind": "books#volume",
@@ -4400,7 +4387,8 @@
     },
     "searchInfo": {
       "textSnippet": "Then poor Scamper becomes the latest victim and it&#39;s all systems go for the Secret Seven! First published in 1961, this edition features the original text and artwork."
-    }
+    },
+    "price": 59.1
   },
   {
     "kind": "books#volume",
@@ -4475,7 +4463,8 @@
     },
     "searchInfo": {
       "textSnippet": "Three generations of women in the Ferrari family must heal the broken pieces of their lives on a trip of a lifetime through picturesque Italy from New York Times bestselling author Jennifer Probst Workaholic, career-obsessed Francesca is ..."
-    }
+    },
+    "price": 13.41
   },
   {
     "kind": "books#volume",
@@ -4548,7 +4537,8 @@
     },
     "searchInfo": {
       "textSnippet": "... <b>fiction</b> and nonfiction, including fact and fantasy. Instructional. Preparation. Choose or prepare the following: • two unfamiliar books (one nonfiction, the other <b>fiction</b>) ... <b>Fiction</b>. vs. Nonfiction. Skill 20: <b>Fiction</b> vs Nonfiction."
-    }
+    },
+    "price": 26.51
   },
   {
     "kind": "books#volume",
@@ -4622,7 +4612,8 @@
     },
     "searchInfo": {
       "textSnippet": "Then poor Scamper becomes the latest victim and it&#39;s all systems go for the Secret Seven! First published in 1961, this edition features the original text and artwork."
-    }
+    },
+    "price": 21.14
   },
   {
     "kind": "books#volume",
@@ -4694,7 +4685,8 @@
     },
     "searchInfo": {
       "textSnippet": "A young widow, Ese lives in a village where the crops grow tall and the people are ruled over by a Chief on a white horse."
-    }
+    },
+    "price": 42.99
   },
   {
     "kind": "books#volume",
@@ -4770,7 +4762,8 @@
     },
     "searchInfo": {
       "textSnippet": "... <b>Fiction</b> , Sarah Lefanu notes that no woman received the prestigious Hugo Award for science <b>fiction</b> between 1953 ( its inception ) and 1967 , but that between 1968 and 1984 , eleven women won it . In addition , she points out that&nbsp;..."
-    }
+    },
+    "price": 64.81
   },
   {
     "kind": "books#volume",
@@ -4845,7 +4838,8 @@
     },
     "searchInfo": {
       "textSnippet": "... <b>Fiction</b> and Non - <b>fiction</b> The differences between <b>fiction</b> and non - <b>fiction</b> might seem obvious , and the language used is inevitably judged as one of the differences . At the same time , it is not entirely true that the language of <b>fiction</b>&nbsp;..."
-    }
+    },
+    "price": 28.56
   },
   {
     "kind": "books#volume",
@@ -4919,7 +4913,8 @@
     },
     "searchInfo": {
       "textSnippet": "From Doris Lessing, winner of the Nobel Prize for Literature, this is the first instalment in the visionary novel cycle &#39;Canopus in Argos: Archives&#39;."
-    }
+    },
+    "price": 63.3
   },
   {
     "kind": "books#volume",
@@ -4988,7 +4983,8 @@
       "webReaderLink": "http://play.google.com/books/reader?id=16YyEAAAQBAJ&hl=&source=gbs_api",
       "accessViewStatus": "NONE",
       "quoteSharingAllowed": false
-    }
+    },
+    "price": 53.47
   },
   {
     "kind": "books#volume",
@@ -5060,7 +5056,8 @@
     },
     "searchInfo": {
       "textSnippet": "This book is almost like a world in itself, one that you&#39;ll want to dive back into and get lost in again and again.&quot;&#39;CrimeReads, &quot;One of the 10 Best Crime Anthologies of 2018.&quot;"
-    }
+    },
+    "price": 58.52
   },
   {
     "kind": "books#volume",
@@ -5133,77 +5130,8 @@
     },
     "searchInfo": {
       "textSnippet": "She wants room at the table for her own style of consolation and closure: healthy, modern, and vegan. But this is about more than fried chicken versus tofu turkey. Matilda&#39;s return is also stirring up their volatile, unresolved history."
-    }
-  },
-  {
-    "kind": "books#volume",
-    "id": "E9-0DwAAQBAJ",
-    "etag": "du3Tx5+3YgA",
-    "selfLink": "https://www.googleapis.com/books/v1/volumes/E9-0DwAAQBAJ",
-    "volumeInfo": {
-      "title": "Bing’s Splashy Story: World Book Day 2020",
-      "publisher": "HarperCollins UK",
-      "publishedDate": "2020-02-27",
-      "description": "Celebrate World Book Day 2020 with a brilliant new picture book story about Bing!",
-      "industryIdentifiers": [
-        {
-          "type": "ISBN_13",
-          "identifier": "9780008388263"
-        },
-        {
-          "type": "ISBN_10",
-          "identifier": "0008388261"
-        }
-      ],
-      "readingModes": {
-        "text": true,
-        "image": false
-      },
-      "pageCount": 18,
-      "printType": "BOOK",
-      "categories": [
-        "Juvenile Fiction"
-      ],
-      "maturityRating": "NOT_MATURE",
-      "allowAnonLogging": true,
-      "contentVersion": "1.4.4.0.preview.2",
-      "panelizationSummary": {
-        "containsEpubBubbles": false,
-        "containsImageBubbles": false
-      },
-      "imageLinks": {
-        "smallThumbnail": "http://books.google.com/books/content?id=E9-0DwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-        "thumbnail": "http://books.google.com/books/content?id=E9-0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-      },
-      "language": "en",
-      "previewLink": "http://books.google.com/books?id=E9-0DwAAQBAJ&dq=fiction&hl=&cd=71&source=gbs_api",
-      "infoLink": "http://books.google.com/books?id=E9-0DwAAQBAJ&dq=fiction&hl=&source=gbs_api",
-      "canonicalVolumeLink": "https://books.google.com/books/about/Bing_s_Splashy_Story_World_Book_Day_2020.html?hl=&id=E9-0DwAAQBAJ"
     },
-    "saleInfo": {
-      "country": "NG",
-      "saleability": "NOT_FOR_SALE",
-      "isEbook": false
-    },
-    "accessInfo": {
-      "country": "NG",
-      "viewability": "NO_PAGES",
-      "embeddable": false,
-      "publicDomain": false,
-      "textToSpeechPermission": "ALLOWED",
-      "epub": {
-        "isAvailable": true
-      },
-      "pdf": {
-        "isAvailable": true
-      },
-      "webReaderLink": "http://play.google.com/books/reader?id=E9-0DwAAQBAJ&hl=&source=gbs_api",
-      "accessViewStatus": "NONE",
-      "quoteSharingAllowed": false
-    },
-    "searchInfo": {
-      "textSnippet": "Celebrate World Book Day 2020 with a brilliant new picture book story about Bing!"
-    }
+    "price": 14.73
   },
   {
     "kind": "books#volume",
@@ -5272,7 +5200,8 @@
       "webReaderLink": "http://play.google.com/books/reader?id=ZYoQ0QEACAAJ&hl=&source=gbs_api",
       "accessViewStatus": "NONE",
       "quoteSharingAllowed": false
-    }
+    },
+    "price": 26.82
   },
   {
     "kind": "books#volume",
@@ -5344,7 +5273,8 @@
     },
     "searchInfo": {
       "textSnippet": "A journalist in nineteenth-century New York matches wits with a serial killer in a gripping thriller by the prizewinning author of the Ian Hamilton Mysteries."
-    }
+    },
+    "price": 62.52
   },
   {
     "kind": "books#volume",
@@ -5420,7 +5350,8 @@
     },
     "searchInfo": {
       "textSnippet": "... <b>fiction</b> tropes because , as so many advertisements for new technologies assert , “ It&#39;s not just science <b>fiction</b> anymore . &quot; In Japan , Abe Kōbō ( Daiyon kan- pyoki [ 1959 ; Inter Ice Age 4 ] ) , a great science - <b>fiction</b> writer , is&nbsp;..."
-    }
+    },
+    "price": 48.57
   },
   {
     "kind": "books#volume",
@@ -5494,7 +5425,8 @@
     },
     "searchInfo": {
       "textSnippet": "&quot;Captivating, minutely imagined . . . a novel that refuses to stay shut&quot; (&quot;Newsweek&quot;), &quot;Memoirs of a Geisha&quot; is now released in a movie tie-in edition."
-    }
+    },
+    "price": 40.53
   },
   {
     "kind": "books#volume",
@@ -5560,7 +5492,8 @@
     },
     "searchInfo": {
       "textSnippet": "&quot; In this gripping tale of crime and guilt, revenge and reward, the compelling characters include Magwitch, the fearful and fearsome convict; Estella, whose beauty is excelled only by her haughtiness; and the embittered Miss Havisham, an ..."
-    }
+    },
+    "price": 66.07
   },
   {
     "kind": "books#volume",
@@ -5636,7 +5569,8 @@
     },
     "searchInfo": {
       "textSnippet": "... <b>fiction</b>- ally true . When we say that S is true , since Hamlet wasn&#39;t really a Danish prince , we mean that it&#39;s ... <b>fiction</b> . Let F be our sentential <b>fictional</b> - operator , and let&#39;s introduce a subscript letter to represent the&nbsp;..."
-    }
+    },
+    "price": 44.69
   },
   {
     "kind": "books#volume",
@@ -5710,7 +5644,8 @@
     },
     "searchInfo": {
       "textSnippet": "Self Care delves into the lives and psyches of people working in the wellness industry and exposes the world behind the filter."
-    }
+    },
+    "price": 33.4
   },
   {
     "kind": "books#volume",
@@ -5784,7 +5719,8 @@
     },
     "searchInfo": {
       "textSnippet": "The child narrator of poet and novelist Okri’s The Famished Road, who had outwitted death in the previous book, again relates the oppressive events that continue to plague his village and his family."
-    }
+    },
+    "price": 67.36
   },
   {
     "kind": "books#volume",
@@ -5858,7 +5794,8 @@
     },
     "searchInfo": {
       "textSnippet": "Exploring the complex political backdrop of the Middle East from a personal perspective, Where Jasmine Blooms travels from the suburbs of Seattle to the villas of Jordan and the refugee camps of the West Bank, on an emotional journey ..."
-    }
+    },
+    "price": 10.38
   },
   {
     "kind": "books#volume",
@@ -5930,7 +5867,8 @@
     },
     "searchInfo": {
       "textSnippet": "This book is almost like a world in itself, one that you&#39;ll want to dive back into and get lost in again and again.&quot;&#39;CrimeReads, &quot;One of the 10 Best Crime Anthologies of 2018.&quot;"
-    }
+    },
+    "price": 10.07
   },
   {
     "kind": "books#volume",
@@ -6004,77 +5942,8 @@
     },
     "searchInfo": {
       "textSnippet": "Self Care delves into the lives and psyches of people working in the wellness industry and exposes the world behind the filter."
-    }
-  },
-  {
-    "kind": "books#volume",
-    "id": "E9-0DwAAQBAJ",
-    "etag": "uC3qUdeNC1g",
-    "selfLink": "https://www.googleapis.com/books/v1/volumes/E9-0DwAAQBAJ",
-    "volumeInfo": {
-      "title": "Bing’s Splashy Story: World Book Day 2020",
-      "publisher": "HarperCollins UK",
-      "publishedDate": "2020-02-27",
-      "description": "Celebrate World Book Day 2020 with a brilliant new picture book story about Bing!",
-      "industryIdentifiers": [
-        {
-          "type": "ISBN_13",
-          "identifier": "9780008388263"
-        },
-        {
-          "type": "ISBN_10",
-          "identifier": "0008388261"
-        }
-      ],
-      "readingModes": {
-        "text": true,
-        "image": false
-      },
-      "pageCount": 18,
-      "printType": "BOOK",
-      "categories": [
-        "Juvenile Fiction"
-      ],
-      "maturityRating": "NOT_MATURE",
-      "allowAnonLogging": true,
-      "contentVersion": "1.4.4.0.preview.2",
-      "panelizationSummary": {
-        "containsEpubBubbles": false,
-        "containsImageBubbles": false
-      },
-      "imageLinks": {
-        "smallThumbnail": "http://books.google.com/books/content?id=E9-0DwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-        "thumbnail": "http://books.google.com/books/content?id=E9-0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-      },
-      "language": "en",
-      "previewLink": "http://books.google.com/books?id=E9-0DwAAQBAJ&dq=fiction&hl=&cd=83&source=gbs_api",
-      "infoLink": "http://books.google.com/books?id=E9-0DwAAQBAJ&dq=fiction&hl=&source=gbs_api",
-      "canonicalVolumeLink": "https://books.google.com/books/about/Bing_s_Splashy_Story_World_Book_Day_2020.html?hl=&id=E9-0DwAAQBAJ"
     },
-    "saleInfo": {
-      "country": "NG",
-      "saleability": "NOT_FOR_SALE",
-      "isEbook": false
-    },
-    "accessInfo": {
-      "country": "NG",
-      "viewability": "NO_PAGES",
-      "embeddable": false,
-      "publicDomain": false,
-      "textToSpeechPermission": "ALLOWED",
-      "epub": {
-        "isAvailable": true
-      },
-      "pdf": {
-        "isAvailable": true
-      },
-      "webReaderLink": "http://play.google.com/books/reader?id=E9-0DwAAQBAJ&hl=&source=gbs_api",
-      "accessViewStatus": "NONE",
-      "quoteSharingAllowed": false
-    },
-    "searchInfo": {
-      "textSnippet": "Celebrate World Book Day 2020 with a brilliant new picture book story about Bing!"
-    }
+    "price": 60.3
   },
   {
     "kind": "books#volume",
@@ -6148,7 +6017,8 @@
     },
     "searchInfo": {
       "textSnippet": "Exploring the complex political backdrop of the Middle East from a personal perspective, Where Jasmine Blooms travels from the suburbs of Seattle to the villas of Jordan and the refugee camps of the West Bank, on an emotional journey ..."
-    }
+    },
+    "price": 37.68
   },
   {
     "kind": "books#volume",
@@ -6222,7 +6092,8 @@
     },
     "searchInfo": {
       "textSnippet": "&quot;Captivating, minutely imagined . . . a novel that refuses to stay shut&quot; (&quot;Newsweek&quot;), &quot;Memoirs of a Geisha&quot; is now released in a movie tie-in edition."
-    }
+    },
+    "price": 34.92
   },
   {
     "kind": "books#volume",
@@ -6290,7 +6161,8 @@
     },
     "searchInfo": {
       "textSnippet": "Anyone can write a novel now, and in this essential book of tips, practical advice, and wisdom, Walter Mosley promises that the writer-in-waiting can finish it in one year."
-    }
+    },
+    "price": 55.72
   },
   {
     "kind": "books#volume",
@@ -6358,7 +6230,8 @@
     },
     "searchInfo": {
       "textSnippet": "On a cold January night, Sharon Lemke heads outside to see a lunar eclipse when she notices something odd at the house behind her backyard."
-    }
+    },
+    "price": 20.78
   },
   {
     "kind": "books#volume",
@@ -6432,7 +6305,8 @@
     },
     "searchInfo": {
       "textSnippet": "... <b>fiction</b> and non - <b>fiction</b> . Jonathan Clowes Ltd : 10 Iron Bridge House , Bridge Approach , London NW1 8BD . <b>Fiction</b> and non - <b>fiction</b> , scripts . Elspeth Cochrane Agency : 11-13 Orlando Rd , London SW4 OLE . Authors handled for theatre&nbsp;..."
-    }
+    },
+    "price": 33.68
   },
   {
     "kind": "books#volume",
@@ -6506,7 +6380,8 @@
     },
     "searchInfo": {
       "textSnippet": "The child narrator of poet and novelist Okri’s The Famished Road, who had outwitted death in the previous book, again relates the oppressive events that continue to plague his village and his family."
-    }
+    },
+    "price": 28.42
   },
   {
     "kind": "books#volume",
@@ -6580,7 +6455,8 @@
     },
     "searchInfo": {
       "textSnippet": "This novel bordering on a novella punches above its weight.”—The New York Times “Very Cold People reminded me of My Brilliant Friend.”—The New Yorker ONE OF THE BEST BOOKS OF THE YEAR: The New Yorker, NPR, Los Angeles Times, The ..."
-    }
+    },
+    "price": 11.67
   },
   {
     "kind": "books#volume",
@@ -6650,7 +6526,8 @@
     },
     "searchInfo": {
       "textSnippet": "... <b>Fiction</b> our animal friends in Natal ... 38.835 Pilot , The . Cooper 66 <b>Fiction</b> Parton , Mrs. S. P. ( Fanny Fern . ) Playday Pindar , S. C. The Wentworths . 38.711 book . 38.836 Pioneers , The . Cooper ........... ..See <b>Fiction</b>&nbsp;..."
-    }
+    },
+    "price": 57.07
   },
   {
     "kind": "books#volume",
@@ -6719,7 +6596,8 @@
     },
     "searchInfo": {
       "textSnippet": "... <b>fiction</b> , and , to a lesser extent , for the new &quot; metaphorical &quot; or &quot; cogni- tive &quot; science <b>fiction</b> . He was fully aware of the importance of science <b>fiction</b> being effective artistically as well as scienti- fically . While his&nbsp;..."
-    }
+    },
+    "price": 19.64
   },
   {
     "kind": "books#volume",
@@ -6794,7 +6672,8 @@
     },
     "searchInfo": {
       "textSnippet": "For readers of The True Story of Maddie Bright, The Woman in the Green Dress and The Birdman&#39;s Wife comes this atmospheric and richly detailed Australian historical mystery from a bestselling Australian author."
-    }
+    },
+    "price": 66.13
   },
   {
     "kind": "books#volume",
@@ -6860,7 +6739,8 @@
     },
     "searchInfo": {
       "textSnippet": "&quot; In this gripping tale of crime and guilt, revenge and reward, the compelling characters include Magwitch, the fearful and fearsome convict; Estella, whose beauty is excelled only by her haughtiness; and the embittered Miss Havisham, an ..."
-    }
+    },
+    "price": 51.46
   },
   {
     "kind": "books#volume",
@@ -6933,7 +6813,8 @@
     },
     "searchInfo": {
       "textSnippet": "From everyday violence and magic, to the voices of gossiping neighbours, here is an utterly engrossing story of an African community, its culture and traditions, and the power of storytelling."
-    }
+    },
+    "price": 43.04
   },
   {
     "kind": "books#volume",
@@ -7007,7 +6888,8 @@
     },
     "searchInfo": {
       "textSnippet": "Volume III in the heroic saga of magic, betrayal and adventure, The Darksword Trilogy."
-    }
+    },
+    "price": 22.88
   },
   {
     "kind": "books#volume",
@@ -7082,7 +6964,8 @@
     },
     "searchInfo": {
       "textSnippet": "Rich, clever, and mischievous, reminiscent of a folk tale or fable, this is a triumphant read with a memorable character at its heart. Says Harris: “You might see [Vianne] as an archetype or a mythical figure."
-    }
+    },
+    "price": 7.76
   },
   {
     "kind": "books#volume",
@@ -7155,71 +7038,8 @@
     },
     "searchInfo": {
       "textSnippet": "Don&#39;t miss the captivating new book from Sunday Times bestselling author Susan Lewis!"
-    }
-  },
-  {
-    "kind": "books#volume",
-    "id": "i04EAAAAYAAJ",
-    "etag": "QXSdDjIwMRs",
-    "selfLink": "https://www.googleapis.com/books/v1/volumes/i04EAAAAYAAJ",
-    "volumeInfo": {
-      "title": "Analog Science Fiction/science Fact",
-      "publishedDate": "1971",
-      "industryIdentifiers": [
-        {
-          "type": "OTHER",
-          "identifier": "UVA:X030221545"
-        }
-      ],
-      "readingModes": {
-        "text": false,
-        "image": false
-      },
-      "pageCount": 1082,
-      "printType": "BOOK",
-      "categories": [
-        "Science fiction"
-      ],
-      "maturityRating": "NOT_MATURE",
-      "allowAnonLogging": false,
-      "contentVersion": "2.9.3.0.preview.0",
-      "panelizationSummary": {
-        "containsEpubBubbles": false,
-        "containsImageBubbles": false
-      },
-      "imageLinks": {
-        "smallThumbnail": "http://books.google.com/books/content?id=i04EAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-        "thumbnail": "http://books.google.com/books/content?id=i04EAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-      },
-      "language": "en",
-      "previewLink": "http://books.google.com/books?id=i04EAAAAYAAJ&q=fiction&dq=fiction&hl=&cd=99&source=gbs_api",
-      "infoLink": "http://books.google.com/books?id=i04EAAAAYAAJ&dq=fiction&hl=&source=gbs_api",
-      "canonicalVolumeLink": "https://books.google.com/books/about/Analog_Science_Fiction_science_Fact.html?hl=&id=i04EAAAAYAAJ"
     },
-    "saleInfo": {
-      "country": "NG",
-      "saleability": "NOT_FOR_SALE",
-      "isEbook": false
-    },
-    "accessInfo": {
-      "country": "NG",
-      "viewability": "NO_PAGES",
-      "embeddable": false,
-      "publicDomain": false,
-      "textToSpeechPermission": "ALLOWED",
-      "epub": {
-        "isAvailable": false
-      },
-      "pdf": {
-        "isAvailable": false
-      },
-      "webReaderLink": "http://play.google.com/books/reader?id=i04EAAAAYAAJ&hl=&source=gbs_api",
-      "accessViewStatus": "NONE",
-      "quoteSharingAllowed": false
-    },
-    "searchInfo": {
-      "textSnippet": "... <b>Fiction</b> ? Science- <b>Fiction</b> Monthly ? American Science <b>Fiction</b> ? Fantasy <b>Fiction</b> ? Scientific Thriller ? Science <b>Fiction</b> Library ? Satellite Series ? You may have known that F &amp; SF had a short - lived Australian edi- tion - 14 issues&nbsp;..."
-    }
+    "price": 31.51
   },
   {
     "kind": "books#volume",
@@ -7292,7 +7112,8 @@
     },
     "searchInfo": {
       "textSnippet": "Cause some classroom chaos with HORRID HENRY! This book contains six naughty prank stories about beating the FANGMANGLER, getting REVENGE on the Bogey Babysitter and one HORRIBLE weekend!"
-    }
+    },
+    "price": 55.02
   },
   {
     "kind": "books#volume",
@@ -7358,7 +7179,8 @@
       "webReaderLink": "http://play.google.com/books/reader?id=Hr_yAAAAMAAJ&hl=&source=gbs_api",
       "accessViewStatus": "NONE",
       "quoteSharingAllowed": false
-    }
+    },
+    "price": 33.78
   },
   {
     "kind": "books#volume",
@@ -7433,7 +7255,8 @@
     },
     "searchInfo": {
       "textSnippet": ". . Trading in Danger [has] originality and intelligence.”—SciFi"
-    }
+    },
+    "price": 57.46
   },
   {
     "kind": "books#volume",
@@ -7507,71 +7330,8 @@
     },
     "searchInfo": {
       "textSnippet": "Now expanded: The definitive visual guide to writing science fiction and fantasy—with exercises, diagrams, essays by superstar authors, and more."
-    }
-  },
-  {
-    "kind": "books#volume",
-    "id": "i04EAAAAYAAJ",
-    "etag": "/kPYFqiTQ1A",
-    "selfLink": "https://www.googleapis.com/books/v1/volumes/i04EAAAAYAAJ",
-    "volumeInfo": {
-      "title": "Analog Science Fiction/science Fact",
-      "publishedDate": "1971",
-      "industryIdentifiers": [
-        {
-          "type": "OTHER",
-          "identifier": "UVA:X030221545"
-        }
-      ],
-      "readingModes": {
-        "text": false,
-        "image": false
-      },
-      "pageCount": 1082,
-      "printType": "BOOK",
-      "categories": [
-        "Science fiction"
-      ],
-      "maturityRating": "NOT_MATURE",
-      "allowAnonLogging": false,
-      "contentVersion": "2.9.3.0.preview.0",
-      "panelizationSummary": {
-        "containsEpubBubbles": false,
-        "containsImageBubbles": false
-      },
-      "imageLinks": {
-        "smallThumbnail": "http://books.google.com/books/content?id=i04EAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-        "thumbnail": "http://books.google.com/books/content?id=i04EAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-      },
-      "language": "en",
-      "previewLink": "http://books.google.com/books?id=i04EAAAAYAAJ&q=fiction&dq=fiction&hl=&cd=104&source=gbs_api",
-      "infoLink": "http://books.google.com/books?id=i04EAAAAYAAJ&dq=fiction&hl=&source=gbs_api",
-      "canonicalVolumeLink": "https://books.google.com/books/about/Analog_Science_Fiction_science_Fact.html?hl=&id=i04EAAAAYAAJ"
     },
-    "saleInfo": {
-      "country": "NG",
-      "saleability": "NOT_FOR_SALE",
-      "isEbook": false
-    },
-    "accessInfo": {
-      "country": "NG",
-      "viewability": "NO_PAGES",
-      "embeddable": false,
-      "publicDomain": false,
-      "textToSpeechPermission": "ALLOWED",
-      "epub": {
-        "isAvailable": false
-      },
-      "pdf": {
-        "isAvailable": false
-      },
-      "webReaderLink": "http://play.google.com/books/reader?id=i04EAAAAYAAJ&hl=&source=gbs_api",
-      "accessViewStatus": "NONE",
-      "quoteSharingAllowed": false
-    },
-    "searchInfo": {
-      "textSnippet": "... <b>Fiction</b> ? Science- <b>Fiction</b> Monthly ? American Science <b>Fiction</b> ? Fantasy <b>Fiction</b> ? Scientific Thriller ? Science <b>Fiction</b> Library ? Satellite Series ? You may have known that F &amp; SF had a short - lived Australian edi- tion - 14 issues&nbsp;..."
-    }
+    "price": 52.7
   },
   {
     "kind": "books#volume",
@@ -7646,7 +7406,8 @@
     },
     "searchInfo": {
       "textSnippet": "Written with journalist Carl Anka, You Are a Champion is packed full of stories from Marcus’s own life, brilliant advice and top tips from performance psychologist Katie Warriner. It will show you how to be the very BEST that you can be."
-    }
+    },
+    "price": 11.46
   },
   {
     "kind": "books#volume",
@@ -7716,7 +7477,8 @@
     },
     "searchInfo": {
       "textSnippet": "... <b>fiction</b> .... second - class <b>fiction</b> .. worthless <b>fiction</b> ...... 33 10 &quot; 10 66 ( 6 4 66 4 66 ( ( * 34 29 66 29 6 : 16 &quot; 16 ( 6 68 99 100 From the eleventh grade 40 pupils reported : Number reading essays .. history or biography&nbsp;..."
-    }
+    },
+    "price": 41
   },
   {
     "kind": "books#volume",
@@ -7786,7 +7548,8 @@
     },
     "searchInfo": {
       "textSnippet": "... <b>fiction</b> ...... 33 &quot; 34 &quot; 66 second - class <b>fiction</b> .... 29 &quot; 29 6 . “ 66 ،، worthless <b>fiction</b> .... 16 &quot; 16 66 &quot; 99 100 From the eleventh grade 40 pupils reported : Number reading essays .. 1 or 2 per cent 66 &quot; “ 66 history or&nbsp;..."
-    }
+    },
+    "price": 26.25
   },
   {
     "kind": "books#volume",
@@ -7859,7 +7622,8 @@
     },
     "searchInfo": {
       "textSnippet": "From the award-winning poet and playwright behind Barber Shop Chronicles, The Half-God of Rainfall is an epic story and a lyrical exploration of pride, power and female revenge."
-    }
+    },
+    "price": 65.27
   },
   {
     "kind": "books#volume",
@@ -7932,7 +7696,8 @@
     },
     "searchInfo": {
       "textSnippet": "Following ‘A Change in Climate’, this brilliant novel from the double Man Booker prize-winning author of ‘Wolf Hall’ is a coming-of-age tale set in Seventies London."
-    }
+    },
+    "price": 30.57
   },
   {
     "kind": "books#volume",
@@ -8005,7 +7770,8 @@
     },
     "searchInfo": {
       "textSnippet": "One of the most enjoyable and enduring stories I have ever read&#39; - James O&#39;Brien, journalist, author and LBC Presenter&#39;This is right up there with the best of C. J. Sansom and Andrew Taylor&#39; - Amanda Craig, author of The Golden RuleFrom the ..."
-    }
+    },
+    "price": 20.27
   },
   {
     "kind": "books#volume",
@@ -8078,7 +7844,8 @@
     },
     "searchInfo": {
       "textSnippet": "Cain killed Abel: the original murder."
-    }
+    },
+    "price": 6.15
   },
   {
     "kind": "books#volume",
@@ -8151,7 +7918,8 @@
     },
     "searchInfo": {
       "textSnippet": "Quinn Quicksilver was born a mystery--abandoned at three days old on a desert highway in Arizona. Raised in an orphanage, never knowing his parents, Quinn had a happy if unexceptional life. Until the day of &quot;strange magnetism."
-    }
+    },
+    "price": 66.62
   },
   {
     "kind": "books#volume",
@@ -8225,7 +7993,8 @@
     },
     "searchInfo": {
       "textSnippet": "From the bestselling author of Birdsong comes this masterful novel that ventures to answer challenging questions of consciousness and science, and what it means to be human."
-    }
+    },
+    "price": 57.58
   },
   {
     "kind": "books#volume",
@@ -8298,7 +8067,8 @@
     },
     "searchInfo": {
       "textSnippet": "A grandmother&#39;s loving bequest changes three lives forever in a heartwarming novel about finding love, hope, and family by New York Times bestselling author Carolyn Brown."
-    }
+    },
+    "price": 69.59
   },
   {
     "kind": "books#volume",
@@ -8369,7 +8139,8 @@
     },
     "searchInfo": {
       "textSnippet": "The friendship between Rory Grant and Soline Roussel brings back memories of Soline&#39;s family&#39;s Paris bridal salon and their losses during World War II, both material and emotional."
-    }
+    },
+    "price": 8.63
   },
   {
     "kind": "books#volume",
@@ -8442,7 +8213,8 @@
     },
     "searchInfo": {
       "textSnippet": "In her stunning 200th novel, #1 New York Times bestselling author Nora Roberts proves why no one is better “when it comes to flawlessly fusing high-stakes suspense with red-hot romance&quot; (Booklist, starred review)."
-    }
+    },
+    "price": 30.55
   },
   {
     "kind": "books#volume",
@@ -8515,7 +8287,8 @@
     },
     "searchInfo": {
       "textSnippet": "The story unfolds in a beguiling landscape as Tearne presents us with the turmoil of the Sri Lankan civil war, told unusually from a woman&#39;s point of view."
-    }
+    },
+    "price": 59.02
   },
   {
     "kind": "books#volume",
@@ -8585,7 +8358,8 @@
     },
     "searchInfo": {
       "textSnippet": "... <b>FICTION</b> , ITS CIRCULATION AND COST . It is well known that the larger part of the circulation of the Lower Hall and branches is of works of <b>fiction</b> . The figures are instructive . In the year ending April 30 , 1884 , there were 159,349&nbsp;..."
-    }
+    },
+    "price": 55.6
   },
   {
     "kind": "books#volume",
@@ -8658,7 +8432,8 @@
     },
     "searchInfo": {
       "textSnippet": "• DUNE: PART TWO • THE MAJOR MOTION PICTURE Directed by Denis Villeneuve, screenplay by Denis Villeneuve and Jon Spaihts, based on the novel Dune by Frank Herbert • Starring Timothée Chalamet, Zendaya, Rebecca Ferguson, Josh Brolin, ..."
-    }
+    },
+    "price": 49.53
   },
   {
     "kind": "books#volume",
@@ -8731,7 +8506,8 @@
     },
     "searchInfo": {
       "textSnippet": "Refuse To Be Done will guide you through every step of the novel writing process, from getting started on those first pages to the last tips for making your final draft even tighter and stronger."
-    }
+    },
+    "price": 57.71
   },
   {
     "kind": "books#volume",
@@ -8804,7 +8580,8 @@
     },
     "searchInfo": {
       "textSnippet": "The story unfolds in a beguiling landscape as Tearne presents us with the turmoil of the Sri Lankan civil war, told unusually from a woman&#39;s point of view."
-    }
+    },
+    "price": 67.99
   },
   {
     "kind": "books#volume",
@@ -8874,7 +8651,8 @@
     },
     "searchInfo": {
       "textSnippet": "... <b>FICTION</b> , ITS CIRCULATION AND COST . It is well known that the larger part of the circulation of the Lower Hall and branches is of works of <b>fiction</b> . The figures are instructive . In the year ending April 30 , 1884 , there were 159,349&nbsp;..."
-    }
+    },
+    "price": 36.68
   },
   {
     "kind": "books#volume",
@@ -8947,7 +8725,8 @@
     },
     "searchInfo": {
       "textSnippet": "• DUNE: PART TWO • THE MAJOR MOTION PICTURE Directed by Denis Villeneuve, screenplay by Denis Villeneuve and Jon Spaihts, based on the novel Dune by Frank Herbert • Starring Timothée Chalamet, Zendaya, Rebecca Ferguson, Josh Brolin, ..."
-    }
+    },
+    "price": 60.28
   },
   {
     "kind": "books#volume",
@@ -9020,7 +8799,8 @@
     },
     "searchInfo": {
       "textSnippet": "Refuse To Be Done will guide you through every step of the novel writing process, from getting started on those first pages to the last tips for making your final draft even tighter and stronger."
-    }
+    },
+    "price": 26
   },
   {
     "kind": "books#volume",
@@ -9094,7 +8874,8 @@
     },
     "searchInfo": {
       "textSnippet": "Accessible yet erudite, The Act of Living is essential reading for anyone seeking answers to life&#39;s biggest questions."
-    }
+    },
+    "price": 22.33
   },
   {
     "kind": "books#volume",
@@ -9167,7 +8948,8 @@
     },
     "searchInfo": {
       "textSnippet": "Susie is desperate to help them and there might be a way of reaching them... Alice Sebold&#39;s novel The Lovely Bones is a unique coming-of-age tale that captured the hearts of readers throughout the world."
-    }
+    },
+    "price": 66.65
   },
   {
     "kind": "books#volume",
@@ -9240,7 +9022,8 @@
     },
     "searchInfo": {
       "textSnippet": "WINNER OF THE 2018 ROGERS WRITERS&#39; TRUST FICTION PRIZE • WINNER OF THE 2019 CITY OF VICTORIA BUTLER BOOK PRIZE • A 2018 KIRKUS BEST BOOK OF THE YEAR • A GLOBE AND MAIL BEST BOOK OF 2018 • A TORONTO STAR TOP TEN BOOK OF THE YEAR • ..."
-    }
+    },
+    "price": 66.83
   },
   {
     "kind": "books#volume",
@@ -9315,7 +9098,8 @@
     },
     "searchInfo": {
       "textSnippet": "THE INSTANT NEW YORK TIMES BESTSELLER • One of USA Today&#39;s Best Books of 2020 “A haunted house story—with a twist….[Sager] does not hold back”(Rolling Stone) in this chilling thriller from the author of Final Girls and Survive the ..."
-    }
+    },
+    "price": 54.7
   },
   {
     "kind": "books#volume",
@@ -9388,7 +9172,8 @@
     },
     "searchInfo": {
       "textSnippet": "Scotland, 1940 In a house on the east coast, Jane faces motherhood alone. With her husband away at war, there is no one to protect her from small town suspicions and she must learn to keep her secrets to herself."
-    }
+    },
+    "price": 32.36
   },
   {
     "kind": "books#volume",
@@ -9461,7 +9246,8 @@
     },
     "searchInfo": {
       "textSnippet": "Born into poverty and living under the roof of her violent and abusive brother-in-law, young Kitty Cox dreams of working in a women&#39;s dress shop in the West End - a million miles away from the reality of her life as a mud-lark, scavenging ..."
-    }
+    },
+    "price": 14.53
   },
   {
     "kind": "books#volume",
@@ -9534,7 +9320,8 @@
     },
     "searchInfo": {
       "textSnippet": "A masterful, original examination of love, duty, art and fame, The Italian Teacher cements Tom Rachman as among this generation&#39;s most exciting literary voices."
-    }
+    },
+    "price": 5.46
   },
   {
     "kind": "books#volume",
@@ -9600,7 +9387,8 @@
       "webReaderLink": "http://play.google.com/books/reader?id=Js83AAAAMAAJ&hl=&source=gbs_api",
       "accessViewStatus": "NONE",
       "quoteSharingAllowed": false
-    }
+    },
+    "price": 33.07
   },
   {
     "kind": "books#volume",
@@ -9670,7 +9458,8 @@
     },
     "searchInfo": {
       "textSnippet": "In this interactive sound book, friendly Little Blue Truck beeps for all his animal friends and young readers will discover how each friend says hello back!"
-    }
+    },
+    "price": 68.82
   },
   {
     "kind": "books#volume",
@@ -9743,7 +9532,8 @@
     },
     "searchInfo": {
       "textSnippet": "&quot; -- Michael O&#39;Brien Canadian bookseller Alex Graham is a middle-age widower whose quiet life is turned upside down when his college-age son disappears without any explanation or trace of where he has gone."
-    }
+    },
+    "price": 41.35
   },
   {
     "kind": "books#volume",
@@ -9808,7 +9598,8 @@
     },
     "searchInfo": {
       "textSnippet": "When the Road Beckons&#39; is an inspiring odyssey that promises to transform a generation."
-    }
+    },
+    "price": 7.84
   },
   {
     "kind": "books#volume",
@@ -9882,7 +9673,8 @@
     },
     "searchInfo": {
       "textSnippet": "From the sweltering streets of Tangier to deep beneath Paris via the Metro, from the affecting recorded accounts of women in German-occupied France and into the future through our hopes for these characters, Paris Echo offers a tough and ..."
-    }
+    },
+    "price": 22.59
   },
   {
     "kind": "books#volume",
@@ -9955,7 +9747,8 @@
     },
     "searchInfo": {
       "textSnippet": "Nightcrawling is an unforgettable novel about young people navigating the darkest corners of an adult world, told with a humanity that is at once agonising and utterly mesmerising. _______________ &#39;UNFORGETTABLE&#39; GUARDIAN &#39;A MAGNIFICENT ..."
-    }
+    },
+    "price": 6.2
   },
   {
     "kind": "books#volume",
@@ -10029,7 +9822,8 @@
     },
     "searchInfo": {
       "textSnippet": "Exceeding the extraordinary promise of Bennett’s mold-shattering debut, Checkout 19 is a radical affirmation of the power of the imagination and the magic escape those who master it open to us all."
-    }
+    },
+    "price": 31.23
   },
   {
     "kind": "books#volume",
@@ -10095,7 +9889,8 @@
     },
     "searchInfo": {
       "textSnippet": "Edinburgh publ. libr. FICHTE - <b>FICTION</b> . <b>FICTION</b> . <b>FICTION</b> . <b>FICTION</b> . <b>FICTION</b> . 18294 Confederate. 177 Fichte ( J. G. ) Works- <b>FICTION</b>- Characteristics of the Present Age . Trans . by Smith 34724-5 Alice&#39;s Adventures under Ground&nbsp;..."
-    }
+    },
+    "price": 34.59
   },
   {
     "kind": "books#volume",
@@ -10170,7 +9965,8 @@
     },
     "searchInfo": {
       "textSnippet": "As a member of a gifted, idiosyncratic, and argumentative family, twelve-year-old Hero chooses mutism until she reconciles the true with the real in her life."
-    }
+    },
+    "price": 34.77
   },
   {
     "kind": "books#volume",
@@ -10243,7 +10039,8 @@
     },
     "searchInfo": {
       "textSnippet": "Nightcrawling is an unforgettable novel about young people navigating the darkest corners of an adult world, told with a humanity that is at once agonising and utterly mesmerising. _______________ &#39;UNFORGETTABLE&#39; GUARDIAN &#39;A MAGNIFICENT ..."
-    }
+    },
+    "price": 52.68
   },
   {
     "kind": "books#volume",
@@ -10311,7 +10108,8 @@
     },
     "searchInfo": {
       "textSnippet": "A collection of 11 short gay stories. The book reflects the exhilarating complexity of gay identity in the 1980 ́s."
-    }
+    },
+    "price": 30.04
   },
   {
     "kind": "books#volume",
@@ -10385,7 +10183,8 @@
     },
     "searchInfo": {
       "textSnippet": "Exceeding the extraordinary promise of Bennett’s mold-shattering debut, Checkout 19 is a radical affirmation of the power of the imagination and the magic escape those who master it open to us all."
-    }
+    },
+    "price": 24.89
   },
   {
     "kind": "books#volume",
@@ -10451,7 +10250,8 @@
     },
     "searchInfo": {
       "textSnippet": "Edinburgh publ. libr. FICHTE - <b>FICTION</b> . <b>FICTION</b> . <b>FICTION</b> . <b>FICTION</b> . <b>FICTION</b> . 18294 Confederate. 177 Fichte ( J. G. ) Works- <b>FICTION</b>- Characteristics of the Present Age . Trans . by Smith 34724-5 Alice&#39;s Adventures under Ground&nbsp;..."
-    }
+    },
+    "price": 60.58
   },
   {
     "kind": "books#volume",
@@ -10526,7 +10326,8 @@
     },
     "searchInfo": {
       "textSnippet": "As a member of a gifted, idiosyncratic, and argumentative family, twelve-year-old Hero chooses mutism until she reconciles the true with the real in her life."
-    }
+    },
+    "price": 23.1
   },
   {
     "kind": "books#volume",
@@ -10598,7 +10399,8 @@
     },
     "searchInfo": {
       "textSnippet": "Ink opens as a biometric tattoo is approved for use to mark temporary workers, permanent residents and citizens with recent immigration history--collectively known as inks&quot;--Page 4 of cover."
-    }
+    },
+    "price": 28.35
   },
   {
     "kind": "books#volume",
@@ -10673,7 +10475,8 @@
     },
     "searchInfo": {
       "textSnippet": "A 2009 Bank Street—Best Children’s Book of the Year ”In this terrific debut novel . . . the story soars, just like Piper, with enough loop-de-loops to keep kids uncertain about what will come next.” —Booklist (starred review) ..."
-    }
+    },
+    "price": 66.3
   },
   {
     "kind": "books#volume",
@@ -10747,7 +10550,8 @@
     },
     "searchInfo": {
       "textSnippet": "This book, the only biography ever authorized by a sitting President--yet written with complete interpretive freedom--is as revolutionary in method as it is formidable in scholarship."
-    }
+    },
+    "price": 31.85
   },
   {
     "kind": "books#volume",
@@ -10823,7 +10627,8 @@
     },
     "searchInfo": {
       "textSnippet": "This is the book to pick up when you need the wisdom of a friend, the comfort of a hug or a reminder that hope comes from unexpected places."
-    }
+    },
+    "price": 51.59
   },
   {
     "kind": "books#volume",
@@ -10897,7 +10702,8 @@
     },
     "searchInfo": {
       "textSnippet": "Given up for adoption as an infant, Ruby is raised by a white couple who understand little of her Indigenous heritage. This is the great mystery that hovers over Ruby’s life—who her people are and how to reconcile what is missing."
-    }
+    },
+    "price": 6.36
   },
   {
     "kind": "books#volume",
@@ -10971,7 +10777,8 @@
     },
     "searchInfo": {
       "textSnippet": "&#39;A tale of devastating simplicity and poignant sweetness&#39; Kate Quinn &#39;A powerful, emotional, and unflinching story of love, sacrifice, and resilience&#39; Chanel Cleeton &#39;Haunting and inspiring, heartbreaking and hopeful, this novel is ..."
-    }
+    },
+    "price": 62.09
   },
   {
     "kind": "books#volume",
@@ -11044,7 +10851,8 @@
     },
     "searchInfo": {
       "textSnippet": "A page-turning OMG love story, The Love of My Life is a bold, mysterious romance from Rosie Walsh, author of The Man Who Didn&#39;t Call."
-    }
+    },
+    "price": 54.53
   },
   {
     "kind": "books#volume",
@@ -11120,7 +10928,8 @@
     },
     "searchInfo": {
       "textSnippet": "... <b>Fiction</b>.Behavior—<b>Fiction</b>.Behavior—<b>Fiction</b>.Behavior—<b>Fiction</b>. Behavior—<b>Fiction</b>. Behavior—<b>Fiction</b>. Behavior—<b>Fiction</b>. I.I.I.I. (e-book)— 3.3.3.3. ISBN-10:TTTTiger—<b>Fiction</b>.iger—<b>Fiction</b>.iger—<b>Fiction</b>.iger—<b>Fiction</b>. 1-68444-062-9 4.4.4.4&nbsp;..."
-    }
+    },
+    "price": 56.07
   },
   {
     "kind": "books#volume",
@@ -11189,7 +10998,8 @@
     },
     "searchInfo": {
       "textSnippet": "... <b>Fiction</b> , CJ , XI . Dec , 755 Magazine <b>Fiction</b> , and How Not to Write It , by F. M. Bird , Lipp , X. Nov , 650 New Ways of keeping down the Issues of <b>Fiction</b> in Libraries , J. Y. W. McAlister on , Libr , VI . Aug , 236 Why do Certain&nbsp;..."
-    }
+    },
+    "price": 14.19
   },
   {
     "kind": "books#volume",
@@ -11257,7 +11067,8 @@
     },
     "searchInfo": {
       "textSnippet": "... <b>FICTION</b> , continued . Dunlop , J. C. History of prose <b>fiction</b> . New ed . By Henry Wilson . London , 1888. 2v .. 2127-37 List of books on <b>fiction</b> , pp . ix - xv . <b>Fiction</b> in public libraries . Various essays . ( Libr . j . , 1879 , iv&nbsp;..."
-    }
+    },
+    "price": 13.79
   },
   {
     "kind": "books#volume",
@@ -11330,7 +11141,8 @@
     },
     "searchInfo": {
       "textSnippet": "The Internationally Bestselling Author of The English Wife ‘Beautifully epic, romantic &amp; rich in detail’ #1 &amp; USA Today bestseller Lorna Cook ‘Sweeping and evocative’ Rosanna Ley Three sisters The Great War The end of innocence..."
-    }
+    },
+    "price": 24.83
   },
   {
     "kind": "books#volume",
@@ -11403,7 +11215,8 @@
     },
     "searchInfo": {
       "textSnippet": "What is the Place, after all? And what does it want from her? Inventive and richly imagined, Elizabeth Knox&#39;s Dreamquake, dramatic conclusion to the Dreamhunter Duet, will satisfy readers – whether or not they&#39;ve read Book One."
-    }
+    },
+    "price": 38.65
   },
   {
     "kind": "books#volume",
@@ -11466,7 +11279,8 @@
       "webReaderLink": "http://play.google.com/books/reader?id=89KdPwAACAAJ&hl=&source=gbs_api",
       "accessViewStatus": "NONE",
       "quoteSharingAllowed": false
-    }
+    },
+    "price": 69.58
   },
   {
     "kind": "books#volume",
@@ -11536,7 +11350,8 @@
     },
     "searchInfo": {
       "textSnippet": "Three tough chicks, Penny, Polly, and Molly, show their mama how much they love her in this interactive tabbed touch-and-feel board book."
-    }
+    },
+    "price": 11.41
   },
   {
     "kind": "books#volume",
@@ -11607,75 +11422,8 @@
     },
     "searchInfo": {
       "textSnippet": "WRITTEN IN 2021 THIS EDITION WAS UPDATED IN 2022 WITH NEW MATERIAL ABOUT CARING FOR DEREK AT HOME."
-    }
-  },
-  {
-    "kind": "books#volume",
-    "id": "ue1TAAAAYAAJ",
-    "etag": "GuhAiBUUnxk",
-    "selfLink": "https://www.googleapis.com/books/v1/volumes/ue1TAAAAYAAJ",
-    "volumeInfo": {
-      "title": "The Encyclopaedia Britannica",
-      "subtitle": "A Dictionary of Arts, Sciences, and General Literature",
-      "publishedDate": "1896",
-      "industryIdentifiers": [
-        {
-          "type": "OTHER",
-          "identifier": "NYPL:33433000989131"
-        }
-      ],
-      "readingModes": {
-        "text": false,
-        "image": true
-      },
-      "pageCount": 976,
-      "printType": "BOOK",
-      "categories": [
-        "Encyclopedias and dictionaries"
-      ],
-      "maturityRating": "NOT_MATURE",
-      "allowAnonLogging": false,
-      "contentVersion": "0.6.7.0.full.1",
-      "panelizationSummary": {
-        "containsEpubBubbles": false,
-        "containsImageBubbles": false
-      },
-      "imageLinks": {
-        "smallThumbnail": "http://books.google.com/books/content?id=ue1TAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-        "thumbnail": "http://books.google.com/books/content?id=ue1TAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-      },
-      "language": "en",
-      "previewLink": "http://books.google.com/books?id=ue1TAAAAYAAJ&pg=PA140&dq=fiction&hl=&cd=161&source=gbs_api",
-      "infoLink": "https://play.google.com/store/books/details?id=ue1TAAAAYAAJ&source=gbs_api",
-      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ue1TAAAAYAAJ"
     },
-    "saleInfo": {
-      "country": "NG",
-      "saleability": "FREE",
-      "isEbook": true,
-      "buyLink": "https://play.google.com/store/books/details?id=ue1TAAAAYAAJ&rdid=book-ue1TAAAAYAAJ&rdot=1&source=gbs_api"
-    },
-    "accessInfo": {
-      "country": "NG",
-      "viewability": "ALL_PAGES",
-      "embeddable": true,
-      "publicDomain": true,
-      "textToSpeechPermission": "ALLOWED",
-      "epub": {
-        "isAvailable": false,
-        "downloadLink": "http://books.google.com/books/download/The_Encyclopaedia_Britannica.epub?id=ue1TAAAAYAAJ&hl=&output=epub&source=gbs_api"
-      },
-      "pdf": {
-        "isAvailable": true,
-        "downloadLink": "http://books.google.com/books/download/The_Encyclopaedia_Britannica.pdf?id=ue1TAAAAYAAJ&hl=&output=pdf&sig=ACfU3U13haHBhMkjvaCNP8mqgtgkYpLayQ&source=gbs_api"
-      },
-      "webReaderLink": "http://play.google.com/books/reader?id=ue1TAAAAYAAJ&hl=&source=gbs_api",
-      "accessViewStatus": "FULL_PUBLIC_DOMAIN",
-      "quoteSharingAllowed": false
-    },
-    "searchInfo": {
-      "textSnippet": "... <b>fictions</b> . Sometimes they are merely the condensed expression of a rule of law , —e.g . , the <b>fiction</b> of English law that husband and wife are one person , and the <b>fiction</b> of Roman law that the wife is the daughter of the husband&nbsp;..."
-    }
+    "price": 53.46
   },
   {
     "kind": "books#volume",
@@ -11748,7 +11496,8 @@
     },
     "searchInfo": {
       "textSnippet": "_______________ &#39;Warm, witty and tremendously wise, I adored this book&#39; - Simon James Green, author of &#39;Noah Can&#39;t Even&#39; _______________ From the author of The Gravity Of Us comes a sweet and compelling coming-of-age story that explores ..."
-    }
+    },
+    "price": 58.51
   },
   {
     "kind": "books#volume",
@@ -11821,7 +11570,8 @@
     },
     "searchInfo": {
       "textSnippet": "Action packed with an added dose of heart, Jacob Wonderbar and the Cosmic Space Kapow is sure to captivate middlegrade readers all over the universe."
-    }
+    },
+    "price": 21.1
   },
   {
     "kind": "books#volume",
@@ -11894,7 +11644,8 @@
     },
     "searchInfo": {
       "textSnippet": "An Oprah&#39;s Book Club Pick A #1 New York Times Bestseller A National Bestseller Beautifully written and elegantly paced, The Story of Edgar Sawtelle is a coming-of-age novel about the power of the land and the past to shape our lives."
-    }
+    },
+    "price": 15.59
   },
   {
     "kind": "books#volume",
@@ -11968,7 +11719,8 @@
     },
     "searchInfo": {
       "textSnippet": "The Silence and the Roar follows a day in the life of Fathi Sheen, an author banned from publishing because he refuses to write propaganda for the ruling government."
-    }
+    },
+    "price": 18.98
   },
   {
     "kind": "books#volume",
@@ -12041,7 +11793,8 @@
     },
     "searchInfo": {
       "textSnippet": "This collection of articles analyzes important aspects of the complex relationships in the contemporary world between fact on the one hand and fiction and faction, history and counterfactual history on the other."
-    }
+    },
+    "price": 11.63
   },
   {
     "kind": "books#volume",
@@ -12115,7 +11868,8 @@
     },
     "searchInfo": {
       "textSnippet": "Two identical twin sisters and former child actors have grown apart—until one disappears, in this “cleverly crafted and psychologically nuanced” (Time) suspense novel from the New York Times bestselling author of Pretty Things. “An ..."
-    }
+    },
+    "price": 24.84
   },
   {
     "kind": "books#volume",
@@ -12189,7 +11943,8 @@
     },
     "searchInfo": {
       "textSnippet": "NEW YORK TIMES BESTSELLER • This sweeping novel from the author of A Long Petal of the Sea tells the epic story of Violeta Del Valle, a woman whose life spans one hundred years and bears witness to the greatest upheavals of the twentieth ..."
-    }
+    },
+    "price": 37.32
   },
   {
     "kind": "books#volume",
@@ -12263,7 +12018,8 @@
     },
     "searchInfo": {
       "textSnippet": "GOOD MORNING AMERICA BOOK CLUB PICK! • Ray McMillian is a Black classical musician on the rise—undeterred by the pressure and prejudice of the classical music world—when a shocking theft sends him on a desperate quest to recover his ..."
-    }
+    },
+    "price": 6.87
   },
   {
     "kind": "books#volume",
@@ -12339,7 +12095,8 @@
     },
     "searchInfo": {
       "textSnippet": "... <b>fiction</b> and non - <b>fiction</b> texts and the differences in ways of reading such texts . The following section therefore considers the nature of non - <b>fiction</b> texts and ways in which they are read , before moving on to consider the&nbsp;..."
-    }
+    },
+    "price": 46.7
   },
   {
     "kind": "books#volume",
@@ -12413,7 +12170,8 @@
     },
     "searchInfo": {
       "textSnippet": "... <b>fiction</b> is a wart, which here and there deforms the face of justice: in English law, <b>fiction</b> is a syphilis, which runs in every vein, and carries into every part of the system the principle of rottenness.” On the Art of Packing Special&nbsp;..."
-    }
+    },
+    "price": 14.7
   },
   {
     "kind": "books#volume",
@@ -12482,7 +12240,8 @@
     },
     "searchInfo": {
       "textSnippet": "&#39;I have nothing but sympathy for how people behave - and nothing but laughter to console them with&#39; This is the life and times of T. S. Garp, the bastard son of Jenny Fields - a feminist leader ahead of her times."
-    }
+    },
+    "price": 68.68
   },
   {
     "kind": "books#volume",
@@ -12555,7 +12314,8 @@
     },
     "searchInfo": {
       "textSnippet": "This rich novel, filled with beauty, danger, politics, and intrigue, comes to a powerful crescendo, leaving readers clamoring for Book Two. Dreamhunter is a 2007 Bank Street - Best Children&#39;s Book of the Year."
-    }
+    },
+    "price": 41.83
   },
   {
     "kind": "books#volume",
@@ -12629,7 +12389,8 @@
     },
     "searchInfo": {
       "textSnippet": "In late March 1944, as Stalin&#39;s forces push into Ukraine, young Emil and Adeline Martel decide they must run in retreat from their land with murderous Nazi officers they despise to escape the Soviets and go in search of freedom."
-    }
+    },
+    "price": 15.22
   },
   {
     "kind": "books#volume",
@@ -12702,7 +12463,8 @@
     },
     "searchInfo": {
       "textSnippet": "A great book of bedtime stories or for rainy day reading, as there are both short and long anecdotes included. Curl up with this collection of classics and lose yourself in childhood memories."
-    }
+    },
+    "price": 45.5
   },
   {
     "kind": "books#volume",
@@ -12774,7 +12536,8 @@
     },
     "searchInfo": {
       "textSnippet": "Cardiff in 1878 is grimy, crowded and grey, and Ellen dreams of escaping her dreary life as a domestic for the sea."
-    }
+    },
+    "price": 67.88
   },
   {
     "kind": "books#volume",
@@ -12849,7 +12612,8 @@
     },
     "searchInfo": {
       "textSnippet": "To Pastor Ezekiel Freeman, Abra will always be the little girl who stole his heart the night he found her, a wailing newborn abandoned under a bridge on the outskirts of Haven."
-    }
+    },
+    "price": 49.66
   },
   {
     "kind": "books#volume",
@@ -12923,7 +12687,8 @@
     },
     "searchInfo": {
       "textSnippet": "ONE OF THE BEST BOOKS OF THE YEAR: The Washington Post, The Guardian, Glamour, Elle, PopSugar, Newsweek, Mental Floss, She Reads, Kirkus Reviews"
-    }
+    },
+    "price": 32.75
   },
   {
     "kind": "books#volume",
@@ -12992,7 +12757,8 @@
     },
     "searchInfo": {
       "textSnippet": "Zooom Wooeeee ."
-    }
+    },
+    "price": 28.65
   },
   {
     "kind": "books#volume",
@@ -13065,7 +12831,8 @@
     },
     "searchInfo": {
       "textSnippet": "A terrorist plot in London leads Israeli spy Gabriel Allon on a desperate search for a kidnapped woman in this thriller from #1 New York Times bestselling author Daniel Silva."
-    }
+    },
+    "price": 30.25
   },
   {
     "kind": "books#volume",
@@ -13138,70 +12905,8 @@
     },
     "searchInfo": {
       "textSnippet": "Come play the Zero Game - you can bet your life on it."
-    }
-  },
-  {
-    "kind": "books#volume",
-    "id": "fko7AQAAMAAJ",
-    "etag": "lhievrQT1+0",
-    "selfLink": "https://www.googleapis.com/books/v1/volumes/fko7AQAAMAAJ",
-    "volumeInfo": {
-      "title": "Wiseman Review",
-      "publishedDate": "1878",
-      "industryIdentifiers": [
-        {
-          "type": "OTHER",
-          "identifier": "PSU:000066658368"
-        }
-      ],
-      "readingModes": {
-        "text": false,
-        "image": true
-      },
-      "pageCount": 554,
-      "printType": "BOOK",
-      "maturityRating": "NOT_MATURE",
-      "allowAnonLogging": false,
-      "contentVersion": "0.5.6.0.full.1",
-      "panelizationSummary": {
-        "containsEpubBubbles": false,
-        "containsImageBubbles": false
-      },
-      "imageLinks": {
-        "smallThumbnail": "http://books.google.com/books/content?id=fko7AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-        "thumbnail": "http://books.google.com/books/content?id=fko7AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-      },
-      "language": "en",
-      "previewLink": "http://books.google.com/books?id=fko7AQAAMAAJ&pg=PA440&dq=fiction&hl=&cd=182&source=gbs_api",
-      "infoLink": "https://play.google.com/store/books/details?id=fko7AQAAMAAJ&source=gbs_api",
-      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=fko7AQAAMAAJ"
     },
-    "saleInfo": {
-      "country": "NG",
-      "saleability": "FREE",
-      "isEbook": true,
-      "buyLink": "https://play.google.com/store/books/details?id=fko7AQAAMAAJ&rdid=book-fko7AQAAMAAJ&rdot=1&source=gbs_api"
-    },
-    "accessInfo": {
-      "country": "NG",
-      "viewability": "ALL_PAGES",
-      "embeddable": true,
-      "publicDomain": true,
-      "textToSpeechPermission": "ALLOWED",
-      "epub": {
-        "isAvailable": false,
-        "downloadLink": "http://books.google.com/books/download/Wiseman_Review.epub?id=fko7AQAAMAAJ&hl=&output=epub&source=gbs_api"
-      },
-      "pdf": {
-        "isAvailable": false
-      },
-      "webReaderLink": "http://play.google.com/books/reader?id=fko7AQAAMAAJ&hl=&source=gbs_api",
-      "accessViewStatus": "FULL_PUBLIC_DOMAIN",
-      "quoteSharingAllowed": false
-    },
-    "searchInfo": {
-      "textSnippet": "... <b>fiction</b> . The novels are for every class and at every price , from a guinea and a half , or more , down to a few pence . Delivery - vans carry the volumes to be exchanged daily round London , as regularly as the supply of food is&nbsp;..."
-    }
+    "price": 27.46
   },
   {
     "kind": "books#volume",
@@ -13274,7 +12979,8 @@
     },
     "searchInfo": {
       "textSnippet": "In the small Nigerian village of Keti live Mamo and LaMamo, twin sons of a domineering father."
-    }
+    },
+    "price": 68.55
   },
   {
     "kind": "books#volume",
@@ -13349,7 +13055,8 @@
     },
     "searchInfo": {
       "textSnippet": "An International Bestseller • &quot;This is a shattering work by a literary master.”—Boston Globe A city is hit by an epidemic of &quot;white blindness&quot; which spares no one."
-    }
+    },
+    "price": 48.68
   },
   {
     "kind": "books#volume",
@@ -13424,7 +13131,8 @@
     },
     "searchInfo": {
       "textSnippet": "Award-winning author James Scott Bell offers clear, concise information that will help you create a believable and memorable plot, including: • Techniques for crafting strong beginnings, middles, and ends • Easy-to-understand plotting ..."
-    }
+    },
+    "price": 61.77
   },
   {
     "kind": "books#volume",
@@ -13496,7 +13204,8 @@
     },
     "searchInfo": {
       "textSnippet": "1942. Three years into the war, Pam turns down her hard-won place at Oxford University to become a codebreaker at Bletchley Park."
-    }
+    },
+    "price": 12.09
   },
   {
     "kind": "books#volume",
@@ -13570,74 +13279,8 @@
     },
     "searchInfo": {
       "textSnippet": "The Virgins is the story of Aviva and Seung’s descent into confusion and shame, as re-imagined in richly detailed episodes by their classmate Bruce, a once-embittered voyeur turned repentant narrator."
-    }
-  },
-  {
-    "kind": "books#volume",
-    "id": "RPJWAAAAIAAJ",
-    "etag": "weQSB7/KaV0",
-    "selfLink": "https://www.googleapis.com/books/v1/volumes/RPJWAAAAIAAJ",
-    "volumeInfo": {
-      "title": "The Methodist Review",
-      "publishedDate": "1888",
-      "industryIdentifiers": [
-        {
-          "type": "OTHER",
-          "identifier": "UCAL:$B218097"
-        }
-      ],
-      "readingModes": {
-        "text": false,
-        "image": true
-      },
-      "pageCount": 992,
-      "printType": "BOOK",
-      "categories": [
-        "Methodist Church"
-      ],
-      "maturityRating": "NOT_MATURE",
-      "allowAnonLogging": false,
-      "contentVersion": "0.13.17.0.full.1",
-      "panelizationSummary": {
-        "containsEpubBubbles": false,
-        "containsImageBubbles": false
-      },
-      "imageLinks": {
-        "smallThumbnail": "http://books.google.com/books/content?id=RPJWAAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-        "thumbnail": "http://books.google.com/books/content?id=RPJWAAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-      },
-      "language": "en",
-      "previewLink": "http://books.google.com/books?id=RPJWAAAAIAAJ&pg=PA561&dq=fiction&hl=&cd=188&source=gbs_api",
-      "infoLink": "https://play.google.com/store/books/details?id=RPJWAAAAIAAJ&source=gbs_api",
-      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=RPJWAAAAIAAJ"
     },
-    "saleInfo": {
-      "country": "NG",
-      "saleability": "FREE",
-      "isEbook": true,
-      "buyLink": "https://play.google.com/store/books/details?id=RPJWAAAAIAAJ&rdid=book-RPJWAAAAIAAJ&rdot=1&source=gbs_api"
-    },
-    "accessInfo": {
-      "country": "NG",
-      "viewability": "ALL_PAGES",
-      "embeddable": true,
-      "publicDomain": true,
-      "textToSpeechPermission": "ALLOWED",
-      "epub": {
-        "isAvailable": false,
-        "downloadLink": "http://books.google.com/books/download/The_Methodist_Review.epub?id=RPJWAAAAIAAJ&hl=&output=epub&source=gbs_api"
-      },
-      "pdf": {
-        "isAvailable": true,
-        "downloadLink": "http://books.google.com/books/download/The_Methodist_Review.pdf?id=RPJWAAAAIAAJ&hl=&output=pdf&sig=ACfU3U0s90FIjdvINX-zg3del1GZh0sFUg&source=gbs_api"
-      },
-      "webReaderLink": "http://play.google.com/books/reader?id=RPJWAAAAIAAJ&hl=&source=gbs_api",
-      "accessViewStatus": "FULL_PUBLIC_DOMAIN",
-      "quoteSharingAllowed": false
-    },
-    "searchInfo": {
-      "textSnippet": "... <b>fictions</b> , as apostolic succession and priestly absolutions ; commercial <b>fictions</b> , as the cash system ; and liter- ary <b>fictions</b> , as the copyright of authors . Life itself is a stupen- dous <b>fiction</b> , a great disguise breaking through&nbsp;..."
-    }
+    "price": 18.61
   },
   {
     "kind": "books#volume",
@@ -13703,7 +13346,8 @@
     },
     "searchInfo": {
       "textSnippet": "... <b>Fiction</b> , two sets , pages ........ Juvenile <b>Fiction</b> , two sets , pages ...... Natural Science , pages ...... Reference Magazine shelf list , pages .. Total ..1292 ..332 .270 ..350 .2244 This department has in charge lists of new books&nbsp;..."
-    }
+    },
+    "price": 68.23
   },
   {
     "kind": "books#volume",
@@ -13777,7 +13421,8 @@
     },
     "searchInfo": {
       "textSnippet": "Brimming with delightful anecdotes as well as poignant, often painful revelations, this book is a tour de force."
-    }
+    },
+    "price": 49.7
   },
   {
     "kind": "books#volume",
@@ -13848,7 +13493,8 @@
     },
     "searchInfo": {
       "textSnippet": "Classic hardback edition of the first volume of The Lord of the Rings, featuring Tolkien&#39;s original unused dust-jacket design. Includes special packaging and the definitive edition of the text with fold-out map and colour plate section."
-    }
+    },
+    "price": 33.35
   },
   {
     "kind": "books#volume",
@@ -13914,7 +13560,8 @@
     },
     "searchInfo": {
       "textSnippet": "... <b>fiction</b> . July , 1895 : vol. 233 . Diet . July , 1894 : vol . 13 , p . 88 . Disinfection and disinfectants . July , 1894 : vol . 13 , p . 74 . Drainage of houses . July , 1894 : vol . 13 , pp . 75 , 126 . Drainage of land . July , 1894&nbsp;..."
-    }
+    },
+    "price": 13
   },
   {
     "kind": "books#volume",
@@ -13983,7 +13630,8 @@
     },
     "searchInfo": {
       "textSnippet": "&quot;Lily and her ex-husband, Ryle, have just settled into a civil co-parenting rhythm when she suddenly bumps into her first love, Atlas, again."
-    }
+    },
+    "price": 46.14
   },
   {
     "kind": "books#volume",
@@ -14056,7 +13704,8 @@
     },
     "searchInfo": {
       "textSnippet": "This beautiful picture book is inspired by Today show co-anchor Hoda Kotb’s heartwarming adoption of her baby girl, Haley Joy."
-    }
+    },
+    "price": 50.77
   },
   {
     "kind": "books#volume",
@@ -14129,7 +13778,8 @@
     },
     "searchInfo": {
       "textSnippet": "For more than thirty years Edie and Richard Middlestein shared a solid family life in the suburbs of Chicago But now things are splintering apart Edie is obsessed with food -- and if she doesn&#39;t stop she won&#39;t have much longer to live ?"
-    }
+    },
+    "price": 55.89
   },
   {
     "kind": "books#volume",
@@ -14199,7 +13849,8 @@
     },
     "searchInfo": {
       "textSnippet": "&quot;Five stories of unlikely women who changed eternity&quot;--Cover."
-    }
+    },
+    "price": 59.27
   },
   {
     "kind": "books#volume",
@@ -14272,7 +13923,8 @@
     },
     "searchInfo": {
       "textSnippet": "No novelist sees the world in all its mesmerising contradictions like Tom Robbins, the New York Times bestselling author of Half Asleep in Frog Pajamas."
-    }
+    },
+    "price": 66.96
   },
   {
     "kind": "books#volume",
@@ -14345,7 +13997,8 @@
     },
     "searchInfo": {
       "textSnippet": "Deftly shifting perspectives and time periods, The Topeka School is the story of a family, its struggles and its strengths: Jane&#39;s reckoning with the legacy of an abusive father, Jonathan&#39;s marital transgressions, the challenge of raising a ..."
-    }
+    },
+    "price": 67.56
   },
   {
     "kind": "books#volume",
@@ -14418,7 +14071,8 @@
     },
     "searchInfo": {
       "textSnippet": "&quot;When the Chance siblings, all unable to find love, reunite to plan the ultimate fiftieth anniversary party for their parents, they all must contend with romantic entanglements, sibling rivalries and the definitive end of their childhood."
-    }
+    },
+    "price": 17.29
   },
   {
     "kind": "books#volume",
@@ -14484,7 +14138,8 @@
     },
     "searchInfo": {
       "textSnippet": "A brilliant but sadistic safe-breaker; a beautiful seductress; an expert young hunter and an ace pilot with a shady past - this is the team that undercover operator Armo Shalik assembles to steal the priceless Borgia ring from millionaire ..."
-    }
+    },
+    "price": 8.58
   },
   {
     "kind": "books#volume",
@@ -14550,72 +14205,8 @@
     },
     "searchInfo": {
       "textSnippet": "A brilliant but sadistic safe-breaker; a beautiful seductress; an expert young hunter and an ace pilot with a shady past - this is the team that undercover operator Armo Shalik assembles to steal the priceless Borgia ring from millionaire ..."
-    }
-  },
-  {
-    "kind": "books#volume",
-    "id": "7J8MAAAAYAAJ",
-    "etag": "EbM5Jb5w5uQ",
-    "selfLink": "https://www.googleapis.com/books/v1/volumes/7J8MAAAAYAAJ",
-    "volumeInfo": {
-      "title": "Chambers's Encyclopaedia",
-      "subtitle": "A Dictionary of Universal Knowledge for the People",
-      "publishedDate": "1883",
-      "industryIdentifiers": [
-        {
-          "type": "OTHER",
-          "identifier": "HARVARD:HN69XK"
-        }
-      ],
-      "readingModes": {
-        "text": false,
-        "image": true
-      },
-      "pageCount": 842,
-      "printType": "BOOK",
-      "maturityRating": "NOT_MATURE",
-      "allowAnonLogging": false,
-      "contentVersion": "0.5.7.0.full.1",
-      "panelizationSummary": {
-        "containsEpubBubbles": false,
-        "containsImageBubbles": false
-      },
-      "imageLinks": {
-        "smallThumbnail": "http://books.google.com/books/content?id=7J8MAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-        "thumbnail": "http://books.google.com/books/content?id=7J8MAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-      },
-      "language": "en",
-      "previewLink": "http://books.google.com/books?id=7J8MAAAAYAAJ&pg=PA316&dq=fiction&hl=&cd=202&source=gbs_api",
-      "infoLink": "https://play.google.com/store/books/details?id=7J8MAAAAYAAJ&source=gbs_api",
-      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=7J8MAAAAYAAJ"
     },
-    "saleInfo": {
-      "country": "NG",
-      "saleability": "FREE",
-      "isEbook": true,
-      "buyLink": "https://play.google.com/store/books/details?id=7J8MAAAAYAAJ&rdid=book-7J8MAAAAYAAJ&rdot=1&source=gbs_api"
-    },
-    "accessInfo": {
-      "country": "NG",
-      "viewability": "ALL_PAGES",
-      "embeddable": true,
-      "publicDomain": true,
-      "textToSpeechPermission": "ALLOWED",
-      "epub": {
-        "isAvailable": false,
-        "downloadLink": "http://books.google.com/books/download/Chambers_s_Encyclopaedia.epub?id=7J8MAAAAYAAJ&hl=&output=epub&source=gbs_api"
-      },
-      "pdf": {
-        "isAvailable": true,
-        "downloadLink": "http://books.google.com/books/download/Chambers_s_Encyclopaedia.pdf?id=7J8MAAAAYAAJ&hl=&output=pdf&sig=ACfU3U3E6lnwc5yTGvxvSAJBJsAp-bt1fQ&source=gbs_api"
-      },
-      "webReaderLink": "http://play.google.com/books/reader?id=7J8MAAAAYAAJ&hl=&source=gbs_api",
-      "accessViewStatus": "FULL_PUBLIC_DOMAIN",
-      "quoteSharingAllowed": false
-    },
-    "searchInfo": {
-      "textSnippet": "... <b>fictions</b> - viz . , that no <b>fiction</b> shall be allowed to operate a wrong , and that no <b>fiction</b> shall be admitted which in the nature of things is impossible . The Roman form of judi- cial procedure abounded with <b>fictions</b> , by which alone&nbsp;..."
-    }
+    "price": 31.59
   },
   {
     "kind": "books#volume",
@@ -14688,7 +14279,8 @@
     },
     "searchInfo": {
       "textSnippet": "Sunvault is the first anthology to broadly collect solarpunk short fiction, artwork, and poetry. A new genre for the 21st Century, solarpunk is a revolution against despair."
-    }
+    },
+    "price": 18.61
   },
   {
     "kind": "books#volume",
@@ -14761,7 +14353,8 @@
     },
     "searchInfo": {
       "textSnippet": "Eleven Hours is the story of two soon-to-be mothers who, in the midst of a difficult labor, are forced to reckon with their pasts and re-create their futures."
-    }
+    },
+    "price": 26.21
   },
   {
     "kind": "books#volume",
@@ -14835,7 +14428,8 @@
     },
     "searchInfo": {
       "textSnippet": "Praise for Iain Banks: &#39;The most imaginative novelist of his generation&#39; The Times &#39;His verve and talent will always be recognised, and his work will always find and enthral new readers&#39; Ken MacLeod, Guardian &#39;His work was mordant, surreal, ..."
-    }
+    },
+    "price": 66.9
   },
   {
     "kind": "books#volume",
@@ -14908,7 +14502,8 @@
     },
     "searchInfo": {
       "textSnippet": "Told in gut-wrenchingly honest, mordantly comic vignettes, All Grown Up is a breathtaking display of Jami Attenberg’s power as a storyteller, a whip-smart examination of one woman’s life, lived entirely on her own terms."
-    }
+    },
+    "price": 17.6
   },
   {
     "kind": "books#volume",
@@ -14982,7 +14577,8 @@
     },
     "searchInfo": {
       "textSnippet": "Bestselling and acclaimed author Allison Pataki has crafted an intimate portrait of a larger-than-life woman, a powerful story of one woman falling in love with her own voice and embracing her own power while shaping history in the process."
-    }
+    },
+    "price": 65.49
   },
   {
     "kind": "books#volume",
@@ -15056,7 +14652,8 @@
     },
     "searchInfo": {
       "textSnippet": "Glory is a blockbuster, an exhilarating ride, and crystalizes a turning point in history with the texture and nuance that only the greatest of fiction can."
-    }
+    },
+    "price": 28.76
   },
   {
     "kind": "books#volume",
@@ -15132,7 +14729,8 @@
     },
     "searchInfo": {
       "textSnippet": "Recently placed in charge of the Aqua Augusta, the aqueduct that brings fresh water to thousands of people around the bay of Naples, Roman engineer Marius Primus struggles to discover why the aqueduct has ceased delivering water and heads ..."
-    }
+    },
+    "price": 57.2
   },
   {
     "kind": "books#volume",
@@ -15201,7 +14799,8 @@
     },
     "searchInfo": {
       "textSnippet": "... <b>FICTION</b> . of me goin &#39; , &quot; said Harry . 66 &quot; Nor us , &quot; said Dave and Jim Blanchard ; &#39; &#39; cause there&#39;s father . and uncle Seth , and Scip . &quot; The rest of the boys started for home on the run , but were scarcely out of sight before Mrs&nbsp;..."
-    }
+    },
+    "price": 66.12
   },
   {
     "kind": "books#volume",
@@ -15271,71 +14870,8 @@
     },
     "searchInfo": {
       "textSnippet": "... <b>fiction</b> . We use the word in its legal sense . &quot; А <b>fiction</b> is a rule of law which assumes as true , and will not allow it to be disproved , that which is false , but not impossible . &quot; 1 It &quot; is the resource of weakness , which , in&nbsp;..."
-    }
-  },
-  {
-    "kind": "books#volume",
-    "id": "p6o9AAAAYAAJ",
-    "etag": "q6UHs/fpDvs",
-    "selfLink": "https://www.googleapis.com/books/v1/volumes/p6o9AAAAYAAJ",
-    "volumeInfo": {
-      "title": "Publications",
-      "publishedDate": "1897",
-      "industryIdentifiers": [
-        {
-          "type": "OTHER",
-          "identifier": "NYPL:33433005457738"
-        }
-      ],
-      "readingModes": {
-        "text": false,
-        "image": true
-      },
-      "pageCount": 634,
-      "printType": "BOOK",
-      "maturityRating": "NOT_MATURE",
-      "allowAnonLogging": false,
-      "contentVersion": "1.10.11.0.full.1",
-      "panelizationSummary": {
-        "containsEpubBubbles": false,
-        "containsImageBubbles": false
-      },
-      "imageLinks": {
-        "smallThumbnail": "http://books.google.com/books/content?id=p6o9AAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-        "thumbnail": "http://books.google.com/books/content?id=p6o9AAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-      },
-      "language": "en",
-      "previewLink": "http://books.google.com/books?id=p6o9AAAAYAAJ&pg=RA7-PA48&dq=fiction&hl=&cd=212&source=gbs_api",
-      "infoLink": "https://play.google.com/store/books/details?id=p6o9AAAAYAAJ&source=gbs_api",
-      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=p6o9AAAAYAAJ"
     },
-    "saleInfo": {
-      "country": "NG",
-      "saleability": "FREE",
-      "isEbook": true,
-      "buyLink": "https://play.google.com/store/books/details?id=p6o9AAAAYAAJ&rdid=book-p6o9AAAAYAAJ&rdot=1&source=gbs_api"
-    },
-    "accessInfo": {
-      "country": "NG",
-      "viewability": "ALL_PAGES",
-      "embeddable": true,
-      "publicDomain": true,
-      "textToSpeechPermission": "ALLOWED",
-      "epub": {
-        "isAvailable": false,
-        "downloadLink": "http://books.google.com/books/download/Publications.epub?id=p6o9AAAAYAAJ&hl=&output=epub&source=gbs_api"
-      },
-      "pdf": {
-        "isAvailable": true,
-        "downloadLink": "http://books.google.com/books/download/Publications.pdf?id=p6o9AAAAYAAJ&hl=&output=pdf&sig=ACfU3U2KMlKIGJ1GJ4oGuiTB1rdbRjuZig&source=gbs_api"
-      },
-      "webReaderLink": "http://play.google.com/books/reader?id=p6o9AAAAYAAJ&hl=&source=gbs_api",
-      "accessViewStatus": "FULL_PUBLIC_DOMAIN",
-      "quoteSharingAllowed": false
-    },
-    "searchInfo": {
-      "textSnippet": "... <b>fiction</b> question had been shed through an experiment by the Grand Rapids , Michigan , Public Library . &quot; All the larger libraries now report regularly the proportion of <b>fiction</b> circulated , and from the high percentage the conclusion&nbsp;..."
-    }
+    "price": 65.32
   },
   {
     "kind": "books#volume",
@@ -15408,7 +14944,8 @@
     },
     "searchInfo": {
       "textSnippet": "In the war against Hitler every secret counts... ‘Shines a light on a part of the British war effort I’d previously not been aware of...a fascinating, informative and heartwarming novel, and I loved it’ The New York Times and Sunday ..."
-    }
+    },
+    "price": 44.59
   },
   {
     "kind": "books#volume",
@@ -15482,7 +15019,8 @@
     },
     "searchInfo": {
       "textSnippet": "Medel&#39;s prose is hypnotic – it&#39;s hard to believe this is her first novel."
-    }
+    },
+    "price": 29.86
   },
   {
     "kind": "books#volume",
@@ -15555,7 +15093,8 @@
     },
     "searchInfo": {
       "textSnippet": "&quot;Captivating, minutely imagined . . . a novel that refuses to stay shut&quot; (&quot;Newsweek&quot;), &quot;Memoirs of a Geisha&quot; is now released in a movie tie-in edition."
-    }
+    },
+    "price": 27.77
   },
   {
     "kind": "books#volume",
@@ -15630,7 +15169,8 @@
     },
     "searchInfo": {
       "textSnippet": "In this essential guide, John Gardner advises the aspiring fiction author on such topics as the value of creative writing workshops, the developmental stages of literary growth, and the inevitable experience of writer’s block."
-    }
+    },
+    "price": 53.15
   },
   {
     "kind": "books#volume",
@@ -15704,7 +15244,8 @@
     },
     "searchInfo": {
       "textSnippet": "WINNER OF THE 2020 NATIONAL BOOK AWARD IN TRANSLATED LITERATURE A NEW YORK TIMES NOTABLE BOOK OF THE YEAR A surreal, devastating story of a homeless ghost who haunts one of Tokyo&#39;s busiest train stations."
-    }
+    },
+    "price": 62.74
   },
   {
     "kind": "books#volume",
@@ -15777,7 +15318,8 @@
     },
     "searchInfo": {
       "textSnippet": "Not yet. The fallout might also force Ava to finally reconcile who she&#39;s been pretending to be with who she actually is--a woman discovering the real meaning of a full and balanced life."
-    }
+    },
+    "price": 52.49
   },
   {
     "kind": "books#volume",
@@ -15851,7 +15393,8 @@
     },
     "searchInfo": {
       "textSnippet": ". . Don&#39;t miss the next 2 books in the brilliant Dover Cafe Series, The Dover Cafe Under Fire and Return to the Dover Cafe. Available in paperback and ebook. And the fifth book, The Dover Cafe on Trial, is available to pre-order now!"
-    }
+    },
+    "price": 43.37
   },
   {
     "kind": "books#volume",
@@ -15922,7 +15465,8 @@
     },
     "searchInfo": {
       "textSnippet": "... <b>fiction</b> from the just reprobation which a century of wild and loose romancing and play - writing , of coarse and lewd novel - writing , had brought upon <b>fiction</b> in general , when the recent school of sensational and dissolute novel&nbsp;..."
-    }
+    },
+    "price": 62.56
   },
   {
     "kind": "books#volume",
@@ -15996,7 +15540,8 @@
     },
     "searchInfo": {
       "textSnippet": "Binding them all together is a vision of life as vast as the universe itself. A young writer awarded one of the most prestigious prizes in India for this novel, Shubhangi Swarup is a storyteller of extraordinary talent and insight."
-    }
+    },
+    "price": 46.76
   },
   {
     "kind": "books#volume",
@@ -16070,7 +15615,8 @@
     },
     "searchInfo": {
       "textSnippet": "A REESE&#39;S BOOK CLUB PICK INSTANT NEW YORK TIMES BESTSELLER “Are you ready for the roller coaster ride that is The Club?"
-    }
+    },
+    "price": 30.27
   },
   {
     "kind": "books#volume",
@@ -16131,7 +15677,8 @@
     },
     "searchInfo": {
       "textSnippet": "Originally a commercial failure, the book ended up being the best selling of any of Twain&#39;s works during his lifetime."
-    }
+    },
+    "price": 60.42
   },
   {
     "kind": "books#volume",
@@ -16204,7 +15751,8 @@
     },
     "searchInfo": {
       "textSnippet": "But at what cost have they acquired their immense fortune? This is the mystery at the center of Bonds, a successful 1937 novel that all of New York seems to have read. Yet there are other versions of this tale of privilege and deceit."
-    }
+    },
+    "price": 67.2
   },
   {
     "kind": "books#volume",
@@ -16278,7 +15826,8 @@
     },
     "searchInfo": {
       "textSnippet": "Samuel Arbesman shows us how knowledge in most fields evolves systematically and predictably, and how this evolution unfolds in a fascinating way that can have a powerful impact on our lives."
-    }
+    },
+    "price": 22.42
   },
   {
     "kind": "books#volume",
@@ -16348,7 +15897,8 @@
     },
     "searchInfo": {
       "textSnippet": "... <b>FICTION</b> - Novels , Tales , and Romances- FRENCH <b>FICTION</b> . See p . 207 . 651 , 8829 34221 GERMAN <b>FICTION</b> . See p . 211 . ITALIAN <b>FICTION</b> . See p . 212 . Oliver in a Garden Fair . Besant in the Dark . Le Fanu in the Wrong . Hook&nbsp;..."
-    }
+    },
+    "price": 10.39
   },
   {
     "kind": "books#volume",
@@ -16422,7 +15972,8 @@
     },
     "searchInfo": {
       "textSnippet": "Evoking both the fairy-tale charm of Haruki Murakami and the enthusiastic novel-of-ideas wizardry of Neal Stephenson or Umberto Eco, Mr. Penumbra’s 24-Hour Bookstore is exactly what it sounds like—an establishment you have to enter and ..."
-    }
+    },
+    "price": 54.77
   },
   {
     "kind": "books#volume",
@@ -16498,7 +16049,8 @@
     },
     "searchInfo": {
       "textSnippet": "With devastating wit and an abiding understanding of and affection for his characters, Jeffrey Eugenides revives the motivating energies of the Novel, while creating a story so contemporary and fresh that it reads like the intimate journal ..."
-    }
+    },
+    "price": 32.5
   },
   {
     "kind": "books#volume",
@@ -16572,7 +16124,8 @@
     },
     "searchInfo": {
       "textSnippet": "A warm and heartfelt WW2 saga of hope, love, and female friendship and how women pull together through good times and bad."
-    }
+    },
+    "price": 45.24
   },
   {
     "kind": "books#volume",
@@ -16646,71 +16199,8 @@
     },
     "searchInfo": {
       "textSnippet": "“A stellar debut . . . about an unconventional family, fear, hatred, violence, chasing love, losing it and finding it again just when we need it most.”—The New York Times Book Review WINNER OF THE COSTA BOOK AWARD • “A wonder . .  ..."
-    }
-  },
-  {
-    "kind": "books#volume",
-    "id": "IqHQAAAAMAAJ",
-    "etag": "1b8NqmkI76w",
-    "selfLink": "https://www.googleapis.com/books/v1/volumes/IqHQAAAAMAAJ",
-    "volumeInfo": {
-      "title": "Pearson's Magazine",
-      "publishedDate": "1902",
-      "industryIdentifiers": [
-        {
-          "type": "OTHER",
-          "identifier": "IND:30000093231235"
-        }
-      ],
-      "readingModes": {
-        "text": false,
-        "image": false
-      },
-      "pageCount": 692,
-      "printType": "BOOK",
-      "categories": [
-        "English fiction"
-      ],
-      "maturityRating": "NOT_MATURE",
-      "allowAnonLogging": false,
-      "contentVersion": "3.9.10.0.preview.0",
-      "panelizationSummary": {
-        "containsEpubBubbles": false,
-        "containsImageBubbles": false
-      },
-      "imageLinks": {
-        "smallThumbnail": "http://books.google.com/books/content?id=IqHQAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-        "thumbnail": "http://books.google.com/books/content?id=IqHQAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-      },
-      "language": "en",
-      "previewLink": "http://books.google.com/books?id=IqHQAAAAMAAJ&q=fiction&dq=fiction&hl=&cd=231&source=gbs_api",
-      "infoLink": "http://books.google.com/books?id=IqHQAAAAMAAJ&dq=fiction&hl=&source=gbs_api",
-      "canonicalVolumeLink": "https://books.google.com/books/about/Pearson_s_Magazine.html?hl=&id=IqHQAAAAMAAJ"
     },
-    "saleInfo": {
-      "country": "NG",
-      "saleability": "NOT_FOR_SALE",
-      "isEbook": false
-    },
-    "accessInfo": {
-      "country": "NG",
-      "viewability": "NO_PAGES",
-      "embeddable": false,
-      "publicDomain": false,
-      "textToSpeechPermission": "ALLOWED",
-      "epub": {
-        "isAvailable": false
-      },
-      "pdf": {
-        "isAvailable": true
-      },
-      "webReaderLink": "http://play.google.com/books/reader?id=IqHQAAAAMAAJ&hl=&source=gbs_api",
-      "accessViewStatus": "NONE",
-      "quoteSharingAllowed": false
-    },
-    "searchInfo": {
-      "textSnippet": "... ( <b>Fiction</b> ) 649 ( <b>Fiction</b> ) . 91 An Eye for an Eye , and a Tooth for a Tooth Lesson in Democracy , A ( <b>Fiction</b> ) Lord Salisbury . 427 542 ( <b>Fiction</b> ) 307 Love Lacks no Language ( Poem ) 302 Analysing Motion 502 Art of the Age , The 3,123&nbsp;..."
-    }
+    "price": 14.7
   },
   {
     "kind": "books#volume",
@@ -16783,71 +16273,8 @@
     },
     "searchInfo": {
       "textSnippet": "‘A real page-turner full of wartime friendships, hope and love’ NetGalley reviewer ⭐⭐⭐⭐⭐ On the Home Front, one girl is determined to make a difference."
-    }
-  },
-  {
-    "kind": "books#volume",
-    "id": "KikZAAAAYAAJ",
-    "etag": "INdymhZZMJw",
-    "selfLink": "https://www.googleapis.com/books/v1/volumes/KikZAAAAYAAJ",
-    "volumeInfo": {
-      "title": "The Chautauquan",
-      "publishedDate": "1893",
-      "industryIdentifiers": [
-        {
-          "type": "OTHER",
-          "identifier": "PRNC:32101064474362"
-        }
-      ],
-      "readingModes": {
-        "text": false,
-        "image": true
-      },
-      "pageCount": 780,
-      "printType": "BOOK",
-      "maturityRating": "NOT_MATURE",
-      "allowAnonLogging": false,
-      "contentVersion": "0.3.8.0.full.1",
-      "panelizationSummary": {
-        "containsEpubBubbles": false,
-        "containsImageBubbles": false
-      },
-      "imageLinks": {
-        "smallThumbnail": "http://books.google.com/books/content?id=KikZAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-        "thumbnail": "http://books.google.com/books/content?id=KikZAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-      },
-      "language": "en",
-      "previewLink": "http://books.google.com/books?id=KikZAAAAYAAJ&pg=PA43&dq=fiction&hl=&cd=233&source=gbs_api",
-      "infoLink": "https://play.google.com/store/books/details?id=KikZAAAAYAAJ&source=gbs_api",
-      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=KikZAAAAYAAJ"
     },
-    "saleInfo": {
-      "country": "NG",
-      "saleability": "FREE",
-      "isEbook": true,
-      "buyLink": "https://play.google.com/store/books/details?id=KikZAAAAYAAJ&rdid=book-KikZAAAAYAAJ&rdot=1&source=gbs_api"
-    },
-    "accessInfo": {
-      "country": "NG",
-      "viewability": "ALL_PAGES",
-      "embeddable": true,
-      "publicDomain": true,
-      "textToSpeechPermission": "ALLOWED",
-      "epub": {
-        "isAvailable": false,
-        "downloadLink": "http://books.google.com/books/download/The_Chautauquan.epub?id=KikZAAAAYAAJ&hl=&output=epub&source=gbs_api"
-      },
-      "pdf": {
-        "isAvailable": true,
-        "downloadLink": "http://books.google.com/books/download/The_Chautauquan.pdf?id=KikZAAAAYAAJ&hl=&output=pdf&sig=ACfU3U2BcFJXEQ3eFSeZiPLcEV6z-jWuYw&source=gbs_api"
-      },
-      "webReaderLink": "http://play.google.com/books/reader?id=KikZAAAAYAAJ&hl=&source=gbs_api",
-      "accessViewStatus": "FULL_PUBLIC_DOMAIN",
-      "quoteSharingAllowed": false
-    },
-    "searchInfo": {
-      "textSnippet": "... <b>fiction</b> having the human life for its theme . The novel of human life and the ro- mance of human life ; these are what I am asked to separate and distinguish from each other . This can be done , I think , by adopt- ing the following&nbsp;..."
-    }
+    "price": 12.01
   },
   {
     "kind": "books#volume",
@@ -16919,7 +16346,8 @@
     },
     "searchInfo": {
       "textSnippet": "Beryl was the first bride of the Farley clan, finding a home in the welcoming arms of eldest son Tony."
-    }
+    },
+    "price": 47.9
   },
   {
     "kind": "books#volume",
@@ -16992,7 +16420,8 @@
     },
     "searchInfo": {
       "textSnippet": "A man will do almost anything when a rich and beautiful woman offers him fifty thousand dollars just to make a telephone call."
-    }
+    },
+    "price": 25.69
   },
   {
     "kind": "books#volume",
@@ -17061,7 +16490,8 @@
     },
     "searchInfo": {
       "textSnippet": "Then, I stumbled into a new job with a boss who brought me to my knees - literally. He has me do things a real secretary would never do. Emerson Grant tells me I&#39;m more than just good enough. I&#39;m worthy of his praise."
-    }
+    },
+    "price": 67.49
   },
   {
     "kind": "books#volume",
@@ -17137,7 +16567,8 @@
     },
     "searchInfo": {
       "textSnippet": "A startlingly original novel from the New York Times bestselling author hailed by Financial Times as “one of the wildest and most entertaining novelists in the world” “[Tom] Robbins’s comic philosophical musings reveal a flamboyant ..."
-    }
+    },
+    "price": 17.1
   },
   {
     "kind": "books#volume",
@@ -17201,137 +16632,8 @@
     },
     "searchInfo": {
       "textSnippet": "... ( <b>Fiction</b> or drama ) Knight , Eric . Lassie Come Home . ( <b>Fiction</b> ) Krumgold , Joseph . And Now Miguel . ( <b>Fiction</b> ) Scott , Walter . Lochinvar . ( Poetry ) Twain , Mark . Tom Sawyer . ( <b>Fiction</b> ) Ullman , James R. Banner in the Sky . (&nbsp;..."
-    }
-  },
-  {
-    "kind": "books#volume",
-    "id": "-2jhAAAAMAAJ",
-    "etag": "1QM2X7TiR/c",
-    "selfLink": "https://www.googleapis.com/books/v1/volumes/-2jhAAAAMAAJ",
-    "volumeInfo": {
-      "title": "Library Journal",
-      "publishedDate": "1998",
-      "industryIdentifiers": [
-        {
-          "type": "OTHER",
-          "identifier": "IND:30000046981456"
-        }
-      ],
-      "readingModes": {
-        "text": false,
-        "image": false
-      },
-      "pageCount": 1138,
-      "printType": "BOOK",
-      "categories": [
-        "Libraries"
-      ],
-      "maturityRating": "NOT_MATURE",
-      "allowAnonLogging": false,
-      "contentVersion": "0.14.8.0.preview.0",
-      "panelizationSummary": {
-        "containsEpubBubbles": false,
-        "containsImageBubbles": false
-      },
-      "imageLinks": {
-        "smallThumbnail": "http://books.google.com/books/content?id=-2jhAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-        "thumbnail": "http://books.google.com/books/content?id=-2jhAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-      },
-      "language": "en",
-      "previewLink": "http://books.google.com/books?id=-2jhAAAAMAAJ&q=fiction&dq=fiction&hl=&cd=239&source=gbs_api",
-      "infoLink": "http://books.google.com/books?id=-2jhAAAAMAAJ&dq=fiction&hl=&source=gbs_api",
-      "canonicalVolumeLink": "https://books.google.com/books/about/Library_Journal.html?hl=&id=-2jhAAAAMAAJ"
     },
-    "saleInfo": {
-      "country": "NG",
-      "saleability": "NOT_FOR_SALE",
-      "isEbook": false
-    },
-    "accessInfo": {
-      "country": "NG",
-      "viewability": "NO_PAGES",
-      "embeddable": false,
-      "publicDomain": false,
-      "textToSpeechPermission": "ALLOWED",
-      "epub": {
-        "isAvailable": false
-      },
-      "pdf": {
-        "isAvailable": false
-      },
-      "webReaderLink": "http://play.google.com/books/reader?id=-2jhAAAAMAAJ&hl=&source=gbs_api",
-      "accessViewStatus": "NONE",
-      "quoteSharingAllowed": false
-    },
-    "searchInfo": {
-      "textSnippet": "... <b>Fiction</b> • April $ 13.000-679-77754-7 Vintage Español $ 13.000-375-70228-8 COLD MOUNTAIN CHARLES FRAZIER <b>Fiction</b> / Literature • June $ 14.000-375-70075-7 Random House Audio Book Abridged $ 18.00 0-679-46069-1 Unabridged $ 44.95 0-375&nbsp;..."
-    }
-  },
-  {
-    "kind": "books#volume",
-    "id": "5TcnAAAAMAAJ",
-    "etag": "7rrBV3sx8j0",
-    "selfLink": "https://www.googleapis.com/books/v1/volumes/5TcnAAAAMAAJ",
-    "volumeInfo": {
-      "title": "The Journal of Education",
-      "publishedDate": "1938",
-      "industryIdentifiers": [
-        {
-          "type": "OTHER",
-          "identifier": "UOM:39015021765170"
-        }
-      ],
-      "readingModes": {
-        "text": false,
-        "image": true
-      },
-      "pageCount": 658,
-      "printType": "BOOK",
-      "categories": [
-        "Education"
-      ],
-      "maturityRating": "NOT_MATURE",
-      "allowAnonLogging": false,
-      "contentVersion": "0.11.9.0.full.1",
-      "panelizationSummary": {
-        "containsEpubBubbles": false,
-        "containsImageBubbles": false
-      },
-      "imageLinks": {
-        "smallThumbnail": "http://books.google.com/books/content?id=5TcnAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-        "thumbnail": "http://books.google.com/books/content?id=5TcnAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-      },
-      "language": "en",
-      "previewLink": "http://books.google.com/books?id=5TcnAAAAMAAJ&pg=PA662&dq=fiction&hl=&cd=240&source=gbs_api",
-      "infoLink": "https://play.google.com/store/books/details?id=5TcnAAAAMAAJ&source=gbs_api",
-      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=5TcnAAAAMAAJ"
-    },
-    "saleInfo": {
-      "country": "NG",
-      "saleability": "FREE",
-      "isEbook": true,
-      "buyLink": "https://play.google.com/store/books/details?id=5TcnAAAAMAAJ&rdid=book-5TcnAAAAMAAJ&rdot=1&source=gbs_api"
-    },
-    "accessInfo": {
-      "country": "NG",
-      "viewability": "ALL_PAGES",
-      "embeddable": true,
-      "publicDomain": true,
-      "textToSpeechPermission": "ALLOWED",
-      "epub": {
-        "isAvailable": false,
-        "downloadLink": "http://books.google.com/books/download/The_Journal_of_Education.epub?id=5TcnAAAAMAAJ&hl=&output=epub&source=gbs_api"
-      },
-      "pdf": {
-        "isAvailable": false
-      },
-      "webReaderLink": "http://play.google.com/books/reader?id=5TcnAAAAMAAJ&hl=&source=gbs_api",
-      "accessViewStatus": "FULL_PUBLIC_DOMAIN",
-      "quoteSharingAllowed": false
-    },
-    "searchInfo": {
-      "textSnippet": "... <b>Fiction</b> . Part I. By Dr. E. A. Baker , M.A. , D.Lit . March : English History in <b>Fiction</b> . Part II . By Dr. E. A. Baker , Μ.Α. , D.Lit . April : European History in <b>Fiction</b> . By Dr. E. A. Baker , M.A. , D.Lit . May : Colonial History in&nbsp;..."
-    }
+    "price": 8.5
   },
   {
     "kind": "books#volume",
@@ -17404,7 +16706,8 @@
     },
     "searchInfo": {
       "textSnippet": "Now with a brand new epilogue! Please update your eBook to get the new version and find out what happens after the war..."
-    }
+    },
+    "price": 12.4
   },
   {
     "kind": "books#volume",
@@ -17468,7 +16771,8 @@
     },
     "searchInfo": {
       "textSnippet": "... ( <b>Fiction</b> or drama ) Knight , Eric . Lassie Come Home . ( <b>Fiction</b> ) Krumgold , Joseph . And Now Miguel . ( <b>Fiction</b> ) Scott , Walter . Lochinvar . ( Poetry ) Twain , Mark . Tom Sawyer . ( <b>Fiction</b> ) Ullman , James R. Banner in the Sky . (&nbsp;..."
-    }
+    },
+    "price": 62.31
   },
   {
     "kind": "books#volume",
@@ -17544,7 +16848,8 @@
     },
     "searchInfo": {
       "textSnippet": "&#39;Beth O&#39;Leary is that rare, one-in-a-million talent who can make you laugh, swoon, cry and ache all in the same book&#39; EMILY HENRY Tiffy and Leon share a flat Tiffy and Leon share a bed Tiffy and Leon have never met."
-    }
+    },
+    "price": 42.16
   },
   {
     "kind": "books#volume",
@@ -17617,7 +16922,8 @@
     },
     "searchInfo": {
       "textSnippet": "Heartburn is a sinfully delicious novel, as soul-satisfying as mashed potatoes and as airy as a perfect soufflé."
-    }
+    },
+    "price": 61.86
   },
   {
     "kind": "books#volume",
@@ -17691,7 +16997,8 @@
     },
     "searchInfo": {
       "textSnippet": "The New York Times bestseller and “a rich brew of dystopic fantasy and deadpan goofiness” (The Washington Post) from the author of the Thursday Next series and Early Riser Welcome to Chromatacia, where the societal hierarchy is strictly ..."
-    }
+    },
+    "price": 31.69
   },
   {
     "kind": "books#volume",
@@ -17765,7 +17072,8 @@
     },
     "searchInfo": {
       "textSnippet": "This is her field of expertise, this is the chance she’s been waiting for, and this case could make her name known across the world. But therein lies the danger."
-    }
+    },
+    "price": 39.61
   },
   {
     "kind": "books#volume",
@@ -17835,7 +17143,8 @@
     },
     "searchInfo": {
       "textSnippet": "This edition features a new introduction by Will Errickson."
-    }
+    },
+    "price": 68.59
   },
   {
     "kind": "books#volume",
@@ -17910,137 +17219,8 @@
     },
     "searchInfo": {
       "textSnippet": "Jaybee Corbell awoke after more than 200 years as a corpsicle -- in someone else&#39;s body, and under sentence of instant annihilation if he made a wrong move while they were training him for a one-way mission to the stars."
-    }
-  },
-  {
-    "kind": "books#volume",
-    "id": "-2jhAAAAMAAJ",
-    "etag": "bwsy3rNb+y0",
-    "selfLink": "https://www.googleapis.com/books/v1/volumes/-2jhAAAAMAAJ",
-    "volumeInfo": {
-      "title": "Library Journal",
-      "publishedDate": "1998",
-      "industryIdentifiers": [
-        {
-          "type": "OTHER",
-          "identifier": "IND:30000046981456"
-        }
-      ],
-      "readingModes": {
-        "text": false,
-        "image": false
-      },
-      "pageCount": 1138,
-      "printType": "BOOK",
-      "categories": [
-        "Libraries"
-      ],
-      "maturityRating": "NOT_MATURE",
-      "allowAnonLogging": false,
-      "contentVersion": "0.14.8.0.preview.0",
-      "panelizationSummary": {
-        "containsEpubBubbles": false,
-        "containsImageBubbles": false
-      },
-      "imageLinks": {
-        "smallThumbnail": "http://books.google.com/books/content?id=-2jhAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-        "thumbnail": "http://books.google.com/books/content?id=-2jhAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-      },
-      "language": "en",
-      "previewLink": "http://books.google.com/books?id=-2jhAAAAMAAJ&q=fiction&dq=fiction&hl=&cd=249&source=gbs_api",
-      "infoLink": "http://books.google.com/books?id=-2jhAAAAMAAJ&dq=fiction&hl=&source=gbs_api",
-      "canonicalVolumeLink": "https://books.google.com/books/about/Library_Journal.html?hl=&id=-2jhAAAAMAAJ"
     },
-    "saleInfo": {
-      "country": "NG",
-      "saleability": "NOT_FOR_SALE",
-      "isEbook": false
-    },
-    "accessInfo": {
-      "country": "NG",
-      "viewability": "NO_PAGES",
-      "embeddable": false,
-      "publicDomain": false,
-      "textToSpeechPermission": "ALLOWED",
-      "epub": {
-        "isAvailable": false
-      },
-      "pdf": {
-        "isAvailable": false
-      },
-      "webReaderLink": "http://play.google.com/books/reader?id=-2jhAAAAMAAJ&hl=&source=gbs_api",
-      "accessViewStatus": "NONE",
-      "quoteSharingAllowed": false
-    },
-    "searchInfo": {
-      "textSnippet": "... <b>Fiction</b> • April $ 13.000-679-77754-7 Vintage Español $ 13.000-375-70228-8 COLD MOUNTAIN CHARLES FRAZIER <b>Fiction</b> / Literature • June $ 14.000-375-70075-7 Random House Audio Book Abridged $ 18.00 0-679-46069-1 Unabridged $ 44.95 0-375&nbsp;..."
-    }
-  },
-  {
-    "kind": "books#volume",
-    "id": "5TcnAAAAMAAJ",
-    "etag": "QM+jZZwGx34",
-    "selfLink": "https://www.googleapis.com/books/v1/volumes/5TcnAAAAMAAJ",
-    "volumeInfo": {
-      "title": "The Journal of Education",
-      "publishedDate": "1938",
-      "industryIdentifiers": [
-        {
-          "type": "OTHER",
-          "identifier": "UOM:39015021765170"
-        }
-      ],
-      "readingModes": {
-        "text": false,
-        "image": true
-      },
-      "pageCount": 658,
-      "printType": "BOOK",
-      "categories": [
-        "Education"
-      ],
-      "maturityRating": "NOT_MATURE",
-      "allowAnonLogging": false,
-      "contentVersion": "0.11.9.0.full.1",
-      "panelizationSummary": {
-        "containsEpubBubbles": false,
-        "containsImageBubbles": false
-      },
-      "imageLinks": {
-        "smallThumbnail": "http://books.google.com/books/content?id=5TcnAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-        "thumbnail": "http://books.google.com/books/content?id=5TcnAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-      },
-      "language": "en",
-      "previewLink": "http://books.google.com/books?id=5TcnAAAAMAAJ&pg=PA662&dq=fiction&hl=&cd=250&source=gbs_api",
-      "infoLink": "https://play.google.com/store/books/details?id=5TcnAAAAMAAJ&source=gbs_api",
-      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=5TcnAAAAMAAJ"
-    },
-    "saleInfo": {
-      "country": "NG",
-      "saleability": "FREE",
-      "isEbook": true,
-      "buyLink": "https://play.google.com/store/books/details?id=5TcnAAAAMAAJ&rdid=book-5TcnAAAAMAAJ&rdot=1&source=gbs_api"
-    },
-    "accessInfo": {
-      "country": "NG",
-      "viewability": "ALL_PAGES",
-      "embeddable": true,
-      "publicDomain": true,
-      "textToSpeechPermission": "ALLOWED",
-      "epub": {
-        "isAvailable": false,
-        "downloadLink": "http://books.google.com/books/download/The_Journal_of_Education.epub?id=5TcnAAAAMAAJ&hl=&output=epub&source=gbs_api"
-      },
-      "pdf": {
-        "isAvailable": false
-      },
-      "webReaderLink": "http://play.google.com/books/reader?id=5TcnAAAAMAAJ&hl=&source=gbs_api",
-      "accessViewStatus": "FULL_PUBLIC_DOMAIN",
-      "quoteSharingAllowed": false
-    },
-    "searchInfo": {
-      "textSnippet": "... <b>Fiction</b> . Part I. By Dr. E. A. Baker , M.A. , D.Lit . March : English History in <b>Fiction</b> . Part II . By Dr. E. A. Baker , Μ.Α. , D.Lit . April : European History in <b>Fiction</b> . By Dr. E. A. Baker , M.A. , D.Lit . May : Colonial History in&nbsp;..."
-    }
+    "price": 18.05
   },
   {
     "kind": "books#volume",
@@ -18111,7 +17291,8 @@
     },
     "searchInfo": {
       "textSnippet": "... <b>Fiction</b> treatises , history , etc. 1. Works of <b>fiction</b> , wit and humor , imaginary voyages and adventures , fables and legends ; Greek and Latin and translations . 2. English <b>fiction</b> . + . Juveniles . 3. French <b>fiction</b> . 4. German&nbsp;..."
-    }
+    },
+    "price": 6.48
   },
   {
     "kind": "books#volume",
@@ -18177,7 +17358,8 @@
     },
     "searchInfo": {
       "textSnippet": "... <b>Fiction</b> , including Juvenile Fic- tion , .693 ; History , .0363 ; Literature , .031 ; Natural Science , .026 ; Poetry , .014 ; Social Science , .011 ; Religion and Theology , .004 ; Travels , .036 ; Periodicals , .105 . Although the <b>Fiction</b>&nbsp;..."
-    }
+    },
+    "price": 11.17
   },
   {
     "kind": "books#volume",
@@ -18246,7 +17428,8 @@
     },
     "searchInfo": {
       "textSnippet": "... <b>fiction</b> . The <b>fiction</b> we all read , in prose or in verse , is an element of first importance to our lives as individuals and as members of society . English <b>fiction</b> has introduced us to a greater number of distinctly recognizable and&nbsp;..."
-    }
+    },
+    "price": 31.99
   },
   {
     "kind": "books#volume",
@@ -18315,7 +17498,8 @@
     },
     "searchInfo": {
       "textSnippet": "... <b>Fiction</b> , history , ( 2 ) 13.8 112 400 travels , explo- rations , adven . tures , etc. <b>Fiction</b> , magazine 20 10.9 30 literature . 00 <b>Fiction</b> , history , ( 1 ) 11.4 90 biography . <b>Fiction</b> , and his . ( 1 ) | 19.6 31 tory of civil war ."
-    }
+    },
+    "price": 28.24
   },
   {
     "kind": "books#volume",
@@ -18384,77 +17568,8 @@
     },
     "searchInfo": {
       "textSnippet": "... <b>fiction</b> ; the object be- ing to encourage him in this way to read something besides <b>fiction</b> . This idea is worked out in many ways by many li- braries ; in one there are two cards , one <b>fiction</b> and one non - <b>fiction</b> ; in another&nbsp;..."
-    }
-  },
-  {
-    "kind": "books#volume",
-    "id": "yTnaBaziNX8C",
-    "etag": "i3qQtTENg3o",
-    "selfLink": "https://www.googleapis.com/books/v1/volumes/yTnaBaziNX8C",
-    "volumeInfo": {
-      "title": "The Journal of speculative philosophy",
-      "subtitle": "Ed. by Wm. T. Harris. microform",
-      "publishedDate": "1875",
-      "industryIdentifiers": [
-        {
-          "type": "OTHER",
-          "identifier": "NYPL:33433019836216"
-        }
-      ],
-      "readingModes": {
-        "text": false,
-        "image": true
-      },
-      "pageCount": 552,
-      "printType": "BOOK",
-      "categories": [
-        "Philosophy"
-      ],
-      "averageRating": 3,
-      "ratingsCount": 1,
-      "maturityRating": "NOT_MATURE",
-      "allowAnonLogging": false,
-      "contentVersion": "0.11.13.0.full.1",
-      "panelizationSummary": {
-        "containsEpubBubbles": false,
-        "containsImageBubbles": false
-      },
-      "imageLinks": {
-        "smallThumbnail": "http://books.google.com/books/content?id=yTnaBaziNX8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-        "thumbnail": "http://books.google.com/books/content?id=yTnaBaziNX8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-      },
-      "language": "en",
-      "previewLink": "http://books.google.com/books?id=yTnaBaziNX8C&pg=PA294&dq=fiction&hl=&cd=256&source=gbs_api",
-      "infoLink": "https://play.google.com/store/books/details?id=yTnaBaziNX8C&source=gbs_api",
-      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yTnaBaziNX8C"
     },
-    "saleInfo": {
-      "country": "NG",
-      "saleability": "FREE",
-      "isEbook": true,
-      "buyLink": "https://play.google.com/store/books/details?id=yTnaBaziNX8C&rdid=book-yTnaBaziNX8C&rdot=1&source=gbs_api"
-    },
-    "accessInfo": {
-      "country": "NG",
-      "viewability": "ALL_PAGES",
-      "embeddable": true,
-      "publicDomain": true,
-      "textToSpeechPermission": "ALLOWED",
-      "epub": {
-        "isAvailable": false,
-        "downloadLink": "http://books.google.com/books/download/The_Journal_of_speculative_philosophy.epub?id=yTnaBaziNX8C&hl=&output=epub&source=gbs_api"
-      },
-      "pdf": {
-        "isAvailable": true,
-        "downloadLink": "http://books.google.com/books/download/The_Journal_of_speculative_philosophy.pdf?id=yTnaBaziNX8C&hl=&output=pdf&sig=ACfU3U3PDQ1yuOj6DL5ksbAFMcP81tXFHg&source=gbs_api"
-      },
-      "webReaderLink": "http://play.google.com/books/reader?id=yTnaBaziNX8C&hl=&source=gbs_api",
-      "accessViewStatus": "FULL_PUBLIC_DOMAIN",
-      "quoteSharingAllowed": false
-    },
-    "searchInfo": {
-      "textSnippet": "... <b>fiction</b> : &quot; Scribendi recte sapere est et principium et fons ? &quot; It by no means results that Horace was a profound critic on that account ; for the wisdom needed by the novelist is that of the human heart , not that of philosophical&nbsp;..."
-    }
+    "price": 65.61
   },
   {
     "kind": "books#volume",
@@ -18529,7 +17644,8 @@
     },
     "searchInfo": {
       "textSnippet": "A paean to a vanished way of life and the eccentric individuals and idiosyncratic institutions that made it fertile, The Whistling Season is Ivan Doig at his evocative best."
-    }
+    },
+    "price": 66.75
   },
   {
     "kind": "books#volume",
@@ -18603,7 +17719,8 @@
     },
     "searchInfo": {
       "textSnippet": "But championing the most scandalous book of the century will come at a cost - and Sylvia finds herself risking ruin, her reputation and her heart, all in the name of the life-changing power of books."
-    }
+    },
+    "price": 59.98
   },
   {
     "kind": "books#volume",
@@ -18672,7 +17789,8 @@
     },
     "searchInfo": {
       "textSnippet": "&#39;A sexy, sensational novel with intoxicating vengeance and an unexpected tenderness&#39; No. 1 Sunday Times bestselling author Karin Slaughter"
-    }
+    },
+    "price": 53.84
   },
   {
     "kind": "books#volume",
@@ -18744,73 +17862,8 @@
     },
     "searchInfo": {
       "textSnippet": "Kate enlisted in the Army to show her dad she was tough--but being tough doesn&#39;t make her active duty any easier."
-    }
-  },
-  {
-    "kind": "books#volume",
-    "id": "5TcnAAAAMAAJ",
-    "etag": "u9eUrbs69IY",
-    "selfLink": "https://www.googleapis.com/books/v1/volumes/5TcnAAAAMAAJ",
-    "volumeInfo": {
-      "title": "The Journal of Education",
-      "publishedDate": "1938",
-      "industryIdentifiers": [
-        {
-          "type": "OTHER",
-          "identifier": "UOM:39015021765170"
-        }
-      ],
-      "readingModes": {
-        "text": false,
-        "image": true
-      },
-      "pageCount": 658,
-      "printType": "BOOK",
-      "categories": [
-        "Education"
-      ],
-      "maturityRating": "NOT_MATURE",
-      "allowAnonLogging": false,
-      "contentVersion": "0.11.9.0.full.1",
-      "panelizationSummary": {
-        "containsEpubBubbles": false,
-        "containsImageBubbles": false
-      },
-      "imageLinks": {
-        "smallThumbnail": "http://books.google.com/books/content?id=5TcnAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-        "thumbnail": "http://books.google.com/books/content?id=5TcnAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-      },
-      "language": "en",
-      "previewLink": "http://books.google.com/books?id=5TcnAAAAMAAJ&pg=PA662&dq=fiction&hl=&cd=261&source=gbs_api",
-      "infoLink": "https://play.google.com/store/books/details?id=5TcnAAAAMAAJ&source=gbs_api",
-      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=5TcnAAAAMAAJ"
     },
-    "saleInfo": {
-      "country": "NG",
-      "saleability": "FREE",
-      "isEbook": true,
-      "buyLink": "https://play.google.com/store/books/details?id=5TcnAAAAMAAJ&rdid=book-5TcnAAAAMAAJ&rdot=1&source=gbs_api"
-    },
-    "accessInfo": {
-      "country": "NG",
-      "viewability": "ALL_PAGES",
-      "embeddable": true,
-      "publicDomain": true,
-      "textToSpeechPermission": "ALLOWED",
-      "epub": {
-        "isAvailable": false,
-        "downloadLink": "http://books.google.com/books/download/The_Journal_of_Education.epub?id=5TcnAAAAMAAJ&hl=&output=epub&source=gbs_api"
-      },
-      "pdf": {
-        "isAvailable": false
-      },
-      "webReaderLink": "http://play.google.com/books/reader?id=5TcnAAAAMAAJ&hl=&source=gbs_api",
-      "accessViewStatus": "FULL_PUBLIC_DOMAIN",
-      "quoteSharingAllowed": false
-    },
-    "searchInfo": {
-      "textSnippet": "... <b>Fiction</b> . Part I. By Dr. E. A. Baker , M.A. , D.Lit . March : English History in <b>Fiction</b> . Part II . By Dr. E. A. Baker , Μ.Α. , D.Lit . April : European History in <b>Fiction</b> . By Dr. E. A. Baker , M.A. , D.Lit . May : Colonial History in&nbsp;..."
-    }
+    "price": 55.25
   },
   {
     "kind": "books#volume",
@@ -18881,7 +17934,8 @@
     },
     "searchInfo": {
       "textSnippet": "... <b>Fiction</b> treatises , history , etc. 1. Works of <b>fiction</b> , wit and humor , imaginary voyages and adventures , fables and legends ; Greek and Latin and translations . 2. English <b>fiction</b> . + . Juveniles . 3. French <b>fiction</b> . 4. German&nbsp;..."
-    }
+    },
+    "price": 60.16
   },
   {
     "kind": "books#volume",
@@ -18947,7 +18001,8 @@
     },
     "searchInfo": {
       "textSnippet": "... <b>Fiction</b> , including Juvenile Fic- tion , .693 ; History , .0363 ; Literature , .031 ; Natural Science , .026 ; Poetry , .014 ; Social Science , .011 ; Religion and Theology , .004 ; Travels , .036 ; Periodicals , .105 . Although the <b>Fiction</b>&nbsp;..."
-    }
+    },
+    "price": 33.76
   },
   {
     "kind": "books#volume",
@@ -19016,7 +18071,8 @@
     },
     "searchInfo": {
       "textSnippet": "... <b>fiction</b> . The <b>fiction</b> we all read , in prose or in verse , is an element of first importance to our lives as individuals and as members of society . English <b>fiction</b> has introduced us to a greater number of distinctly recognizable and&nbsp;..."
-    }
+    },
+    "price": 63.45
   },
   {
     "kind": "books#volume",
@@ -19085,7 +18141,8 @@
     },
     "searchInfo": {
       "textSnippet": "... <b>Fiction</b> , history , ( 2 ) 13.8 112 400 travels , explo- rations , adven . tures , etc. <b>Fiction</b> , magazine 20 10.9 30 literature . 00 <b>Fiction</b> , history , ( 1 ) 11.4 90 biography . <b>Fiction</b> , and his . ( 1 ) | 19.6 31 tory of civil war ."
-    }
+    },
+    "price": 63.96
   },
   {
     "kind": "books#volume",
@@ -19154,77 +18211,8 @@
     },
     "searchInfo": {
       "textSnippet": "... <b>fiction</b> ; the object be- ing to encourage him in this way to read something besides <b>fiction</b> . This idea is worked out in many ways by many li- braries ; in one there are two cards , one <b>fiction</b> and one non - <b>fiction</b> ; in another&nbsp;..."
-    }
-  },
-  {
-    "kind": "books#volume",
-    "id": "yTnaBaziNX8C",
-    "etag": "Ph9htBQJhP4",
-    "selfLink": "https://www.googleapis.com/books/v1/volumes/yTnaBaziNX8C",
-    "volumeInfo": {
-      "title": "The Journal of speculative philosophy",
-      "subtitle": "Ed. by Wm. T. Harris. microform",
-      "publishedDate": "1875",
-      "industryIdentifiers": [
-        {
-          "type": "OTHER",
-          "identifier": "NYPL:33433019836216"
-        }
-      ],
-      "readingModes": {
-        "text": false,
-        "image": true
-      },
-      "pageCount": 552,
-      "printType": "BOOK",
-      "categories": [
-        "Philosophy"
-      ],
-      "averageRating": 3,
-      "ratingsCount": 1,
-      "maturityRating": "NOT_MATURE",
-      "allowAnonLogging": false,
-      "contentVersion": "0.11.13.0.full.1",
-      "panelizationSummary": {
-        "containsEpubBubbles": false,
-        "containsImageBubbles": false
-      },
-      "imageLinks": {
-        "smallThumbnail": "http://books.google.com/books/content?id=yTnaBaziNX8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-        "thumbnail": "http://books.google.com/books/content?id=yTnaBaziNX8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-      },
-      "language": "en",
-      "previewLink": "http://books.google.com/books?id=yTnaBaziNX8C&pg=PA294&dq=fiction&hl=&cd=267&source=gbs_api",
-      "infoLink": "https://play.google.com/store/books/details?id=yTnaBaziNX8C&source=gbs_api",
-      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yTnaBaziNX8C"
     },
-    "saleInfo": {
-      "country": "NG",
-      "saleability": "FREE",
-      "isEbook": true,
-      "buyLink": "https://play.google.com/store/books/details?id=yTnaBaziNX8C&rdid=book-yTnaBaziNX8C&rdot=1&source=gbs_api"
-    },
-    "accessInfo": {
-      "country": "NG",
-      "viewability": "ALL_PAGES",
-      "embeddable": true,
-      "publicDomain": true,
-      "textToSpeechPermission": "ALLOWED",
-      "epub": {
-        "isAvailable": false,
-        "downloadLink": "http://books.google.com/books/download/The_Journal_of_speculative_philosophy.epub?id=yTnaBaziNX8C&hl=&output=epub&source=gbs_api"
-      },
-      "pdf": {
-        "isAvailable": true,
-        "downloadLink": "http://books.google.com/books/download/The_Journal_of_speculative_philosophy.pdf?id=yTnaBaziNX8C&hl=&output=pdf&sig=ACfU3U3PDQ1yuOj6DL5ksbAFMcP81tXFHg&source=gbs_api"
-      },
-      "webReaderLink": "http://play.google.com/books/reader?id=yTnaBaziNX8C&hl=&source=gbs_api",
-      "accessViewStatus": "FULL_PUBLIC_DOMAIN",
-      "quoteSharingAllowed": false
-    },
-    "searchInfo": {
-      "textSnippet": "... <b>fiction</b> : &quot; Scribendi recte sapere est et principium et fons ? &quot; It by no means results that Horace was a profound critic on that account ; for the wisdom needed by the novelist is that of the human heart , not that of philosophical&nbsp;..."
-    }
+    "price": 49.89
   },
   {
     "kind": "books#volume",
@@ -19297,7 +18285,8 @@
     },
     "searchInfo": {
       "textSnippet": "But at what cost have they acquired their immense fortune? This is the mystery at the center of Bonds, a successful 1937 novel that all of New York seems to have read. Yet there are other versions of this tale of privilege and deceit."
-    }
+    },
+    "price": 17.06
   },
   {
     "kind": "books#volume",
@@ -19371,7 +18360,8 @@
     },
     "searchInfo": {
       "textSnippet": "Evoking both the fairy-tale charm of Haruki Murakami and the enthusiastic novel-of-ideas wizardry of Neal Stephenson or Umberto Eco, Mr. Penumbra’s 24-Hour Bookstore is exactly what it sounds like—an establishment you have to enter and ..."
-    }
+    },
+    "price": 62.15
   },
   {
     "kind": "books#volume",
@@ -19445,7 +18435,8 @@
     },
     "searchInfo": {
       "textSnippet": "WINNER OF THE 2020 NATIONAL BOOK AWARD IN TRANSLATED LITERATURE A NEW YORK TIMES NOTABLE BOOK OF THE YEAR A surreal, devastating story of a homeless ghost who haunts one of Tokyo&#39;s busiest train stations."
-    }
+    },
+    "price": 8.72
   },
   {
     "kind": "books#volume",
@@ -19518,7 +18509,8 @@
     },
     "searchInfo": {
       "textSnippet": "‘A real page-turner full of wartime friendships, hope and love’ NetGalley reviewer ⭐⭐⭐⭐⭐ On the Home Front, one girl is determined to make a difference."
-    }
+    },
+    "price": 36.85
   },
   {
     "kind": "books#volume",
@@ -19590,7 +18582,8 @@
     },
     "searchInfo": {
       "textSnippet": "Beryl was the first bride of the Farley clan, finding a home in the welcoming arms of eldest son Tony."
-    }
+    },
+    "price": 8.5
   },
   {
     "kind": "books#volume",
@@ -19663,7 +18656,8 @@
     },
     "searchInfo": {
       "textSnippet": "A man will do almost anything when a rich and beautiful woman offers him fifty thousand dollars just to make a telephone call."
-    }
+    },
+    "price": 20.02
   },
   {
     "kind": "books#volume",
@@ -19737,7 +18731,8 @@
     },
     "searchInfo": {
       "textSnippet": "Binding them all together is a vision of life as vast as the universe itself. A young writer awarded one of the most prestigious prizes in India for this novel, Shubhangi Swarup is a storyteller of extraordinary talent and insight."
-    }
+    },
+    "price": 39.56
   },
   {
     "kind": "books#volume",
@@ -19810,7 +18805,8 @@
     },
     "searchInfo": {
       "textSnippet": "Far from home, hope will keep them together. The plucky evacuees must come together in this heart-warming saga set in the Second World War for fans of Dilly Court and Rosie Goodwin..."
-    }
+    },
+    "price": 36.46
   },
   {
     "kind": "books#volume",
@@ -19883,7 +18879,8 @@
     },
     "searchInfo": {
       "textSnippet": "Their investigation will put them both on a collision course not only with the FBI, but also with the Wolf Pack, a remorseless quartet of killers. Coming up from the south, the Wolf Pack have been tracking their prey across the USA."
-    }
+    },
+    "price": 40.92
   },
   {
     "kind": "books#volume",
@@ -19956,73 +18953,8 @@
     },
     "searchInfo": {
       "textSnippet": "Previously published as The Dominie&#39;s Lassie."
-    }
-  },
-  {
-    "kind": "books#volume",
-    "id": "yns9AQAAMAAJ",
-    "etag": "LV6Nd5XPh9A",
-    "selfLink": "https://www.googleapis.com/books/v1/volumes/yns9AQAAMAAJ",
-    "volumeInfo": {
-      "title": "Current Opinion",
-      "publishedDate": "1898",
-      "industryIdentifiers": [
-        {
-          "type": "OTHER",
-          "identifier": "UCAL:C2599011"
-        }
-      ],
-      "readingModes": {
-        "text": false,
-        "image": true
-      },
-      "pageCount": 606,
-      "printType": "BOOK",
-      "categories": [
-        "Literature"
-      ],
-      "maturityRating": "NOT_MATURE",
-      "allowAnonLogging": false,
-      "contentVersion": "0.4.6.0.full.1",
-      "panelizationSummary": {
-        "containsEpubBubbles": false,
-        "containsImageBubbles": false
-      },
-      "imageLinks": {
-        "smallThumbnail": "http://books.google.com/books/content?id=yns9AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-        "thumbnail": "http://books.google.com/books/content?id=yns9AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-      },
-      "language": "en",
-      "previewLink": "http://books.google.com/books?id=yns9AQAAMAAJ&pg=PA206&dq=fiction&hl=&cd=278&source=gbs_api",
-      "infoLink": "https://play.google.com/store/books/details?id=yns9AQAAMAAJ&source=gbs_api",
-      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yns9AQAAMAAJ"
     },
-    "saleInfo": {
-      "country": "NG",
-      "saleability": "FREE",
-      "isEbook": true,
-      "buyLink": "https://play.google.com/store/books/details?id=yns9AQAAMAAJ&rdid=book-yns9AQAAMAAJ&rdot=1&source=gbs_api"
-    },
-    "accessInfo": {
-      "country": "NG",
-      "viewability": "ALL_PAGES",
-      "embeddable": true,
-      "publicDomain": true,
-      "textToSpeechPermission": "ALLOWED",
-      "epub": {
-        "isAvailable": false,
-        "downloadLink": "http://books.google.com/books/download/Current_Opinion.epub?id=yns9AQAAMAAJ&hl=&output=epub&source=gbs_api"
-      },
-      "pdf": {
-        "isAvailable": false
-      },
-      "webReaderLink": "http://play.google.com/books/reader?id=yns9AQAAMAAJ&hl=&source=gbs_api",
-      "accessViewStatus": "FULL_PUBLIC_DOMAIN",
-      "quoteSharingAllowed": false
-    },
-    "searchInfo": {
-      "textSnippet": "... <b>fiction</b> , it does not imply that historical <b>fiction</b> has not given us its full share of people who have passed into lit- erature as types . American historical <b>fiction</b> has done even more , for it has created for us our idea concerning&nbsp;..."
-    }
+    "price": 55.62
   },
   {
     "kind": "books#volume",
@@ -20095,7 +19027,8 @@
     },
     "searchInfo": {
       "textSnippet": "Now with a brand new epilogue! Please update your eBook to get the new version and find out what happens after the war..."
-    }
+    },
+    "price": 23.19
   },
   {
     "kind": "books#volume",
@@ -20169,7 +19102,8 @@
     },
     "searchInfo": {
       "textSnippet": "A REESE&#39;S BOOK CLUB PICK INSTANT NEW YORK TIMES BESTSELLER “Are you ready for the roller coaster ride that is The Club?"
-    }
+    },
+    "price": 39.43
   },
   {
     "kind": "books#volume",
@@ -20244,7 +19178,8 @@
     },
     "searchInfo": {
       "textSnippet": "#1 NEW YORK TIMES BESTSELLER • Don’t miss the hit streaming series Reacher!"
-    }
+    },
+    "price": 39.04
   },
   {
     "kind": "books#volume",
@@ -20318,7 +19253,8 @@
     },
     "searchInfo": {
       "textSnippet": "Only Detective Michael Bennett stands in the way of two lethal cartels fighting for New York City&#39;s multi-million-dollar opioid trade."
-    }
+    },
+    "price": 36.46
   },
   {
     "kind": "books#volume",
@@ -20387,7 +19323,8 @@
     },
     "searchInfo": {
       "textSnippet": "A collection of poetry and short prose focused on understanding how past wounds impact our present relationships."
-    }
+    },
+    "price": 31.81
   },
   {
     "kind": "books#volume",
@@ -20461,7 +19398,8 @@
     },
     "searchInfo": {
       "textSnippet": "The Understory—the debut novel from the critically acclaimed author of The Virgins —is the haunting portrayal of Jack Gorse, an ex-lawyer, now unemployed, who walls off his inner life with elaborate rituals and routines."
-    }
+    },
+    "price": 53.39
   },
   {
     "kind": "books#volume",
@@ -20530,7 +19468,8 @@
     },
     "searchInfo": {
       "textSnippet": "Declan is destined to become the next CEO of his family&#39;s media empire, but he must marry in order to inherit the business. His marriage to Iris is supposed to be fake, but falling in love changes everything."
-    }
+    },
+    "price": 44.22
   },
   {
     "kind": "books#volume",
@@ -20605,7 +19544,8 @@
     },
     "searchInfo": {
       "textSnippet": "Step behind the palace doors in this gripping historical novel that is a must read for fans of The Crown and Princess Diana!"
-    }
+    },
+    "price": 30.78
   },
   {
     "kind": "books#volume",
@@ -20679,74 +19619,8 @@
     },
     "searchInfo": {
       "textSnippet": "Nothing in common but a call to fight. A heart-stopping new novel based on the extraordinary true stories of an American socialite and a British secret agent whose stunning acts of courage collide in the darkest hours of World War II. 1940."
-    }
-  },
-  {
-    "kind": "books#volume",
-    "id": "uPcaAAAAYAAJ",
-    "etag": "sBP9Zwax8/c",
-    "selfLink": "https://www.googleapis.com/books/v1/volumes/uPcaAAAAYAAJ",
-    "volumeInfo": {
-      "title": "The Nineteenth Century",
-      "publishedDate": "1881",
-      "industryIdentifiers": [
-        {
-          "type": "OTHER",
-          "identifier": "PRNC:32101045358502"
-        }
-      ],
-      "readingModes": {
-        "text": false,
-        "image": true
-      },
-      "pageCount": 1092,
-      "printType": "BOOK",
-      "categories": [
-        "Nineteenth century"
-      ],
-      "maturityRating": "NOT_MATURE",
-      "allowAnonLogging": false,
-      "contentVersion": "0.4.8.0.full.1",
-      "panelizationSummary": {
-        "containsEpubBubbles": false,
-        "containsImageBubbles": false
-      },
-      "imageLinks": {
-        "smallThumbnail": "http://books.google.com/books/content?id=uPcaAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-        "thumbnail": "http://books.google.com/books/content?id=uPcaAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-      },
-      "language": "en",
-      "previewLink": "http://books.google.com/books?id=uPcaAAAAYAAJ&pg=PA153&dq=fiction&hl=&cd=288&source=gbs_api",
-      "infoLink": "https://play.google.com/store/books/details?id=uPcaAAAAYAAJ&source=gbs_api",
-      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=uPcaAAAAYAAJ"
     },
-    "saleInfo": {
-      "country": "NG",
-      "saleability": "FREE",
-      "isEbook": true,
-      "buyLink": "https://play.google.com/store/books/details?id=uPcaAAAAYAAJ&rdid=book-uPcaAAAAYAAJ&rdot=1&source=gbs_api"
-    },
-    "accessInfo": {
-      "country": "NG",
-      "viewability": "ALL_PAGES",
-      "embeddable": true,
-      "publicDomain": true,
-      "textToSpeechPermission": "ALLOWED",
-      "epub": {
-        "isAvailable": false,
-        "downloadLink": "http://books.google.com/books/download/The_Nineteenth_Century.epub?id=uPcaAAAAYAAJ&hl=&output=epub&source=gbs_api"
-      },
-      "pdf": {
-        "isAvailable": true,
-        "downloadLink": "http://books.google.com/books/download/The_Nineteenth_Century.pdf?id=uPcaAAAAYAAJ&hl=&output=pdf&sig=ACfU3U0-VKNH4oiMvqubkXsgVrN_GNRZag&source=gbs_api"
-      },
-      "webReaderLink": "http://play.google.com/books/reader?id=uPcaAAAAYAAJ&hl=&source=gbs_api",
-      "accessViewStatus": "FULL_PUBLIC_DOMAIN",
-      "quoteSharingAllowed": false
-    },
-    "searchInfo": {
-      "textSnippet": "... <b>Fiction</b> proper - that is to say , the <b>fiction</b> published in the penny literary journals - is just where it was a quarter of a century ago . With the opportunity of comparison afforded to its readers one would say this would be impossible&nbsp;..."
-    }
+    "price": 33.47
   },
   {
     "kind": "books#volume",
@@ -20819,7 +19693,8 @@
     },
     "searchInfo": {
       "textSnippet": "From bestselling author David Downing, master of historical espionage, comes a heart-wrenching depiction of Germany in the days leading up to World War II and the difficult choices of one man of conviction."
-    }
+    },
+    "price": 58.94
   },
   {
     "kind": "books#volume",
@@ -20893,7 +19768,8 @@
     },
     "searchInfo": {
       "textSnippet": "Don&#39;t miss Lucy Foley&#39;s new book, The Midnight Feast, coming June 18th!"
-    }
+    },
+    "price": 22.59
   },
   {
     "kind": "books#volume",
@@ -20966,7 +19842,8 @@
     },
     "searchInfo": {
       "textSnippet": "In A Thousand Mornings she explores, with startling clarity, humour and kindness, the mysteries of our daily experience."
-    }
+    },
+    "price": 55.86
   },
   {
     "kind": "books#volume",
@@ -21040,7 +19917,8 @@
     },
     "searchInfo": {
       "textSnippet": "A Hindi film star and an American missionary are twins separated at birth; a dwarf — a former circus clown — mistakes the missionary for the movie star. And stalking one of them is a serial killer..."
-    }
+    },
+    "price": 32.76
   },
   {
     "kind": "books#volume",
@@ -21116,7 +19994,8 @@
     },
     "searchInfo": {
       "textSnippet": "&quot;A celebration of literature, love, and the power of the human spirit, this warm, funny, tender, and thoroughly entertaining novel is the story of an English author living in the shadow of World War II and the writing project that will ..."
-    }
+    },
+    "price": 59.16
   },
   {
     "kind": "books#volume",
@@ -21189,7 +20068,8 @@
     },
     "searchInfo": {
       "textSnippet": "Jane is a supernova—witty and dazzling and unapologetically herself—and as the two work closely together, their relationship becomes a true friendship. In Jane, Merit sees the possibility of what a woman could be."
-    }
+    },
+    "price": 28.14
   },
   {
     "kind": "books#volume",
@@ -21263,135 +20143,8 @@
     },
     "searchInfo": {
       "textSnippet": "... <b>fiction</b> , pop medical , literary <b>fiction</b> ) . Represents : Nonfiction books , novels . Considers these <b>fiction</b> areas : Contemporary issues ; detective / police / crime ; historical ; literary ; mainstream / contemporary ; mystery&nbsp;..."
-    }
-  },
-  {
-    "kind": "books#volume",
-    "id": "whQjAQAAMAAJ",
-    "etag": "Nvqy8APDLtU",
-    "selfLink": "https://www.googleapis.com/books/v1/volumes/whQjAQAAMAAJ",
-    "volumeInfo": {
-      "title": "淡江評論",
-      "publishedDate": "2000",
-      "description": "A quarterly of comparative studies of Chinese and foreign literatures.",
-      "industryIdentifiers": [
-        {
-          "type": "OTHER",
-          "identifier": "IND:30000087838144"
-        }
-      ],
-      "readingModes": {
-        "text": false,
-        "image": false
-      },
-      "pageCount": 824,
-      "printType": "BOOK",
-      "categories": [
-        "Chinese literature"
-      ],
-      "maturityRating": "NOT_MATURE",
-      "allowAnonLogging": false,
-      "contentVersion": "0.3.1.0.preview.0",
-      "panelizationSummary": {
-        "containsEpubBubbles": false,
-        "containsImageBubbles": false
-      },
-      "imageLinks": {
-        "smallThumbnail": "http://books.google.com/books/content?id=whQjAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-        "thumbnail": "http://books.google.com/books/content?id=whQjAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-      },
-      "language": "en",
-      "previewLink": "http://books.google.com/books?id=whQjAQAAMAAJ&q=fiction&dq=fiction&hl=&cd=296&source=gbs_api",
-      "infoLink": "http://books.google.com/books?id=whQjAQAAMAAJ&dq=fiction&hl=&source=gbs_api",
-      "canonicalVolumeLink": "https://books.google.com/books/about/%E6%B7%A1%E6%B1%9F%E8%A9%95%E8%AB%96.html?hl=&id=whQjAQAAMAAJ"
     },
-    "saleInfo": {
-      "country": "NG",
-      "saleability": "NOT_FOR_SALE",
-      "isEbook": false
-    },
-    "accessInfo": {
-      "country": "NG",
-      "viewability": "NO_PAGES",
-      "embeddable": false,
-      "publicDomain": false,
-      "textToSpeechPermission": "ALLOWED",
-      "epub": {
-        "isAvailable": false
-      },
-      "pdf": {
-        "isAvailable": false
-      },
-      "webReaderLink": "http://play.google.com/books/reader?id=whQjAQAAMAAJ&hl=&source=gbs_api",
-      "accessViewStatus": "NONE",
-      "quoteSharingAllowed": false
-    },
-    "searchInfo": {
-      "textSnippet": "... <b>Fiction</b> 1971F 1969PF Crichton , Michael Segal , Boris The Andromeda Strain Present Thriller Alien The Omega Man Near Future Science <b>Fiction</b> Evolution 1974Pf Slaughter , EG Plague Ship Present Medical <b>Fiction</b> Consequence c 1975Tv&nbsp;..."
-    }
-  },
-  {
-    "kind": "books#volume",
-    "id": "QVpDAQAAMAAJ",
-    "etag": "qCaILI9+pNI",
-    "selfLink": "https://www.googleapis.com/books/v1/volumes/QVpDAQAAMAAJ",
-    "volumeInfo": {
-      "title": "The Critic",
-      "publishedDate": "1897",
-      "industryIdentifiers": [
-        {
-          "type": "OTHER",
-          "identifier": "UCAL:C3464239"
-        }
-      ],
-      "readingModes": {
-        "text": false,
-        "image": true
-      },
-      "pageCount": 434,
-      "printType": "BOOK",
-      "maturityRating": "NOT_MATURE",
-      "allowAnonLogging": false,
-      "contentVersion": "1.6.7.0.full.1",
-      "panelizationSummary": {
-        "containsEpubBubbles": false,
-        "containsImageBubbles": false
-      },
-      "imageLinks": {
-        "smallThumbnail": "http://books.google.com/books/content?id=QVpDAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-        "thumbnail": "http://books.google.com/books/content?id=QVpDAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-      },
-      "language": "en",
-      "previewLink": "http://books.google.com/books?id=QVpDAQAAMAAJ&pg=PA199&dq=fiction&hl=&cd=297&source=gbs_api",
-      "infoLink": "https://play.google.com/store/books/details?id=QVpDAQAAMAAJ&source=gbs_api",
-      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QVpDAQAAMAAJ"
-    },
-    "saleInfo": {
-      "country": "NG",
-      "saleability": "FREE",
-      "isEbook": true,
-      "buyLink": "https://play.google.com/store/books/details?id=QVpDAQAAMAAJ&rdid=book-QVpDAQAAMAAJ&rdot=1&source=gbs_api"
-    },
-    "accessInfo": {
-      "country": "NG",
-      "viewability": "ALL_PAGES",
-      "embeddable": true,
-      "publicDomain": true,
-      "textToSpeechPermission": "ALLOWED",
-      "epub": {
-        "isAvailable": false,
-        "downloadLink": "http://books.google.com/books/download/The_Critic.epub?id=QVpDAQAAMAAJ&hl=&output=epub&source=gbs_api"
-      },
-      "pdf": {
-        "isAvailable": false
-      },
-      "webReaderLink": "http://play.google.com/books/reader?id=QVpDAQAAMAAJ&hl=&source=gbs_api",
-      "accessViewStatus": "FULL_PUBLIC_DOMAIN",
-      "quoteSharingAllowed": false
-    },
-    "searchInfo": {
-      "textSnippet": "... <b>Fiction</b> , &quot; cannot fail to com- mand the admiring , if occasionally dissentient , consideration of everybody who wishes to understand the present predica- ment of our <b>fiction</b> . Incidentally Mr. Allen refutes the im- plication that&nbsp;..."
-    }
+    "price": 27.62
   },
   {
     "kind": "books#volume",
@@ -21468,70 +20221,8 @@
     },
     "searchInfo": {
       "textSnippet": "... ( <b>fiction</b> 73 per cent ) . &quot; The unusually large number of additions is due to the purchase at favorable prices of two libraries , the one composed of English , the other mainly of German works . About thirty per cent . of the acquisitions&nbsp;..."
-    }
-  },
-  {
-    "kind": "books#volume",
-    "id": "tUAKDhps0r4C",
-    "etag": "1258aVTyyew",
-    "selfLink": "https://www.googleapis.com/books/v1/volumes/tUAKDhps0r4C",
-    "volumeInfo": {
-      "title": "Publishers' Circular and General Record of British and Foreign Literature, and Booksellers' Record",
-      "publishedDate": "1895",
-      "industryIdentifiers": [
-        {
-          "type": "OTHER",
-          "identifier": "ONB:+Z329273006"
-        }
-      ],
-      "readingModes": {
-        "text": false,
-        "image": true
-      },
-      "pageCount": 772,
-      "printType": "BOOK",
-      "maturityRating": "NOT_MATURE",
-      "allowAnonLogging": false,
-      "contentVersion": "0.1.1.0.full.1",
-      "panelizationSummary": {
-        "containsEpubBubbles": false,
-        "containsImageBubbles": false
-      },
-      "imageLinks": {
-        "smallThumbnail": "http://books.google.com/books/content?id=tUAKDhps0r4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-        "thumbnail": "http://books.google.com/books/content?id=tUAKDhps0r4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-      },
-      "language": "en",
-      "previewLink": "http://books.google.com/books?id=tUAKDhps0r4C&pg=PA174&dq=fiction&hl=&cd=299&source=gbs_api",
-      "infoLink": "https://play.google.com/store/books/details?id=tUAKDhps0r4C&source=gbs_api",
-      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=tUAKDhps0r4C"
     },
-    "saleInfo": {
-      "country": "NG",
-      "saleability": "FREE",
-      "isEbook": true,
-      "buyLink": "https://play.google.com/store/books/details?id=tUAKDhps0r4C&rdid=book-tUAKDhps0r4C&rdot=1&source=gbs_api"
-    },
-    "accessInfo": {
-      "country": "NG",
-      "viewability": "ALL_PAGES",
-      "embeddable": true,
-      "publicDomain": true,
-      "textToSpeechPermission": "ALLOWED",
-      "epub": {
-        "isAvailable": false,
-        "downloadLink": "http://books.google.com/books/download/Publishers_Circular_and_General_Record_o.epub?id=tUAKDhps0r4C&hl=&output=epub&source=gbs_api"
-      },
-      "pdf": {
-        "isAvailable": false
-      },
-      "webReaderLink": "http://play.google.com/books/reader?id=tUAKDhps0r4C&hl=&source=gbs_api",
-      "accessViewStatus": "FULL_PUBLIC_DOMAIN",
-      "quoteSharingAllowed": false
-    },
-    "searchInfo": {
-      "textSnippet": "... <b>fiction</b> , to ancient Egyptian tales , and the &#39; fantastic inventions &#39; of Arab and Persian story - tellers , she proceeds to tell us what <b>fiction</b> is . <b>Fiction</b> , &#39; wrote Miss Edwards , whether in its rudest beginnings or at its highest&nbsp;..."
-    }
+    "price": 18.39
   },
   {
     "kind": "books#volume",
@@ -21596,6 +20287,7 @@
     },
     "searchInfo": {
       "textSnippet": "... <b>fiction</b> 226 Armenian non - <b>fiction</b> 58 Bulgarian non - <b>fiction</b> 1 French <b>fiction</b> 255 15 297 French non - <b>fiction</b> 99 1 26 German <b>fiction</b> 13 4 German non - <b>fiction</b> 14 Greek , Classical 18 Greek , Modern , <b>fiction</b> 57 3 Greek , Modern&nbsp;..."
-    }
+    },
+    "price": 19.07
   }
 ]
