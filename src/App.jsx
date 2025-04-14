@@ -4,6 +4,7 @@ import {Router, Routes, Route } from 'react-router';
 import Header from './Components/Header';
 import Footer from './Components/Footer';
 import AdminRoute from './Pages/AdminRoute';
+import BookDetails from './Components/BookCard';
 import Home from './Pages/Home';
 import About from './Pages/About';
 import Shop from './Pages/Shop';
@@ -38,6 +39,7 @@ function App() {
             <Route path="/about" element={<About />} />
             <Route path="/shop" element={<Shop />} />
             <Route path="/login" element={<Login />} />
+            <Route path="/book/:id" element={<BookDetails />} />
             <Route path="/admin" element={<AdminRoute/>} />
           </Routes>
 
