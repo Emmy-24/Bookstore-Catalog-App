@@ -11,9 +11,6 @@
     color: #004aad;
     margin-bottom: 2rem;
 }
-.books-area {
-    display: grid;
-}
 .search-area {
     color: Red;
 }
@@ -47,22 +44,7 @@
 .search-bar button:hover {
     background-color: #005ec2;
 }
-  
-.book-card {
-    border: 1px solid #ddd;
-    border-left: 5px solid #0077ff;
-    border-radius: 8px;
-    padding: 1rem;
-    margin-bottom: 1.5rem;
-    background-color: #ffffff;
-    display: flex;
-    gap: 1rem;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
-}
 
-.book-image img {
-    border-radius: 4px;
-}
   
 .book-info h2 {
     margin: 0;
@@ -158,3 +140,84 @@
   border-color: #007bff;
   box-shadow: 0 0 5px rgba(0, 123, 255, 0.4);
 }
+
+.shop-container {
+  padding: 2rem;
+}
+
+.section-title {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 2rem;
+  font-weight: bold;
+}
+
+.book-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
+  gap: 1.5rem;
+}
+
+.book-card {
+  border: 1px solid #ddd;
+  border-radius: 0.5rem;
+  text-align: center;
+  transition: transform 0.2s ease;
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+  height: 100%; 
+}
+
+
+.book-card:hover {
+  transform: scale(1.02);
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+}
+
+.book-image {
+  width: 100%;
+  object-fit: contain;
+  margin-bottom: 1rem;
+}
+
+.book-title {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 0.5rem 0;
+}
+
+.book-category {
+  font-size: 0.875rem;
+  color: #666;
+  margin-bottom: 0.5rem;
+}
+
+.book-price {
+  color: #c0392b;
+  font-weight: bold;
+  font-size: 1rem;
+  margin-bottom: 0.75rem;
+}
+
+.details-button{
+  display: block;
+  width: 100%;
+  padding: 0.5rem;
+  font-size: 0.875rem;
+  border: none;
+  border-radius: 0.25rem;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.details-button {
+  background-color: #c0392b;
+  color: white;
+}
+
+.details-button:hover {
+  background-color: #a93226;
+}
+
+
