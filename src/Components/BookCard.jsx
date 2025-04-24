@@ -38,9 +38,13 @@ const BookDetails = () => {
                 <a href={info.previewLink} target="_blank" rel="noreferrer" className="styled-link">Preview</a>
                 <a href={info.infoLink} target="_blank" rel="noreferrer" className="styled-link">More Info</a>
               </div>
-              <button className="add-to-cart-button">Add to Cart</button>
-              <Link to="/books" className="back-link">← Back to Books</Link>
-              <Link to="/cart" className="back-link">Go to Cart</Link>
+              <div>
+              <Link to="/cart">
+                <button className="add-to-cart-button">Go to Cart</button>
+              </Link>
+                <Link to="/books" className="back-link">← Back to Books</Link>
+              </div>
+              
             </div>
           </div>
         </div>
