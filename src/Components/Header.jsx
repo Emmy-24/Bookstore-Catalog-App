@@ -1,15 +1,15 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { Link } from 'react-router-dom';
-import logo from "../images/logo.jpeg"
+import logo from "../images/logo.png"
 import cart from "../images/cart.svg"
 import styled from "styled-components";
 
 
 const Logo = styled.img`
-  width: 2.25rem;
+  width: 100%;
 `;
 const Cart = styled.img`
-  width: 1.8rem;
+  width: 100%;
 `;
 const Header = () => {
     const [isOpen, setIsOpen] = useState(false);

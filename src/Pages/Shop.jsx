@@ -138,7 +138,7 @@ const Shop = () => {
   };
 
   return (
-    <div className="shop-container px-4">
+    <div className="shop-container px-4 mb-4">
       <div className="flex flex-col md:flex-row items-center gap-4 mb-6 mt-6">
         <div className="flex w-full md:w-1/2 gap-2">
           <input

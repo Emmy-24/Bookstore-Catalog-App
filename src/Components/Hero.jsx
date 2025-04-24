@@ -16,7 +16,7 @@ const Hero = () => {
           <p className="text-gray-600 mb-6 max-w-xl">
             It's time to update your reading list with some of the latest and greatest releases in the literary world. From heart-pumping thrillers to captivating memoirs, this week's new releases offer something for everyone.
           </p>
-          <Link to="/shop">
+          <Link to="/books">
             <button className="bg-blue-600 text-white px-6 py-3 rounded-xl text-lg hover:bg-blue-700 transition">
               Browse Catalog
             </button>

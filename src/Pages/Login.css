@@ -3,7 +3,7 @@
     position: relative;
     width: 420px;
     height: 450px;
-    background: transparent;
+    background: linear-gradient(135deg, var(--Blood-red), var(--Cornell-red));
     border: 2px solid rgba(255, 255, 255, .1);
     backdrop-filter: blur(20px);
     border-radius: 10px;
@@ -49,6 +49,7 @@
 form h1 {
     font-size: 36px;
     text-align: center;
+    color: #e0e0e0;
 }
 
 form .input-box {
