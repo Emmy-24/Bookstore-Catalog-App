@@ -1,7 +1,13 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { FaGithub, FaTwitter, FaInstagram, FaLinkedin } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
+import logo from "../images/logo.jpeg"
+import styled from "styled-components";
 
+
+const Logo = styled.img`
+  width: 2.25rem;
+`;
 const Header = () => {
     const [isOpen, setIsOpen] = useState(false);
     const menuRef = useRef(null);
@@ -23,12 +29,14 @@ const Header = () => {
     const closeMenu = () => setIsOpen(false);
 
     return (
-        <nav className="bg-white py-4 relative">
-            <div className="container mx-auto flex justify-between items-center">
-                <Link to="/" className="text-blue-600 text-4xl hover:text-gray-400 font-semibold">
-                    Bookstore Catalog
-                </Link>
+        <nav className="bg-white py-4 relative flex ">
 
+            
+            <div className="container mx-auto flex justify-between items-center">
+                <Link to="/" className="text-blue-600 text-2xl sm:text-3xl flex font-bold hover:text-blue-400 transition-colors duration-300">
+                        <Logo src={logo} alt="Logo" className="w-10 h-10" />
+                        Bookstore Catalog
+                </Link>
                 <button
                     onClick={() => setIsOpen(!isOpen)}
                     className="text-blue-600 focus:outline-none md:hidden z-50"

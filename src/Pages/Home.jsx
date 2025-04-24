@@ -1,16 +1,16 @@
 import React from 'react'
-import Hero from './Hero'
-import Topseller from './Topseller'
-import Recommended from './Recommended'
+import Hero from '../Components/Hero'
+import Recommended from '../Components/Recommended'
+import Top from '../Components/Top'
 
 const Home = () => {
   return (
-    <>
-    <Hero/>
-    <Topseller/>
-    <Recommended/>
-    </>
-  )
-}
+    <div>
+      <Hero/>
+      <Top/>
+      <Recommended/>
+    </div>
+  );
+};
 
-export default Home
+export default Home;
