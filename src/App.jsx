@@ -9,7 +9,7 @@ import Home from './Pages/Home';
 import About from './Pages/About';
 import Shop from './Pages/Shop';
 import Login from './Pages/Login';
-import Hero from './Pages/Hero';
+import Cart from './Components/Cart';
 
 
 const AuthContext = createContext();
@@ -35,9 +35,10 @@ function App() {
         <Header />
 
           <Routes>
-            <Route path="/" element={<Hero/>} />
+            <Route path="/" element={<Home/>} />
             <Route path="/about" element={<About />} />
-            <Route path="/shop" element={<Shop />} />
+            <Route path="/cart" element={<Cart/>}/>
+            <Route path="/books" element={<Shop />} />
             <Route path="/login" element={<Login />} />
             <Route path="/book/:id" element={<BookDetails />} />
             <Route path="/admin" element={<AdminRoute/>} />

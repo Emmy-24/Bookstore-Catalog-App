@@ -1,7 +1,16 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { FaGithub, FaTwitter, FaInstagram, FaLinkedin } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
+import logo from "../images/logo.png"
+import cart from "../images/cart.svg"
+import styled from "styled-components";
 
+
+const Logo = styled.img`
+  width: 100%;
+`;
+const Cart = styled.img`
+  width: 100%;
+`;
 const Header = () => {
     const [isOpen, setIsOpen] = useState(false);
     const menuRef = useRef(null);
@@ -23,12 +32,14 @@ const Header = () => {
     const closeMenu = () => setIsOpen(false);
 
     return (
-        <nav className="bg-white py-4 relative">
-            <div className="container mx-auto flex justify-between items-center">
-                <Link to="/" className="text-blue-600 text-4xl hover:text-gray-400 font-semibold">
-                    Bookstore Catalog
-                </Link>
+        <nav className="bg-white py-4 relative flex ">
 
+            
+            <div className="container mx-auto flex justify-between items-center">
+                <Link to="/" className="text-blue-600 text-2xl sm:text-3xl flex font-bold hover:text-blue-400 transition-colors duration-300">
+                        <Logo src={logo} alt="Logo" className="w-10 h-10" />
+                        DEMC
+                </Link>
                 <button
                     onClick={() => setIsOpen(!isOpen)}
                     className="text-blue-600 focus:outline-none md:hidden z-50"
@@ -44,7 +55,6 @@ const Header = () => {
                         </svg>
                     )}
                 </button>
-                {/* Updated Menu Section */}
                 <div
                     ref={menuRef}
                     className={`md:flex md:items-center md:space-x-4 absolute md:static left-0 w-full md:w-auto
@@ -62,11 +72,11 @@ const Header = () => {
                                 About
                             </Link>
                             <Link
-                                to="shop"
+                                to="books"
                                 onClick={closeMenu}
                                 className="py-2 px-4 text-white md:text-blue-600 hover:text-gray-400 hover:underline text-xl"
                             >
-                                Shop
+                                Catalog
                             </Link>
                             <Link
                                 to="login"
@@ -74,6 +84,13 @@ const Header = () => {
                                 className="py-2 px-4 text-white md:text-blue-600 hover:text-gray-400 hover:underline text-xl"
                             >
                                 Login
+                            </Link>
+                            <Link
+                                to="cart"
+                                onClick={closeMenu}
+                                className="py-2 px-4 text-white md:text-blue-600 hover:text-gray-400 hover:underline text-xl"
+                            >
+                                <Cart src={cart} alt="Cart" className="w-10 h-10" />
                             </Link>
                         </div>
 
@@ -86,7 +103,6 @@ const Header = () => {
 };
 
 export default Header;
-// flowing narbar it scrolls op with it content
 
 
 

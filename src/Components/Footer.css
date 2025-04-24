@@ -1,0 +1,93 @@
+
+.footer {
+    background:linear-gradient(135deg, #660708, #A4161A);
+    padding: 4rem 2rem;
+    color: #e2e8f0;
+    font-family: "Inter", sans-serif;
+  }
+  
+  .footer-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .footer-branding {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 2rem;
+  }
+  
+  .footer-logo {
+    width: 2.25rem;
+  }
+  
+  .footer-brand-text {
+    font-size: 1.5rem;
+    font-weight: 700;
+    letter-spacing: 0.05rem;
+  }
+  
+  .footer-nav-links {
+    display: flex;
+    gap: 2rem;
+    margin-bottom: 2.5rem;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .footer-nav-link {
+    color: #cbd5e1;
+    text-decoration: none;
+    font-weight: 500;
+    position: relative;
+    transition: color 0.3s;
+  }
+  
+  .footer-nav-link:hover {
+    color: #fff;
+  }
+  
+  .footer-nav-link::after {
+    content: "";
+    display: block;
+    width: 0%;
+    height: 2px;
+    background: #fff;
+    transition: width 0.3s;
+    position: absolute;
+    bottom: -4px;
+    left: 0;
+  }
+  
+  .footer-nav-link:hover::after {
+    width: 100%;
+  }
+  
+  .footer-socials {
+    display: flex;
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+  }
+  
+  .footer-socials a img {
+    width: 1.5rem;
+    height: 1.5rem;
+    filter: grayscale(100%) brightness(80%);
+    transition: filter 0.3s;
+  }
+  
+  .footer-socials a img:hover {
+    filter: brightness(150%);
+  }
+  
+  .footer-copyright {
+    font-size: 0.875rem;
+    color: #94a3b8;
+    text-align: center;
+    margin-top: 1.5rem;
+  }
+  

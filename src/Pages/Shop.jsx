@@ -13,7 +13,6 @@ const Shop = () => {
   const [sortOption, setSortOption] = useState("title");
   const [message, setMessage] = useState("");
 
-
   useEffect(() => {
     fetch("/books.json")
       .then((response) => response.json())
@@ -42,7 +41,7 @@ const Shop = () => {
         return title.includes(query.toLowerCase()) || authors.includes(query.toLowerCase());
       });
       setBooks(filtered);
-  
+
       if (filtered.length === 0) {
         setMessage("No books found matching your search.");
       } else {
@@ -50,7 +49,6 @@ const Shop = () => {
       }
     }
   };
-  
 
   useEffect(() => {
     handleSearch();
@@ -58,6 +56,32 @@ const Shop = () => {
 
   const handleSortChange = (e) => {
     setSortOption(e.target.value);
+  };
+
+  const handleAddToCart = (book) => {
+    console.log("Adding to cart:", book); // Debugging line
+    const cart = JSON.parse(localStorage.getItem("cart")) || [];
+
+    const existingBook = cart.find((item) => item.id === book.id);
+
+    if (existingBook) {
+      existingBook.quantity += 1;
+    } else {
+      cart.push({ ...book, quantity: 1 });
+    }
+
+    localStorage.setItem("cart", JSON.stringify(cart));
+
+    setMessage(`"${book.volumeInfo.title}" added to cart.`);
+    setTimeout(() => setMessage(""), 2000);
+  };
+
+  const removeFromCart = (bookId) => {
+    const cart = JSON.parse(localStorage.getItem("cart")) || [];
+    const updatedCart = cart.filter((item) => item.id !== bookId);
+    localStorage.setItem("cart", JSON.stringify(updatedCart));
+    setMessage("Item removed from cart.");
+    setTimeout(() => setMessage(""), 2000);
   };
 
   const sortedBooks = () => {
@@ -114,7 +138,7 @@ const Shop = () => {
   };
 
   return (
-    <div className="shop-container px-4">
+    <div className="shop-container px-4 mb-4">
       <div className="flex flex-col md:flex-row items-center gap-4 mb-6 mt-6">
         <div className="flex w-full md:w-1/2 gap-2">
           <input

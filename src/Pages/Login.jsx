@@ -25,13 +25,8 @@ const Login = () => {
 
     if (email && password) {
       setUser({ email });
-
-      if (email.includes('@bookstore.com')) {
-        navigate('/admin');
-      } else {
-        navigate('/shop');
+      navigate('/books');
       }
-    }
   };
 
   return (
