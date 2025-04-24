@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-import { Link } from "react-router-dom";
 
 const Cart = () => {
   const [cartItems, setCartItems] = useState([]);
@@ -19,15 +18,28 @@ const Cart = () => {
   };
 
   const handleUpdateQuantity = (bookId, quantity) => {
-    const updatedCart = cartItems.map((item) => {
-      if (item.id === bookId) {
-        return { ...item, quantity };
-      }
-      return item;
-    });
+    if (quantity < 1) {
+      return;
+    }
+  
+    const updatedCart = cartItems
+      .map((item) => {
+        if (item.id === bookId) {
+          if (quantity === 0) {
+            return null;
+          }
+          return { ...item, quantity }; 
+        }
+        return item;
+      })
+      .filter((item) => item !== null); 
+  
+
     localStorage.setItem("cart", JSON.stringify(updatedCart));
+    
     setCartItems(updatedCart);
   };
+  
 
   const calculateTotal = () => {
     return cartItems.reduce((total, item) => total + (item.price || 0) * item.quantity, 0);
@@ -35,8 +47,6 @@ const Cart = () => {
 
   return (
     <div className="cart-container px-4 py-6">
-      <h2 className="text-2xl font-bold text-center mb-6">Your Cart</h2>
-
       {message && <p className="text-red-500 text-center">{message}</p>}
 
       {cartItems.length === 0 ? (
@@ -70,6 +80,12 @@ const Cart = () => {
                   min="1"
                 />
                 <button
+                  className="px-4 py-2 bg-gray-500 text-white rounded-lg hover:bg-red-600"
+                  onClick={() => handleUpdateQuantity(item.id, item.quantity - 1)}
+                >
+                  -
+                </button>
+                <button
                   className="px-4 py-2 bg-red-500 text-white rounded-lg hover:bg-red-600"
                   onClick={() => handleRemove(item.id)}
                 >
@@ -83,14 +99,12 @@ const Cart = () => {
 
       {cartItems.length > 0 && (
         <div className="checkout-section mt-6 text-center">
-          <p className="text-lg font-semibold">Total: ₦{calculateTotal().toLocaleString()}</p>
           <div className="mt-4">
-            <Link
-              to="/checkout"
+            <button
               className="bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700"
             >
-              Proceed to Checkout
-            </Link>
+              Total: ₦{calculateTotal().toLocaleString()}
+            </button>
           </div>
         </div>
       )}
