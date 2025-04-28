@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import { Link } from 'react-router-dom';
 
 const Recommended = () => {
   const [books, setBooks] = useState([]);
@@ -23,15 +24,19 @@ const Recommended = () => {
             const author = authors?.[0] || 'Unknown Author';
 
             return (
-              <div key={id || index} className="book-image bg-white rounded-lg shadow-lg p-4 flex justify-center items-center flex-col">
-                <img
-                  src={image}
-                  alt={title}
-                  className="w-32 h-48 object-cover mb-4"
-                />
-                <h3 className="font-semibold text-lg mb-2">{title}</h3>
-                <p className="text-gray-600">{author}</p>
-              </div>
+              <Link
+                  to={`/book/${book.id}`}
+              >
+                <div key={id || index} className="book-image bg-white rounded-lg shadow-lg p-4 flex justify-center items-center flex-col">
+                  <img
+                    src={image}
+                    alt={title}
+                    className="w-32 h-48 object-cover mb-4"
+                  />
+                  <h3 className="font-semibold text-lg mb-2">{title}</h3>
+                  <p className="text-gray-600">{author}</p>
+                </div>
+              </Link>
             );
             
           })}

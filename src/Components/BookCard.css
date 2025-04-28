@@ -81,6 +81,12 @@
     cursor: pointer;
     margin-top: 1rem;
     margin-right: 2rem;
+    transition: transform 0.1s ease, background-color 0.2s ease;
+  }
+
+  .add-to-cart-button:active {
+    transform: scale(0.9);
+    background-color: darkblue;
   }
   
   .add-to-cart-button:hover {

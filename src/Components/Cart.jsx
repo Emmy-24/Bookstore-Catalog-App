@@ -56,14 +56,14 @@ const Cart = () => {
           {cartItems.map((item) => (
             <div key={item.id} className="cart-item bg-white rounded-lg shadow-md p-4 flex flex-col items-center text-center">
               <img
-                src={item.volumeInfo.imageLinks?.thumbnail || 'https://via.placeholder.com/150'}
+                src={item.volumeInfo.imageLinks?.thumbnail}
                 alt={item.volumeInfo.title}
                 className="w-32 h-48 object-cover mb-4"
               />
               <h3 className="text-lg font-semibold text-gray-800 mb-2">{item.volumeInfo.title}</h3>
               <p className="text-gray-600 mb-2">{item.volumeInfo.authors?.join(", ") || "Unknown Author"}</p>
               <p className="text-green-600 font-bold text-md mb-2">
-                ₦{item.price?.toLocaleString() || "0.00"}
+                ${item.price?.toLocaleString() || "0.00"}
               </p>
               <div className="flex justify-center items-center gap-4">
                 <button
@@ -103,7 +103,7 @@ const Cart = () => {
             <button
               className="bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700"
             >
-              Total: ₦{calculateTotal().toLocaleString()}
+              Total: ${calculateTotal().toLocaleString()}
             </button>
           </div>
         </div>

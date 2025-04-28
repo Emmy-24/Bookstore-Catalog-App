@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { useParams, Link } from "react-router-dom";
+import { addToCart } from "../Components/AddToCart";
 import "./BookCard.css";
 
 const BookDetails = () => {
@@ -39,9 +40,7 @@ const BookDetails = () => {
                 <a href={info.infoLink} target="_blank" rel="noreferrer" className="styled-link">More Info</a>
               </div>
               <div>
-              <Link to="/cart">
-                <button className="add-to-cart-button">Go to Cart</button>
-              </Link>
+                <button className="add-to-cart-button" onClick={() => addToCart(book)}>Add to Cart</button>
                 <Link to="/books" className="back-link">← Back to Books</Link>
               </div>
               
