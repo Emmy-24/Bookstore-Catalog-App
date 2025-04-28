@@ -1,5 +1,6 @@
 import React, { useEffect, useState, useRef } from "react";
 import { Link } from "react-router-dom";
+import { addToCart } from "../Components/AddToCart";
 
 const Shop = () => {
   const [books, setBooks] = useState([]);
@@ -9,9 +10,10 @@ const Shop = () => {
   const [prices, setPrices] = useState("");
   const [filteredBooks, setFilteredBooks] = useState("");
   const [query, setQuery] = useState("");
+  const [message, setMessage] = useState("");
   const [allBooks, setAllBooks] = useState([]);
   const [sortOption, setSortOption] = useState("title");
-  const [message, setMessage] = useState("");
+  
 
   useEffect(() => {
     fetch("/books.json")
@@ -59,21 +61,7 @@ const Shop = () => {
   };
 
   const handleAddToCart = (book) => {
-    console.log("Adding to cart:", book); // Debugging line
-    const cart = JSON.parse(localStorage.getItem("cart")) || [];
-
-    const existingBook = cart.find((item) => item.id === book.id);
-
-    if (existingBook) {
-      existingBook.quantity += 1;
-    } else {
-      cart.push({ ...book, quantity: 1 });
-    }
-
-    localStorage.setItem("cart", JSON.stringify(cart));
-
-    setMessage(`"${book.volumeInfo.title}" added to cart.`);
-    setTimeout(() => setMessage(""), 2000);
+    addToCart(book, setMessage);
   };
 
   const removeFromCart = (bookId) => {
@@ -179,39 +167,43 @@ const Shop = () => {
           const image = info.imageLinks?.thumbnail;
 
           return (
-            <div
-              key={`${book.id}-${index}`}
-              className="book-card bg-white rounded-2xl shadow-md p-4 flex flex-col items-center text-center transition-transform transform hover:scale-105 h-[420px] justify-between"
+            <Link
+              to={`/book/${book.id}`}
             >
-              {image && (
-                <div className="book-image">
-                  <img src={image} alt={info.title} className="w-32 h-48 object-cover mb-4" />
+              <div
+                key={`${book.id}-${index}`}
+                className="book-card bg-white rounded-2xl shadow-md p-4 flex flex-col items-center text-center transition-transform transform hover:scale-105 h-[420px] justify-between"
+              >
+                {image && (
+                  <div className="book-image">
+                    <img src={image} alt={info.title} className="w-32 h-48 object-cover mb-4" />
+                  </div>
+                )}
+                <h3 className="text-lg font-semibold text-gray-800 mb-1 h-14 overflow-hidden text-ellipsis line-clamp-2">
+                  {info.title}
+                </h3>
+                <p className="text-gray-600 text-md mb-1">
+                  {info.authors?.[0] || "Author"}
+                </p>
+                <p className="text-green-600 font-bold text-md mb-3">
+                  ${book.price?.toLocaleString() || "0.00"}
+                </p>
+                <div className="flex justify-center gap-1 mt-2 flex-nowrap">
+                  <Link
+                    to={`/book/${book.id}`}
+                    className="bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 text-sm whitespace-nowrap"
+                  >
+                    MORE DETAILS
+                  </Link>
+                  <button
+                    onClick={() => addToCart(book)}
+                    className="bg-green-600 text-white px-4 py-2 rounded-lg hover:bg-green-700 active:scale-90 transition-transform duration-100 text-sm whitespace-nowrap cursor-pointer"
+                  >
+                    ADD TO CART
+                  </button>
                 </div>
-              )}
-              <h3 className="text-lg font-semibold text-gray-800 mb-1 h-14 overflow-hidden text-ellipsis line-clamp-2">
-                {info.title}
-              </h3>
-              <p className="text-gray-600 text-md mb-1">
-                {info.authors?.[0] || "Author"}
-              </p>
-              <p className="text-green-600 font-bold text-md mb-3">
-                ₦{book.price?.toLocaleString() || "0.00"}
-              </p>
-              <div className="flex justify-center gap-1 mt-2 flex-nowrap">
-                <Link
-                  to={`/book/${book.id}`}
-                  className="bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 text-sm whitespace-nowrap"
-                >
-                  MORE DETAILS
-                </Link>
-                <button
-                  onClick={() => handleAddToCart(book)}
-                  className="bg-green-600 text-white px-4 py-2 rounded-lg hover:bg-green-700 text-sm whitespace-nowrap"
-                >
-                  ADD TO CART
-                </button>
               </div>
-            </div>
+            </Link>
           );
         })}
       </div>
